@@ -1,0 +1,1467 @@
+{
+  "categories": [
+    {
+      "name": "Poêles à granulés",
+      "slug": "poeles-a-granules",
+      "description": "Poêles à granulés (pellets) : rendement élevé, programmation, autonomie et confort d'utilisation."
+    },
+    {
+      "name": "Poêles à bois",
+      "slug": "poeles-a-bois",
+      "description": "Poêles à bois bûches : chaleur rayonnante, foyer fermé et flamme visible."
+    },
+    {
+      "name": "Inserts & foyers",
+      "slug": "inserts",
+      "description": "Inserts et foyers fermés pour transformer une cheminée ouverte en chauffage performant."
+    }
+  ],
+  "products": [
+    {
+      "source_id": 900000,
+      "name": "Invicta Lodi 10",
+      "slug": "invicta-lodi-10",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Acier, 108 kg, Flamme verte 6 étoiles",
+      "description": "<p>Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Acier, 108 kg, Flamme verte 6 étoiles</p><ul><li>Puissance : 10 kW</li><li>Rendement : 86 %</li><li>Volume de chauffe : 300 m³</li><li>Surface conseillée : 120 m²</li><li>Matériau : Acier</li><li>Poids : 108 kg</li></ul>",
+      "permalink": null,
+      "price": 1919.99,
+      "regular_price": 1919.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "108",
+      "formatted_weight": "108 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10/01.jpg",
+          "alt": "Invicta Lodi 10",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-flames-in-a-metal-furnace-39185938/",
+          "photographer": "Blackcurrant Great"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10/02.jpg",
+          "alt": "Invicta Lodi 10",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-fireplace-18691362/",
+          "photographer": "Camilo Laverde"
+        }
+      ]
+    },
+    {
+      "source_id": 900001,
+      "name": "Sannover Anita 7,6 kW Steel",
+      "slug": "sannover-anita-7-6-kw-steel",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7,6 kW, 60 m², Granulés, Rendement 88 %, Diffusion de la chaleur une pièce, Télécommande, Acier, 50 kg",
+      "description": "<p>Poêle à granulés, 7,6 kW, 60 m², Granulés, Rendement 88 %, Diffusion de la chaleur une pièce, Télécommande, Acier, 50 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7,6 kW</li><li>Rendement : 88 %</li><li>Surface conseillée : 60 m²</li><li>Matériau : Acier</li><li>Poids : 50 kg</li></ul>",
+      "permalink": null,
+      "price": 595.99,
+      "regular_price": 595.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "50",
+      "formatted_weight": "50 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel/01.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-a-fireplace-24829749/",
+          "photographer": "Chris Door"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel/02.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/a-mix-of-dried-bark-and-roots-18337903/",
+          "photographer": "Arnaldo Silva"
+        }
+      ]
+    },
+    {
+      "source_id": 900002,
+      "name": "FM Poêle à bois",
+      "slug": "fm-poele-a-bois",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à bois, Bûches, Bois et charbon de bois, Foyer fermé (type 1), Acier",
+      "description": "<p>Poêle à bois, Bûches, Bois et charbon de bois, Foyer fermé (type 1), Acier</p><ul><li>Matériau : Acier</li></ul>",
+      "permalink": null,
+      "price": 325.63,
+      "regular_price": 325.63,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-bois"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/fm-poele-a-bois/01.jpg",
+          "alt": "FM Poêle à bois",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-a-fireplace-24829749/",
+          "photographer": "Chris Door"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/fm-poele-a-bois/02.jpg",
+          "alt": "FM Poêle à bois",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-fireplace-18691362/",
+          "photographer": "Camilo Laverde"
+        }
+      ]
+    },
+    {
+      "source_id": 900003,
+      "name": "Invicta Lodi 8",
+      "slug": "invicta-lodi-8",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 8 kW, Volume de chauffe 240 m³, 100 m², Rendement 90 %, Prise d'air extérieure, Acier, 108 kg, Flamme verte 7 étoiles",
+      "description": "<p>Poêle à granulés, 8 kW, Volume de chauffe 240 m³, 100 m², Rendement 90 %, Prise d'air extérieure, Acier, 108 kg, Flamme verte 7 étoiles</p><ul><li>Puissance : 8 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 240 m³</li><li>Surface conseillée : 100 m²</li><li>Matériau : Acier</li><li>Poids : 108 kg</li></ul>",
+      "permalink": null,
+      "price": 2039.99,
+      "regular_price": 2039.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "108",
+      "formatted_weight": "108 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-8/01.jpg",
+          "alt": "Invicta Lodi 8",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/traditional-turkish-stove-with-teapots-and-wood-36803100/",
+          "photographer": "Zülfü Demir📸"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-8/02.jpg",
+          "alt": "Invicta Lodi 8",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/woman-in-the-corner-of-a-warm-and-cozy-living-area-6043981/",
+          "photographer": "Marta"
+        }
+      ]
+    },
+    {
+      "source_id": 900004,
+      "name": "Godin Poêle à granulés Estray",
+      "slug": "godin-poele-a-granules-estray",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 9 kW, Rendement 91 %, Wi-Fi, Acier, 116 kg, Flamme verte 7 étoiles, Fabriqué en France",
+      "description": "<p>Poêle à granulés, 9 kW, Rendement 91 %, Wi-Fi, Acier, 116 kg, Flamme verte 7 étoiles, Fabriqué en France</p><ul><li>Classe énergétique : A+</li><li>Puissance : 9 kW</li><li>Rendement : 91 %</li><li>Matériau : Acier</li><li>Poids : 116 kg</li></ul>",
+      "permalink": null,
+      "price": 3853.66,
+      "regular_price": 3853.66,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "116",
+      "formatted_weight": "116 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/godin-poele-a-granules-estray/01.jpg",
+          "alt": "Godin Poêle à granulés Estray",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/fireplace-in-an-old-kitchen-14680655/",
+          "photographer": "Ravi Kant"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/godin-poele-a-granules-estray/02.jpg",
+          "alt": "Godin Poêle à granulés Estray",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/metal-chimney-with-galvanized-cover-12271450/",
+          "photographer": "Barış Yiğit"
+        }
+      ]
+    },
+    {
+      "source_id": 900005,
+      "name": "MCZ Feel Comfort Air Matic 12 Core R Maestro+ 12 kW",
+      "slug": "mcz-feel-comfort-air-matic-12-core-r-maestro-12-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 12 kW, Métal, Régulation Maestro, connecté",
+      "description": "<p>Poêle à granulés, 12 kW, Métal, Régulation Maestro, connecté</p><ul><li>Classe énergétique : A+</li><li>Puissance : 12 kW</li><li>Matériau : Métal</li></ul>",
+      "permalink": null,
+      "price": 4706.91,
+      "regular_price": 4706.91,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/mcz-feel-comfort-air-matic-12-core-r-maestro-12-kw/01.jpg",
+          "alt": "MCZ Feel Comfort Air Matic 12 Core R Maestro+ 12 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/smoke-coming-out-from-a-metal-pipe-8567156/",
+          "photographer": "Alexey Chudin"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/mcz-feel-comfort-air-matic-12-core-r-maestro-12-kw/02.jpg",
+          "alt": "MCZ Feel Comfort Air Matic 12 Core R Maestro+ 12 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/light-streaks-at-bight-9665330/",
+          "photographer": "Vyacheslav Bobin"
+        }
+      ]
+    },
+    {
+      "source_id": 900006,
+      "name": "La Nordica P70 Air Plus",
+      "slug": "la-nordica-p70-air-plus",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Insert à granulés, 10 kW, Volume de chauffe 287 m³, Rendement 92 %, Diffusion de la chaleur plusieurs pièces, Thermostat, 131 kg, 15a B-VG",
+      "description": "<p>Insert à granulés, 10 kW, Volume de chauffe 287 m³, Rendement 92 %, Diffusion de la chaleur plusieurs pièces, Thermostat, 131 kg, 15a B-VG</p><ul><li>Puissance : 10 kW</li><li>Rendement : 92 %</li><li>Volume de chauffe : 287 m³</li><li>Poids : 131 kg</li></ul>",
+      "permalink": null,
+      "price": 3829.0,
+      "regular_price": 3829.0,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "131",
+      "formatted_weight": "131 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "inserts"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-p70-air-plus/01.jpg",
+          "alt": "La Nordica P70 Air Plus",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-a-fireplace-24829749/",
+          "photographer": "Chris Door"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-p70-air-plus/02.jpg",
+          "alt": "La Nordica P70 Air Plus",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-fireplace-18691362/",
+          "photographer": "Camilo Laverde"
+        }
+      ]
+    },
+    {
+      "source_id": 900007,
+      "name": "Austroflamm Clou Compact Pellet 6 kW",
+      "slug": "austroflamm-clou-compact-pellet-6-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 6 kW, Volume de chauffe 165 m³, Cendrier, Acier, 114 kg, Flamme verte, 2. BImSchV",
+      "description": "<p>Poêle à granulés, 6 kW, Volume de chauffe 165 m³, Cendrier, Acier, 114 kg, Flamme verte, 2. BImSchV</p><ul><li>Puissance : 6 kW</li><li>Volume de chauffe : 165 m³</li><li>Matériau : Acier</li><li>Poids : 114 kg</li></ul>",
+      "permalink": null,
+      "price": 7188.0,
+      "regular_price": 7188.0,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "114",
+      "formatted_weight": "114 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/austroflamm-clou-compact-pellet-6-kw/01.jpg",
+          "alt": "Austroflamm Clou Compact Pellet 6 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/burning-bonfire-at-night-12950912/",
+          "photographer": "Arbër Berisha"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/austroflamm-clou-compact-pellet-6-kw/02.jpg",
+          "alt": "Austroflamm Clou Compact Pellet 6 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/cozy-outdoor-fire-pit-with-burning-kindling-37153566/",
+          "photographer": "River Augustin"
+        }
+      ]
+    },
+    {
+      "source_id": 900008,
+      "name": "Sannover Anita Poêle à granulés étanche 12 kW Noir + kit d'installation",
+      "slug": "sannover-anita-poele-a-granules-etanche-12-kw-noir-kit-dinstallation",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés étanche, 12 kW, Granulés, Kit d'installation inclus",
+      "description": "<p>Poêle à granulés étanche, 12 kW, Granulés, Kit d'installation inclus</p><ul><li>Puissance : 12 kW</li></ul>",
+      "permalink": null,
+      "price": 1013.98,
+      "regular_price": 1013.98,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-poele-a-granules-etanche-12-kw-noir-kit-dinstallation/01.jpg",
+          "alt": "Sannover Anita Poêle à granulés étanche 12 kW Noir + kit d'installation",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-burning-firewood-with-flames-37153567/",
+          "photographer": "River Augustin"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-poele-a-granules-etanche-12-kw-noir-kit-dinstallation/02.jpg",
+          "alt": "Sannover Anita Poêle à granulés étanche 12 kW Noir + kit d'installation",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/grilled-meat-over-open-fire-in-argentina-35196698/",
+          "photographer": "Pato Mec"
+        }
+      ]
+    },
+    {
+      "source_id": 900009,
+      "name": "Invicta Adrano 7",
+      "slug": "invicta-adrano-7",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7 kW, Volume de chauffe 210 m³, 85 m², Rendement 90 %, Acier, 83 kg, Flamme verte 7 étoiles",
+      "description": "<p>Poêle à granulés, 7 kW, Volume de chauffe 210 m³, 85 m², Rendement 90 %, Acier, 83 kg, Flamme verte 7 étoiles</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 210 m³</li><li>Surface conseillée : 85 m²</li><li>Matériau : Acier</li><li>Poids : 83 kg</li></ul>",
+      "permalink": null,
+      "price": 794.99,
+      "regular_price": 794.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "83",
+      "formatted_weight": "83 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-adrano-7/01.jpg",
+          "alt": "Invicta Adrano 7",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/traditional-tea-brewing-in-giza-egypt-30711078/",
+          "photographer": "Khaled Ahmed"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-adrano-7/02.jpg",
+          "alt": "Invicta Adrano 7",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/rotating-roof-vent-against-clear-blue-sky-32182706/",
+          "photographer": "Blackcurrant Great"
+        }
+      ]
+    },
+    {
+      "source_id": 900010,
+      "name": "Interstoves Marina 11 kW étanche avec kit conduit",
+      "slug": "interstoves-marina-11-kw-etanche-avec-kit-conduit",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 11,1 kW, Rendement 93 %, Prise d'air extérieure, Acier, 125 kg, Fabriqué en France",
+      "description": "<p>Poêle à granulés, 11,1 kW, Rendement 93 %, Prise d'air extérieure, Acier, 125 kg, Fabriqué en France</p><ul><li>Puissance : 11,1 kW</li><li>Rendement : 93 %</li><li>Matériau : Acier</li><li>Poids : 125 kg</li></ul>",
+      "permalink": null,
+      "price": 1819.0,
+      "regular_price": 1819.0,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "125",
+      "formatted_weight": "125 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/interstoves-marina-11-kw-etanche-avec-kit-conduit/01.jpg",
+          "alt": "Interstoves Marina 11 kW étanche avec kit conduit",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/black-coffee-pot-on-modern-kitchen-counter-37552794/",
+          "photographer": "Karla Kottmann"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/interstoves-marina-11-kw-etanche-avec-kit-conduit/02.jpg",
+          "alt": "Interstoves Marina 11 kW étanche avec kit conduit",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/clear-glass-pot-with-red-liquid-on-gas-stove-10900909/",
+          "photographer": "Gönül Atasayar"
+        }
+      ]
+    },
+    {
+      "source_id": 900011,
+      "name": "Invicta Lodi 8 Noir WiFi",
+      "slug": "invicta-lodi-8-noir-wifi",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 8 kW, Volume de chauffe 240 m³, 100 m², Rendement 90 %, Prise d'air extérieure, Wi-Fi, Acier, 108 kg, Flamme verte 7 étoiles",
+      "description": "<p>Poêle à granulés, 8 kW, Volume de chauffe 240 m³, 100 m², Rendement 90 %, Prise d'air extérieure, Wi-Fi, Acier, 108 kg, Flamme verte 7 étoiles</p><ul><li>Puissance : 8 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 240 m³</li><li>Surface conseillée : 100 m²</li><li>Matériau : Acier</li><li>Poids : 108 kg</li></ul>",
+      "permalink": null,
+      "price": 2039.99,
+      "regular_price": 2039.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "108",
+      "formatted_weight": "108 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-8-noir-wifi/01.jpg",
+          "alt": "Invicta Lodi 8 Noir WiFi",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/photography-of-kettle-near-smoke-792615/",
+          "photographer": "Barbara Webb"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-8-noir-wifi/02.jpg",
+          "alt": "Invicta Lodi 8 Noir WiFi",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/stack-of-split-firewood-with-natural-texture-37816765/",
+          "photographer": "River Augustin"
+        }
+      ]
+    },
+    {
+      "source_id": 900012,
+      "name": "Sannover Anita 7,6 kW Steel Bordeaux",
+      "slug": "sannover-anita-7-6-kw-steel-bordeaux",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg",
+      "description": "<p>Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7,6 kW</li><li>Rendement : 88 %</li><li>Surface conseillée : 60 m²</li><li>Matériau : Acier</li><li>Poids : 50 kg</li></ul>",
+      "permalink": null,
+      "price": 595.99,
+      "regular_price": 595.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "50",
+      "formatted_weight": "50 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel-bordeaux/01.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel Bordeaux",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/house-in-village-18465390/",
+          "photographer": "Nadin Nadin"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel-bordeaux/02.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel Bordeaux",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/pots-on-the-stove-in-the-kitchen-16927367/",
+          "photographer": "Zechen Li"
+        }
+      ]
+    },
+    {
+      "source_id": 900013,
+      "name": "Invicta Lodi 10 Gris WiFi",
+      "slug": "invicta-lodi-10-gris-wifi",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Wi-Fi, Acier, 108 kg, Flamme verte 6 étoiles",
+      "description": "<p>Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Wi-Fi, Acier, 108 kg, Flamme verte 6 étoiles</p><ul><li>Puissance : 10 kW</li><li>Rendement : 86 %</li><li>Volume de chauffe : 300 m³</li><li>Surface conseillée : 120 m²</li><li>Matériau : Acier</li><li>Poids : 108 kg</li></ul>",
+      "permalink": null,
+      "price": 1999.0,
+      "regular_price": 1999.0,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "108",
+      "formatted_weight": "108 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10-gris-wifi/01.jpg",
+          "alt": "Invicta Lodi 10 Gris WiFi",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/plates-and-clear-wine-glasses-on-white-wooden-kitchen-cabinet-5556176/",
+          "photographer": "Hakim  Santoso"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10-gris-wifi/02.jpg",
+          "alt": "Invicta Lodi 10 Gris WiFi",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/elegant-kitchen-with-fruit-basket-tile-backsplash-36240645/",
+          "photographer": "Kamil Kozorys"
+        }
+      ]
+    },
+    {
+      "source_id": 900014,
+      "name": "Sannover Air Anita",
+      "slug": "sannover-air-anita",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 10 kW, 223 m², Rendement 94 %, Pose libre, Acier, 78 kg, Flamme verte 7 étoiles",
+      "description": "<p>Poêle à granulés, 10 kW, 223 m², Rendement 94 %, Pose libre, Acier, 78 kg, Flamme verte 7 étoiles</p><ul><li>Classe énergétique : A+</li><li>Puissance : 10 kW</li><li>Rendement : 94 %</li><li>Surface conseillée : 223 m²</li><li>Matériau : Acier</li><li>Poids : 78 kg</li></ul>",
+      "permalink": null,
+      "price": 674.9,
+      "regular_price": 674.9,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "78",
+      "formatted_weight": "78 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-air-anita/01.jpg",
+          "alt": "Sannover Air Anita",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-a-small-iron-cauldron-for-outdoor-cooking-8567153/",
+          "photographer": "Alexey Chudin"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-air-anita/02.jpg",
+          "alt": "Sannover Air Anita",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/modern-minimalist-living-room-with-elegant-lighting-32473238/",
+          "photographer": "The Ghazi"
+        }
+      ]
+    },
+    {
+      "source_id": 900015,
+      "name": "Invicta Adrano 7 Noir (640994)",
+      "slug": "invicta-adrano-7-noir-640994",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7 kW, Volume de chauffe 210 m³, 85 m², Rendement 90 %, Acier, 83 kg, Flamme verte 7 étoiles",
+      "description": "<p>Poêle à granulés, 7 kW, Volume de chauffe 210 m³, 85 m², Rendement 90 %, Acier, 83 kg, Flamme verte 7 étoiles</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 210 m³</li><li>Surface conseillée : 85 m²</li><li>Matériau : Acier</li><li>Poids : 83 kg</li></ul>",
+      "permalink": null,
+      "price": 794.99,
+      "regular_price": 794.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "83",
+      "formatted_weight": "83 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-adrano-7-noir-640994/02.jpg",
+          "alt": "Invicta Adrano 7 Noir (640994)",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/modern-living-room-with-walking-woman-31213890/",
+          "photographer": "Thới Nam Cao"
+        }
+      ]
+    },
+    {
+      "source_id": 900016,
+      "name": "La Nordica Comfort P85 Plus",
+      "slug": "la-nordica-comfort-p85-plus",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Insert à granulés, 12 kW, Volume de chauffe 344 m³, Rendement 91 %, Acier, 160 kg",
+      "description": "<p>Insert à granulés, 12 kW, Volume de chauffe 344 m³, Rendement 91 %, Acier, 160 kg</p><ul><li>Puissance : 12 kW</li><li>Rendement : 91 %</li><li>Volume de chauffe : 344 m³</li><li>Matériau : Acier</li><li>Poids : 160 kg</li></ul>",
+      "permalink": null,
+      "price": 2938.11,
+      "regular_price": 2938.11,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "160",
+      "formatted_weight": "160 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "inserts"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-comfort-p85-plus/01.jpg",
+          "alt": "La Nordica Comfort P85 Plus",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-flames-in-a-metal-furnace-39185938/",
+          "photographer": "Blackcurrant Great"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-comfort-p85-plus/02.jpg",
+          "alt": "La Nordica Comfort P85 Plus",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/traditional-turkish-stove-with-teapots-and-wood-36803100/",
+          "photographer": "Zülfü Demir📸"
+        }
+      ]
+    },
+    {
+      "source_id": 900017,
+      "name": "Invicta Lodi 10 Noir WiFi",
+      "slug": "invicta-lodi-10-noir-wifi",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Wi-Fi, Acier, 108 kg, Flamme verte 6 étoiles",
+      "description": "<p>Poêle à granulés, 10 kW, Volume de chauffe 300 m³, 120 m², Rendement 86 %, Wi-Fi, Acier, 108 kg, Flamme verte 6 étoiles</p><ul><li>Puissance : 10 kW</li><li>Rendement : 86 %</li><li>Volume de chauffe : 300 m³</li><li>Surface conseillée : 120 m²</li><li>Matériau : Acier</li><li>Poids : 108 kg</li></ul>",
+      "permalink": null,
+      "price": 1965.0,
+      "regular_price": 1965.0,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "108",
+      "formatted_weight": "108 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10-noir-wifi/01.jpg",
+          "alt": "Invicta Lodi 10 Noir WiFi",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/modern-luxury-living-room-with-bar-area-28822840/",
+          "photographer": "Pușcaș Adryan"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/invicta-lodi-10-noir-wifi/02.jpg",
+          "alt": "Invicta Lodi 10 Noir WiFi",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/modern-luxurious-duplex-living-room-interior-design-28729467/",
+          "photographer": "Pușcaș Adryan"
+        }
+      ]
+    },
+    {
+      "source_id": 900018,
+      "name": "Sannover Anita 7,6 kW Steel White",
+      "slug": "sannover-anita-7-6-kw-steel-white",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg",
+      "description": "<p>Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7,6 kW</li><li>Rendement : 88 %</li><li>Surface conseillée : 60 m²</li><li>Matériau : Acier</li><li>Poids : 50 kg</li></ul>",
+      "permalink": null,
+      "price": 595.99,
+      "regular_price": 595.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "50",
+      "formatted_weight": "50 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel-white/01.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel White",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/abstract-color-painting-on-white-painted-wall-1067556/",
+          "photographer": "Steve A Johnson"
+        }
+      ]
+    },
+    {
+      "source_id": 900019,
+      "name": "Invicta Sedan S",
+      "slug": "invicta-sedan-s",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à bois, Volume de chauffe 150 m³, 60 m², Bûches (44 cm max.), Rendement 72 %, Plaque de protection fonte, Acier, 84 kg, Flamme verte 5 étoiles, Fabriqué en France",
+      "description": "<p>Poêle à bois, Volume de chauffe 150 m³, 60 m², Bûches (44 cm max.), Rendement 72 %, Plaque de protection fonte, Acier, 84 kg, Flamme verte 5 étoiles, Fabriqué en France</p><ul><li>Classe énergétique : A</li><li>Rendement : 72 %</li><li>Volume de chauffe : 150 m³</li><li>Surface conseillée : 60 m²</li><li>Matériau : Fonte</li><li>Poids : 84 kg</li></ul>",
+      "permalink": null,
+      "price": 821.99,
+      "regular_price": 821.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "84",
+      "formatted_weight": "84 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-bois"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/invicta-sedan-s/01.jpg",
+          "alt": "Invicta Sedan S",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-flames-in-a-metal-furnace-39185938/",
+          "photographer": "Blackcurrant Great"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/invicta-sedan-s/02.jpg",
+          "alt": "Invicta Sedan S",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/traditional-turkish-stove-with-teapots-and-wood-36803100/",
+          "photographer": "Zülfü Demir📸"
+        }
+      ]
+    },
+    {
+      "source_id": 900020,
+      "name": "Sannover Anita 7,6 kW Steel Black",
+      "slug": "sannover-anita-7-6-kw-steel-black",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg",
+      "description": "<p>Poêle à granulés, 7,6 kW, 60 m², Rendement 88 %, Télécommande, Acier, 50 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 7,6 kW</li><li>Rendement : 88 %</li><li>Surface conseillée : 60 m²</li><li>Matériau : Acier</li><li>Poids : 50 kg</li></ul>",
+      "permalink": null,
+      "price": 595.99,
+      "regular_price": 595.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "50",
+      "formatted_weight": "50 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel-black/01.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel Black",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/closed-white-wooden-cabinet-245207/",
+          "photographer": "ATBO"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-7-6-kw-steel-black/02.jpg",
+          "alt": "Sannover Anita 7,6 kW Steel Black",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/photo-of-a-wooden-cabinet-11112749/",
+          "photographer": "Ksenia Chernaya"
+        }
+      ]
+    },
+    {
+      "source_id": 900021,
+      "name": "La Nordica Luisella 5.0 Maxi 7 kW Black",
+      "slug": "la-nordica-luisella-5-0-maxi-7-kw-black",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7 kW, Métal, finition noire",
+      "description": "<p>Poêle à granulés, 7 kW, Métal, finition noire</p><ul><li>Puissance : 7 kW</li><li>Matériau : Métal</li></ul>",
+      "permalink": null,
+      "price": 1407.54,
+      "regular_price": 1407.54,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-luisella-5-0-maxi-7-kw-black/01.jpg",
+          "alt": "La Nordica Luisella 5.0 Maxi 7 kW Black",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/modern-wooden-floor-lamp-in-minimalist-setting-38014632/",
+          "photographer": "Pușcaș Adryan"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-luisella-5-0-maxi-7-kw-black/02.jpg",
+          "alt": "La Nordica Luisella 5.0 Maxi 7 kW Black",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/wood-books-plant-lamp-20557234/",
+          "photographer": "Paul Seling"
+        }
+      ]
+    },
+    {
+      "source_id": 900022,
+      "name": "Sannover Flavia Poêle à granulés Air 9,5 kW Acier Noir",
+      "slug": "sannover-flavia-poele-a-granules-air-9-5-kw-acier-noir",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 9,5 kW, Télécommande, Programme hebdomadaire, Acier",
+      "description": "<p>Poêle à granulés, 9,5 kW, Télécommande, Programme hebdomadaire, Acier</p><ul><li>Classe énergétique : A+</li><li>Puissance : 9,5 kW</li><li>Matériau : Acier</li></ul>",
+      "permalink": null,
+      "price": 784.99,
+      "regular_price": 784.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-flavia-poele-a-granules-air-9-5-kw-acier-noir/01.jpg",
+          "alt": "Sannover Flavia Poêle à granulés Air 9,5 kW Acier Noir",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-a-wooden-chair-11112732/",
+          "photographer": "Ksenia Chernaya"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-flavia-poele-a-granules-air-9-5-kw-acier-noir/02.jpg",
+          "alt": "Sannover Flavia Poêle à granulés Air 9,5 kW Acier Noir",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/elegant-minimalist-chair-in-modern-indoor-setting-35589991/",
+          "photographer": "Pușcaș Adryan"
+        }
+      ]
+    },
+    {
+      "source_id": 900023,
+      "name": "La Nordica Extraflame Teodora Evo 8 kW",
+      "slug": "la-nordica-extraflame-teodora-evo-8-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 8 kW, Volume de chauffe 229 m³, Rendement 91 %, Diffusion de la chaleur une pièce, 139 kg",
+      "description": "<p>Poêle à granulés, 8 kW, Volume de chauffe 229 m³, Rendement 91 %, Diffusion de la chaleur une pièce, 139 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 8 kW</li><li>Rendement : 91 %</li><li>Volume de chauffe : 229 m³</li><li>Poids : 139 kg</li></ul>",
+      "permalink": null,
+      "price": 2639.99,
+      "regular_price": 2639.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "139",
+      "formatted_weight": "139 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-extraflame-teodora-evo-8-kw/01.jpg",
+          "alt": "La Nordica Extraflame Teodora Evo 8 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/elegant-yellow-woven-texture-lounge-chair-31361660/",
+          "photographer": "Hossam Rabea"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-extraflame-teodora-evo-8-kw/02.jpg",
+          "alt": "La Nordica Extraflame Teodora Evo 8 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/slipcover-kas-code-ca250-and-link-in-bio-maple-majesty-reversible-chenille-blanket-covers-for-couch-furniture-decoration-cover-sofa-slipcovers-27355164/",
+          "photographer": "SlipcoverKAS .COM"
+        }
+      ]
+    },
+    {
+      "source_id": 900024,
+      "name": "Sannover Anita 10 kW étanche Bordeaux",
+      "slug": "sannover-anita-10-kw-etanche-bordeaux",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés étanche, 10 kW, Volume de chauffe 285 m³, Pose libre, 95 kg",
+      "description": "<p>Poêle à granulés étanche, 10 kW, Volume de chauffe 285 m³, Pose libre, 95 kg</p><ul><li>Puissance : 10 kW</li><li>Volume de chauffe : 285 m³</li><li>Poids : 95 kg</li></ul>",
+      "permalink": null,
+      "price": 674.9,
+      "regular_price": 674.9,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "95",
+      "formatted_weight": "95 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-10-kw-etanche-bordeaux/01.jpg",
+          "alt": "Sannover Anita 10 kW étanche Bordeaux",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/minimalist-bust-sculpture-on-wooden-shelf-32541183/",
+          "photographer": "BOB oj"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-10-kw-etanche-bordeaux/02.jpg",
+          "alt": "Sannover Anita 10 kW étanche Bordeaux",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/modern-minimalist-wooden-table-lamp-decor-38986381/",
+          "photographer": "Pușcaș Adryan"
+        }
+      ]
+    },
+    {
+      "source_id": 900025,
+      "name": "La Nordica Marilena Plus Crystal",
+      "slug": "la-nordica-marilena-plus-crystal",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 8 kW, Volume de chauffe 230 m³, Rendement 91 %, Diffusion de la chaleur plusieurs pièces, Acier, 135 kg, EcoDesign 2022, CE",
+      "description": "<p>Poêle à granulés, 8 kW, Volume de chauffe 230 m³, Rendement 91 %, Diffusion de la chaleur plusieurs pièces, Acier, 135 kg, EcoDesign 2022, CE</p><ul><li>Classe énergétique : A+</li><li>Puissance : 8 kW</li><li>Rendement : 91 %</li><li>Volume de chauffe : 230 m³</li><li>Matériau : Acier</li><li>Poids : 135 kg</li></ul>",
+      "permalink": null,
+      "price": 2501.25,
+      "regular_price": 2501.25,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "135",
+      "formatted_weight": "135 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-marilena-plus-crystal/01.jpg",
+          "alt": "La Nordica Marilena Plus Crystal",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/a-leather-sofa-17264274/",
+          "photographer": "Marko Stojkovic"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-marilena-plus-crystal/02.jpg",
+          "alt": "La Nordica Marilena Plus Crystal",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/street-scene-in-ha-giang-with-traditional-fireplace-29039041/",
+          "photographer": "Q. Hưng Phạm"
+        }
+      ]
+    },
+    {
+      "source_id": 900026,
+      "name": "Godin Estray 9 kW",
+      "slug": "godin-estray-9-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 9 kW, Rendement 91 %, 116 kg, Flamme verte 7 étoiles, Fabriqué en France",
+      "description": "<p>Poêle à granulés, 9 kW, Rendement 91 %, 116 kg, Flamme verte 7 étoiles, Fabriqué en France</p><ul><li>Puissance : 9 kW</li><li>Rendement : 91 %</li><li>Poids : 116 kg</li></ul>",
+      "permalink": null,
+      "price": 3703.39,
+      "regular_price": 3703.39,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "116",
+      "formatted_weight": "116 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/godin-estray-9-kw/01.jpg",
+          "alt": "Godin Estray 9 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/smoke-from-a-bonfire-5573625/",
+          "photographer": "Olivia Cabello"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/godin-estray-9-kw/02.jpg",
+          "alt": "Godin Estray 9 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/burning-woods-on-fire-during-nighttime-12243893/",
+          "photographer": "Bruno Curly"
+        }
+      ]
+    },
+    {
+      "source_id": 900027,
+      "name": "Sannover Flavia Poêle à granulés étanche 9,5 kW Noir",
+      "slug": "sannover-flavia-poele-a-granules-etanche-9-5-kw-noir",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés étanche, 9,5 kW, Granulés",
+      "description": "<p>Poêle à granulés étanche, 9,5 kW, Granulés</p><ul><li>Puissance : 9,5 kW</li></ul>",
+      "permalink": null,
+      "price": 879.99,
+      "regular_price": 879.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-flavia-poele-a-granules-etanche-9-5-kw-noir/01.jpg",
+          "alt": "Sannover Flavia Poêle à granulés étanche 9,5 kW Noir",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/burning-wax-candles-19986299/",
+          "photographer": "ALOK DAS"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-flavia-poele-a-granules-etanche-9-5-kw-noir/02.jpg",
+          "alt": "Sannover Flavia Poêle à granulés étanche 9,5 kW Noir",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-bonfire-17079669/",
+          "photographer": "Lukas Seitz"
+        }
+      ]
+    },
+    {
+      "source_id": 900028,
+      "name": "Invicta Sedan S Gris",
+      "slug": "invicta-sedan-s-gris",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à bois, Volume de chauffe 150 m³, 60 m², Bûches (44 cm max.), Rendement 72 %, Fonte, Acier, 84 kg, Flamme verte 5 étoiles, Fabriqué en France",
+      "description": "<p>Poêle à bois, Volume de chauffe 150 m³, 60 m², Bûches (44 cm max.), Rendement 72 %, Fonte, Acier, 84 kg, Flamme verte 5 étoiles, Fabriqué en France</p><ul><li>Classe énergétique : A</li><li>Rendement : 72 %</li><li>Volume de chauffe : 150 m³</li><li>Surface conseillée : 60 m²</li><li>Matériau : Fonte</li><li>Poids : 84 kg</li></ul>",
+      "permalink": null,
+      "price": 821.99,
+      "regular_price": 821.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "84",
+      "formatted_weight": "84 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-bois"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/invicta-sedan-s-gris/01.jpg",
+          "alt": "Invicta Sedan S Gris",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/cozy-outdoor-fire-pit-with-burning-kindling-37153566/",
+          "photographer": "River Augustin"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-bois/invicta-sedan-s-gris/02.jpg",
+          "alt": "Invicta Sedan S Gris",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/white-ceramic-mug-on-wooden-coaster-11358162/",
+          "photographer": "Jilly Noble"
+        }
+      ]
+    },
+    {
+      "source_id": 900029,
+      "name": "La Nordica Comfort Idro L80",
+      "slug": "la-nordica-comfort-idro-l80",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Insert hydro à granulés, 19 kW, Volume de chauffe 545 m³, 218 m², Rendement 90 %, Diffusion plusieurs pièces, Cendrier, Reconnaissance du combustible, Acier, 220 kg, 15a B-VG",
+      "description": "<p>Insert hydro à granulés, 19 kW, Volume de chauffe 545 m³, 218 m², Rendement 90 %, Diffusion plusieurs pièces, Cendrier, Reconnaissance du combustible, Acier, 220 kg, 15a B-VG</p><ul><li>Classe énergétique : A+</li><li>Puissance : 19 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 545 m³</li><li>Surface conseillée : 218 m²</li><li>Matériau : Acier</li><li>Poids : 220 kg</li></ul>",
+      "permalink": null,
+      "price": 5270.0,
+      "regular_price": 5921.35,
+      "sale_price": 5270.0,
+      "on_sale": true,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "220",
+      "formatted_weight": "220 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "inserts"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-comfort-idro-l80/01.jpg",
+          "alt": "La Nordica Comfort Idro L80",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/metal-chimney-with-galvanized-cover-12271450/",
+          "photographer": "Barış Yiğit"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/inserts/la-nordica-comfort-idro-l80/02.jpg",
+          "alt": "La Nordica Comfort Idro L80",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/grilled-meat-over-open-fire-in-argentina-35196698/",
+          "photographer": "Pato Mec"
+        }
+      ]
+    },
+    {
+      "source_id": 900030,
+      "name": "La Nordica Luisella 5.0 Maxi 7 kW",
+      "slug": "la-nordica-luisella-5-0-maxi-7-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 7 kW, Acier",
+      "description": "<p>Poêle à granulés, 7 kW, Acier</p><ul><li>Puissance : 7 kW</li><li>Matériau : Acier</li></ul>",
+      "permalink": null,
+      "price": 1406.5,
+      "regular_price": 1406.5,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-luisella-5-0-maxi-7-kw/01.jpg",
+          "alt": "La Nordica Luisella 5.0 Maxi 7 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-photo-of-burning-fire-12391921/",
+          "photographer": "Rahul Sapra"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/la-nordica-luisella-5-0-maxi-7-kw/02.jpg",
+          "alt": "La Nordica Luisella 5.0 Maxi 7 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/bonfire-1454789/",
+          "photographer": "Min An"
+        }
+      ]
+    },
+    {
+      "source_id": 900031,
+      "name": "Sannover Anita 12 kW",
+      "slug": "sannover-anita-12-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés, 10,6 kW, 120 m², Rendement 89 %, Cendrier, Acier, 136 kg",
+      "description": "<p>Poêle à granulés, 10,6 kW, 120 m², Rendement 89 %, Cendrier, Acier, 136 kg</p><ul><li>Classe énergétique : A+</li><li>Puissance : 10,6 kW</li><li>Rendement : 89 %</li><li>Surface conseillée : 120 m²</li><li>Matériau : Acier</li><li>Poids : 136 kg</li></ul>",
+      "permalink": null,
+      "price": 714.99,
+      "regular_price": 714.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "136",
+      "formatted_weight": "136 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-12-kw/01.jpg",
+          "alt": "Sannover Anita 12 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/photo-of-a-fire-12243892/",
+          "photographer": "Bruno Curly"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-12-kw/02.jpg",
+          "alt": "Sannover Anita 12 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/burning-wood-bonfire-11716840/",
+          "photographer": "Rahul Sapra"
+        }
+      ]
+    },
+    {
+      "source_id": 900032,
+      "name": "FreePoint Atrium 5 Airtight 5,2 kW",
+      "slug": "freepoint-atrium-5-airtight-5-2-kw",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés étanche, 5,2 kW, Volume de chauffe 125 m³, Rendement 90 %, Télécommande, Métal, 59 kg, 2. BImSchV",
+      "description": "<p>Poêle à granulés étanche, 5,2 kW, Volume de chauffe 125 m³, Rendement 90 %, Télécommande, Métal, 59 kg, 2. BImSchV</p><ul><li>Classe énergétique : A+</li><li>Puissance : 5,2 kW</li><li>Rendement : 90 %</li><li>Volume de chauffe : 125 m³</li><li>Matériau : Métal</li><li>Poids : 59 kg</li></ul>",
+      "permalink": null,
+      "price": 1561.89,
+      "regular_price": 1561.89,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": "59",
+      "formatted_weight": "59 kg",
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/freepoint-atrium-5-airtight-5-2-kw/01.jpg",
+          "alt": "FreePoint Atrium 5 Airtight 5,2 kW",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-photo-of-a-person-holding-a-burning-palo-santo-holy-wood-8436503/",
+          "photographer": "Yan Krukau"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/freepoint-atrium-5-airtight-5-2-kw/02.jpg",
+          "alt": "FreePoint Atrium 5 Airtight 5,2 kW",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-flames-in-a-metal-furnace-39185938/",
+          "photographer": "Blackcurrant Great"
+        }
+      ]
+    },
+    {
+      "source_id": 900033,
+      "name": "Sannover Anita 9,4 kW étanche Noir",
+      "slug": "sannover-anita-9-4-kw-etanche-noir",
+      "sku": null,
+      "type": "simple",
+      "short_description": "Poêle à granulés étanche, 9,4 kW, Granulés",
+      "description": "<p>Poêle à granulés étanche, 9,4 kW, Granulés</p><ul><li>Puissance : 9,4 kW</li></ul>",
+      "permalink": null,
+      "price": 695.99,
+      "regular_price": 695.99,
+      "sale_price": null,
+      "on_sale": false,
+      "currency": "EUR",
+      "in_stock": true,
+      "stock_availability": "Plusieurs offres disponibles",
+      "weight": null,
+      "formatted_weight": null,
+      "dimensions": null,
+      "average_rating": 0,
+      "review_count": 0,
+      "categories": [
+        "poeles-a-granules"
+      ],
+      "images": [
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-9-4-kw-etanche-noir/01.jpg",
+          "alt": "Sannover Anita 9,4 kW étanche Noir",
+          "position": 0,
+          "is_primary": true,
+          "source": "https://www.pexels.com/photo/close-up-of-fireplace-18691362/",
+          "photographer": "Camilo Laverde"
+        },
+        {
+          "file": "assets/images/poeles-cheminees/poeles-a-granules/sannover-anita-9-4-kw-etanche-noir/02.jpg",
+          "alt": "Sannover Anita 9,4 kW étanche Noir",
+          "position": 1,
+          "is_primary": false,
+          "source": "https://www.pexels.com/photo/close-up-of-a-fireplace-24829749/",
+          "photographer": "Chris Door"
+        }
+      ]
+    }
+  ]
+}
