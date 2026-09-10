@@ -47,16 +47,18 @@ class ShopSeeder extends Seeder
                 $catMap[$c['slug']] = $cat->id;
             }
 
-            $usedSlugs = Product::pluck('slug')->flip()->toArray();
+            // Slugs déjà pris par d'AUTRES produits (on exclut la ligne du produit courant,
+            // repérée par son source_id) — évite qu'un re-seed n'incrémente le suffixe -2, -3…
+            $slugOwner = Product::pluck('source_id', 'slug')->toArray();
 
             foreach ($data['products'] as $p) {
                 $slug = Str::slug(urldecode($p['slug'] ?: '')) ?: Str::slug($p['name']);
                 $base = $slug;
                 $n = 2;
-                while (isset($usedSlugs[$slug])) {
+                while (isset($slugOwner[$slug]) && $slugOwner[$slug] !== ($p['source_id'] ?? null)) {
                     $slug = $base . '-' . $n++;
                 }
-                $usedSlugs[$slug] = true;
+                $slugOwner[$slug] = $p['source_id'] ?? null;
 
                 $product = Product::updateOrCreate(
                     ['source_id' => $p['source_id'] ?? null],
