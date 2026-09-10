@@ -3,14 +3,14 @@
     {
       "source_id": 160,
       "name": "Holzpellets",
-      "slug": "granules-de-bois",
+      "slug": "holzpellets",
       "description": "",
       "image": null
     },
     {
       "source_id": 155,
       "name": "Scheitholz",
-      "slug": "buches",
+      "slug": "scheitholz",
       "description": "",
       "image": null
     },
@@ -24,14 +24,14 @@
     {
       "source_id": 156,
       "name": "Holzbriketts",
-      "slug": "bois-densifie",
+      "slug": "holzbriketts",
       "description": "",
       "image": null
     },
     {
       "source_id": 154,
       "name": "Kaminholz",
-      "slug": "bois-de-chauffage",
+      "slug": "kaminholz",
       "description": "",
       "image": null
     }
@@ -63,7 +63,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -101,7 +101,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -146,7 +146,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -184,7 +184,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -229,7 +229,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -267,7 +267,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -305,7 +305,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -357,7 +357,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -395,7 +395,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -433,7 +433,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -471,7 +471,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -509,7 +509,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -547,7 +547,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -585,7 +585,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -623,7 +623,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -661,7 +661,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -699,7 +699,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -737,7 +737,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -782,7 +782,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -827,7 +827,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -893,7 +893,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -952,7 +952,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -997,7 +997,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1042,7 +1042,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1094,7 +1094,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1139,7 +1139,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1198,7 +1198,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1243,7 +1243,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1288,7 +1288,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1340,7 +1340,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1392,7 +1392,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1444,7 +1444,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1489,7 +1489,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1534,7 +1534,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1579,7 +1579,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1624,7 +1624,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1669,7 +1669,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1714,7 +1714,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1759,7 +1759,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "granules-de-bois"
+        "holzpellets"
       ],
       "images": [
         {
@@ -1804,7 +1804,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -1863,7 +1863,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -1922,7 +1922,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -1981,7 +1981,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2040,7 +2040,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2092,7 +2092,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2144,7 +2144,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2196,7 +2196,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2248,7 +2248,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2307,7 +2307,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2366,7 +2366,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2425,7 +2425,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2484,7 +2484,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2529,7 +2529,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2574,7 +2574,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2619,7 +2619,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2671,7 +2671,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2709,7 +2709,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2747,7 +2747,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2785,7 +2785,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": []
     },
@@ -2815,7 +2815,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": []
     },
@@ -2845,7 +2845,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2883,7 +2883,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2921,7 +2921,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2959,7 +2959,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -2997,7 +2997,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3035,7 +3035,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3073,7 +3073,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3111,7 +3111,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3149,7 +3149,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3187,7 +3187,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3225,7 +3225,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -3270,7 +3270,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "buches"
+        "scheitholz"
       ],
       "images": [
         {
@@ -4332,7 +4332,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4384,7 +4384,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4429,7 +4429,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4467,7 +4467,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4505,7 +4505,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4543,7 +4543,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4595,7 +4595,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4640,7 +4640,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4685,7 +4685,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4730,7 +4730,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4775,7 +4775,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4820,7 +4820,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4865,7 +4865,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-densifie"
+        "holzbriketts"
       ],
       "images": [
         {
@@ -4910,7 +4910,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -4962,7 +4962,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5014,7 +5014,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5066,7 +5066,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5118,7 +5118,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5163,7 +5163,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5208,7 +5208,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5260,7 +5260,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5305,7 +5305,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5357,7 +5357,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5409,7 +5409,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5461,7 +5461,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5513,7 +5513,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5565,7 +5565,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5603,7 +5603,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5648,7 +5648,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5693,7 +5693,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5738,7 +5738,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5783,7 +5783,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5828,7 +5828,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5873,7 +5873,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5918,7 +5918,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -5963,7 +5963,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6008,7 +6008,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6053,7 +6053,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6098,7 +6098,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6143,7 +6143,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6188,7 +6188,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6233,7 +6233,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6292,7 +6292,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6337,7 +6337,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6396,7 +6396,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6434,7 +6434,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6479,7 +6479,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6517,7 +6517,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6555,7 +6555,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6600,7 +6600,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6638,7 +6638,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6690,7 +6690,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6735,7 +6735,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6773,7 +6773,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6832,7 +6832,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6870,7 +6870,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6915,7 +6915,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6953,7 +6953,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -6998,7 +6998,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7043,7 +7043,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7081,7 +7081,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7119,7 +7119,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7157,7 +7157,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7195,7 +7195,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7233,7 +7233,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7271,7 +7271,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7309,7 +7309,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7347,7 +7347,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {
@@ -7399,7 +7399,7 @@
       "average_rating": "0",
       "review_count": 0,
       "categories": [
-        "bois-de-chauffage"
+        "kaminholz"
       ],
       "images": [
         {

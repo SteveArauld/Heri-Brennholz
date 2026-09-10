@@ -27,10 +27,17 @@ class ShopSeeder extends Seeder
             $catMap = [];
 
             foreach ($data['categories'] as $c) {
+                // Match par source_id quand il existe (stable même si le slug a été renommé),
+                // sinon par slug.
+                $lookup = ! empty($c['source_id'])
+                    ? ['source_id' => (int) $c['source_id']]
+                    : ['slug' => (string) $c['slug']];
+
                 $cat = Category::updateOrCreate(
-                    ['slug' => $c['slug']],
+                    $lookup,
                     [
                         'source_id' => $c['source_id'] ?? null,
+                        'slug' => $c['slug'],
                         'name' => $c['name'],
                         'description' => $c['description'] ?? null,
                         'image' => $c['image'] ?? null,
