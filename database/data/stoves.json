@@ -106,7 +106,7 @@
     {
       "source_id": 900002,
       "name": "FM Kaminofen",
-      "slug": "fm-poele-a-bois",
+      "slug": "fm-kaminofen",
       "sku": null,
       "type": "simple",
       "short_description": "Kaminofen, Scheite, Holz und Holzkohle, Geschlossener Feuerraum (type 1), Stahl",
@@ -192,7 +192,7 @@
     {
       "source_id": 900004,
       "name": "Godin Pelletofen Estray",
-      "slug": "godin-poele-a-granules-estray",
+      "slug": "godin-pelletofen-estray",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 9 kW, Wirkungsgrad 91 %, Wi-Fi, Stahl, 116 kg, Flamme Verte 7 Sterne, Hergestellt in Frankreich",
@@ -364,7 +364,7 @@
     {
       "source_id": 900008,
       "name": "Sannover Anita Pelletofen raumluftunabhängig 12 kW Schwarz + Installationsset",
-      "slug": "sannover-anita-poele-a-granules-etanche-12-kw-noir-kit-dinstallation",
+      "slug": "sannover-anita-pelletofen-raumluftunabhangig-12-kw-schwarz-installationsset",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen raumluftunabhängig, 12 kW, Pellets, Kit d'installation inclus",
@@ -450,7 +450,7 @@
     {
       "source_id": 900010,
       "name": "Interstoves Marina 11 kW raumluftunabhängig mit Rohrset",
-      "slug": "interstoves-marina-11-kw-etanche-avec-kit-conduit",
+      "slug": "interstoves-marina-11-kw-raumluftunabhangig-mit-rohrset",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 11,1 kW, Wirkungsgrad 93 %, Externe Luftzufuhr, Stahl, 125 kg, Hergestellt in Frankreich",
@@ -493,7 +493,7 @@
     {
       "source_id": 900011,
       "name": "Invicta Lodi 8 Schwarz WiFi",
-      "slug": "invicta-lodi-8-noir-wifi",
+      "slug": "invicta-lodi-8-schwarz-wifi",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 8 kW, Heizvolumen 240 m³, 100 m², Wirkungsgrad 90 %, Externe Luftzufuhr, Wi-Fi, Stahl, 108 kg, Flamme Verte 7 Sterne",
@@ -579,7 +579,7 @@
     {
       "source_id": 900013,
       "name": "Invicta Lodi 10 Grau WiFi",
-      "slug": "invicta-lodi-10-gris-wifi",
+      "slug": "invicta-lodi-10-grau-wifi",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 10 kW, Heizvolumen 300 m³, 120 m², Wirkungsgrad 86 %, Wi-Fi, Stahl, 108 kg, Flamme Verte 6 Sterne",
@@ -665,7 +665,7 @@
     {
       "source_id": 900015,
       "name": "Invicta Adrano 7 Schwarz (640994)",
-      "slug": "invicta-adrano-7-noir-640994",
+      "slug": "invicta-adrano-7-schwarz-640994",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 7 kW, Heizvolumen 210 m³, 85 m², Wirkungsgrad 90 %, Stahl, 83 kg, Flamme Verte 7 Sterne",
@@ -743,7 +743,7 @@
     {
       "source_id": 900017,
       "name": "Invicta Lodi 10 Schwarz WiFi",
-      "slug": "invicta-lodi-10-noir-wifi",
+      "slug": "invicta-lodi-10-schwarz-wifi",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 10 kW, Heizvolumen 300 m³, 120 m², Wirkungsgrad 86 %, Wi-Fi, Stahl, 108 kg, Flamme Verte 6 Sterne",
@@ -786,7 +786,7 @@
     {
       "source_id": 900018,
       "name": "Sannover Anita 7,6 kW Steel Weiss",
-      "slug": "sannover-anita-7-6-kw-steel-white",
+      "slug": "sannover-anita-7-6-kw-steel-weiss",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 7,6 kW, 60 m², Wirkungsgrad 88 %, Fernbedienung, Stahl, 50 kg",
@@ -864,7 +864,7 @@
     {
       "source_id": 900020,
       "name": "Sannover Anita 7,6 kW Steel Schwarz",
-      "slug": "sannover-anita-7-6-kw-steel-black",
+      "slug": "sannover-anita-7-6-kw-steel-schwarz",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 7,6 kW, 60 m², Wirkungsgrad 88 %, Fernbedienung, Stahl, 50 kg",
@@ -907,7 +907,7 @@
     {
       "source_id": 900021,
       "name": "La Nordica Luisella 5.0 Maxi 7 kW Schwarz",
-      "slug": "la-nordica-luisella-5-0-maxi-7-kw-black",
+      "slug": "la-nordica-luisella-5-0-maxi-7-kw-schwarz",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 7 kW, Metall, finition noire",
@@ -950,7 +950,7 @@
     {
       "source_id": 900022,
       "name": "Sannover Flavia Pelletofen Air 9,5 kW Stahl Schwarz",
-      "slug": "sannover-flavia-poele-a-granules-air-9-5-kw-acier-noir",
+      "slug": "sannover-flavia-pelletofen-air-9-5-kw-stahl-schwarz",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen, 9,5 kW, Fernbedienung, Wochenprogramm, Stahl",
@@ -1036,7 +1036,7 @@
     {
       "source_id": 900024,
       "name": "Sannover Anita 10 kW raumluftunabhängig Bordeaux",
-      "slug": "sannover-anita-10-kw-etanche-bordeaux",
+      "slug": "sannover-anita-10-kw-raumluftunabhangig-bordeaux",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen raumluftunabhängig, 10 kW, Heizvolumen 285 m³, Freistehend, 95 kg",
@@ -1165,7 +1165,7 @@
     {
       "source_id": 900027,
       "name": "Sannover Flavia Pelletofen raumluftunabhängig 9,5 kW Schwarz",
-      "slug": "sannover-flavia-poele-a-granules-etanche-9-5-kw-noir",
+      "slug": "sannover-flavia-pelletofen-raumluftunabhangig-9-5-kw-schwarz",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen raumluftunabhängig, 9,5 kW, Pellets",
@@ -1208,7 +1208,7 @@
     {
       "source_id": 900028,
       "name": "Invicta Sedan S Grau",
-      "slug": "invicta-sedan-s-gris",
+      "slug": "invicta-sedan-s-grau",
       "sku": null,
       "type": "simple",
       "short_description": "Kaminofen, Heizvolumen 150 m³, 60 m², Scheite (44 cm max.), Wirkungsgrad 72 %, Gusseisen, Stahl, 84 kg, Flamme Verte 5 Sterne, Hergestellt in Frankreich",
@@ -1423,7 +1423,7 @@
     {
       "source_id": 900033,
       "name": "Sannover Anita 9,4 kW raumluftunabhängig Schwarz",
-      "slug": "sannover-anita-9-4-kw-etanche-noir",
+      "slug": "sannover-anita-9-4-kw-raumluftunabhangig-schwarz",
       "sku": null,
       "type": "simple",
       "short_description": "Pelletofen raumluftunabhängig, 9,4 kW, Pellets",
