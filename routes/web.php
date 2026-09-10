@@ -2,10 +2,12 @@
 
 use App\Http\Controllers\CartController;
 use App\Http\Controllers\CheckoutController;
+use App\Http\Controllers\FeedController;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\ShopController;
+
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
@@ -37,3 +39,7 @@ Route::get('/faq', [PageController::class, 'faq'])->name('pages.faq');
 Route::get('/datenschutz', [PageController::class, 'privacy'])->name('pages.privacy');
 Route::get('/agb', [PageController::class, 'terms'])->name('pages.terms');
 Route::get('/impressum', [PageController::class, 'impressum'])->name('pages.impressum');
+
+// Google Merchant Center Produkt-Feed
+Route::get('/feed/google-merchant.xml', [FeedController::class, 'index'])->name('feed.google');
+Route::get('/feed/google-merchant.xml/download', [FeedController::class, 'download'])->name('feed.google.download');
