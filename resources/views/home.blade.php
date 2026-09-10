@@ -1,6 +1,6 @@
 @extends('layouts.omniva')
 
-@section('title', 'Bois de chauffage, granulés & bûches')
+@section('title', 'Brennholz, Holzpellets & Kaminholz')
 
 @push('styles')
 <style>
@@ -92,7 +92,7 @@
         </div>
     </div>
 
-    {{-- ============ NOS CATÉGORIES ============ --}}
+    {{-- ============ KATEGORIEN ============ --}}
     <div class="flat-spacing overflow-hidden">
         <div class="container">
             <div class="sect-heading center spacing-bottom-2">
@@ -123,7 +123,7 @@
                 <div class="boire-sec-head">
                     <h3 class="s-title font-instrument_serif">{{ $cat->name }}</h3>
                     <a href="{{ route('shop.category', $cat) }}" class="tf-btn-line gap-6">
-                        <span class="text-caption fw-medium">Voir les {{ $cat->products_count }} Produkte</span>
+                        <span class="text-caption fw-medium">Alle {{ $cat->products_count }} Produkte ansehen</span>
                         <i class="icon icon-ArrowUpRight"></i>
                     </a>
                 </div>
@@ -136,7 +136,7 @@
         </div>
     @endforeach
 
-    {{-- ============ AVANTAGES ============ --}}
+    {{-- ============ VORTEILE ============ --}}
     <div class="flat-spacing bg-surface-2 overflow-hidden">
         <div class="container">
             <div class="tf-grid-layout tf-col-2 lg-col-3 gap-30">
@@ -165,7 +165,7 @@
         </div>
     </div>
 
-    {{-- ============ BANNIÈRE ============ --}}
+    {{-- ============ BANNER ============ --}}
     <div class="flat-spacing overflow-hidden">
         <div class="container">
             <div class="position-relative rounded-16 overflow-hidden" style="min-height:340px;display:flex;align-items:center;">

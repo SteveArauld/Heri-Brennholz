@@ -3,7 +3,7 @@
 @section('title', 'FAQ')
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => 'Häufige Fragen'])
+    @include('partials.page-title', ['pageTitle' => 'Häufige Fragen', 'titleImageSlug' => 'hero-3'])
     <section class="flat-spacing-9">
         <div class="container" style="max-width:820px;">
             @php
@@ -15,7 +15,7 @@
                     ['Sind Ihre Produkte zertifiziert?', 'Unser Brennholz und unsere Holzpellets stammen aus kontrollierter, eigener Schweizer Produktion und werden auf Restfeuchte und Qualität geprüft.'],
                     ['Wie lagere ich Brennholz richtig?', 'An einem belüfteten, regengeschützten Ort und vom Boden abgehoben. Holzbriketts und Pellets müssen trocken gelagert werden.'],
                     ['Welche Zahlungsmöglichkeiten habe ich?', 'Die Zahlungsmöglichkeiten werden Ihnen im Bestellprozess vor Abschluss der Bestellung angezeigt.'],
-                    ['Wie kann ich Heri Brennholz kontaktieren?', 'Sie erreichen uns über unser Kontaktformular oder per E-Mail an info@heri-brennholz.ch. Details finden Sie auf unserer Kontaktseite.'],
+                    ['Wie kann ich Heri Brennholz kontaktieren?', 'Sie erreichen uns über unser Kontaktformular oder per E-Mail an info@heribrennholzgmbh.com. Details finden Sie auf unserer Kontaktseite.'],
                 ];
             @endphp
             <div class="accordion" id="faqAccordion">

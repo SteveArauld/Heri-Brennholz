@@ -78,6 +78,30 @@
         .boire-cart-actions { display: grid; gap: 10px; }
         .boire-cart-actions .tf-btn { width: 100%; justify-content: center; }
         .boire-cart-empty { text-align: center; padding: 48px 24px; display: flex; flex-direction: column; align-items: center; gap: 14px; }
+
+        /* ===== Kopfzeile / Logo ===== */
+        .tf-header .header-inner { min-height: 92px; }
+        .tf-header .header-center .logo-site { display: inline-flex; align-items: center; }
+        .tf-header .logo-site img,
+        .tf-footer .logo-site img { width: auto; height: 68px; max-width: 180px; object-fit: contain; }
+        @media (max-width: 767px) {
+            .tf-header .header-inner { min-height: 76px; }
+            .tf-header .logo-site img { height: 54px; }
+        }
+
+        /* ===== Zahlungsarten (Fußzeile) ===== */
+        .payment-methods { display: flex; flex-wrap: wrap; gap: 8px; list-style: none; margin: 0; padding: 0; align-items: center; }
+        .payment-method { display: inline-flex; }
+        .payment-method img { display: block; width: 48px; height: 30px; }
+
+        /* ===== WhatsApp-Button (über dem Nach-oben-Button) ===== */
+        .wa-float { position: fixed; right: 19px; bottom: 92px; z-index: 101; width: 44px; height: 44px;
+            display: flex; align-items: center; justify-content: center; border-radius: 50%;
+            background: #25D366; color: #fff; box-shadow: 0 2px 8px rgba(0,0,0,.12), 0 12px 30px rgba(0,0,0,.18);
+            transition: transform .18s ease; }
+        .wa-float:hover { transform: scale(1.08); color: #fff; }
+        .wa-float svg { width: 26px; height: 26px; }
+        @media (max-width: 1199px) { .wa-float { bottom: 132px; } }
     </style>
 </head>
 
@@ -202,7 +226,7 @@
                         <div class="header-center">
                             <h1>
                                 <a href="/" class="logo-site">
-                                    <img width="90" height="80" src="/assets/images/logo/logo.png" alt="Heri Brennholz GmbH">
+                                    <img width="76" height="68" src="/assets/images/logo/logo.png" alt="Heri Brennholz GmbH">
                                 </a>
                             </h1>
                         </div>
@@ -255,7 +279,7 @@
                     <div class="footer-inner_wrap">
                         <div class="ft-infor">
                             <a href="/" class="logo-site">
-                                <img loading="lazy" width="90" height="80" src="/assets/images/logo/logo.png"
+                                <img loading="lazy" width="76" height="68" src="/assets/images/logo/logo.png"
                                     alt="Heri Brennholz GmbH">
                             </a>
                             <ul class="list-infor-contact tf-list vertical gap-15">
@@ -263,32 +287,24 @@
                                     <span class="ic-w">
                                         <i class="icon icon-DotLocation"></i>
                                     </span>
-                                    <a href="https://www.google.com/maps?q=15+Yarran+St,+Punchbowl+2198+NSW,+Australia"
+                                    <a href="https://www.google.com/maps?q=Fiderholzstrasse+7,+4562+Biberist,+Schweiz"
                                         class="text-caption fw-medium link-underline link-black">
-                                        15 Yarran St, Punchbowl 2198 NSW, Australia
-                                    </a>
-                                </li>
-                                <li class="infor-contact_item">
-                                    <span class="ic-w">
-                                        <i class="icon icon-Phone"></i>
-                                    </span>
-                                    <a href="tel:6483421245" class="text-caption fw-medium link-underline link-black">
-                                        (64) 8342 1245
+                                        Fiderholzstrasse 7, 4562 Biberist, Schweiz
                                     </a>
                                 </li>
                                 <li class="infor-contact_item">
                                     <span class="ic-w">
                                         <i class="icon icon-LetterEnvelope"></i>
                                     </span>
-                                    <a href="mailto:support@example.com"
+                                    <a href="mailto:info@heribrennholzgmbh.com"
                                         class="text-caption fw-medium link-underline link-black">
-                                        support@example.com
+                                        info@heribrennholzgmbh.com
                                     </a>
                                 </li>
                             </ul>
                             <a href="/kontakt" class="tf-btn-line gap-6">
                                 <span class="text-caption fw-medium">
-                                    Get direction
+                                    Kontakt aufnehmen
                                 </span>
                                 <i class="icon icon-ArrowUpRight"></i>
                             </a>
@@ -436,53 +452,28 @@
                         <div class="text-nocopy text-caption cl-text-main">
                             © {{ date('Y') }} Heri Brennholz GmbH. Alle Rechte vorbehalten.
                         </div>
-                        <ul class="method-list">
-                            <li class="img-method">
-                                <img loading="lazy" width="43" height="25"
-                                    src="/assets/images/payment/american-express.svg" alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/apple-pay.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/diners.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/discover.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/google-pay.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/maestro.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/master.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/shopify.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/union-pay.svg"
-                                    alt="Image">
-                            </li>
-                            <li class="img-method">
-                                <img loading="lazy" width="40" height="25" src="/assets/images/payment/visa.svg"
-                                    alt="Image">
-                            </li>
+                        <ul class="method-list payment-methods">
+                            @foreach (['rechnung' => 'Kauf auf Rechnung', 'vorkasse' => 'Vorkasse / Überweisung', 'sepa' => 'SEPA-Lastschrift', 'paypal' => 'PayPal', 'visa' => 'Visa', 'mastercard' => 'Mastercard', 'klarna' => 'Klarna'] as $slug => $label)
+                                <li class="payment-method">
+                                    <img loading="lazy" width="48" height="30" src="/assets/images/payment/{{ $slug }}.svg" alt="{{ $label }}" title="{{ $label }}">
+                                </li>
+                            @endforeach
                         </ul>
                     </div>
                 </div>
             </div>
         </footer>
     </main>
+
+    @if (config('contact.whatsapp'))
+        <a class="wa-float" href="https://wa.me/{{ config('contact.whatsapp') }}?text={{ rawurlencode(config('contact.whatsapp_text')) }}"
+           target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+            <svg viewBox="0 0 32 32" width="30" height="30" aria-hidden="true" fill="currentColor">
+                <path d="M16.003 3.2c-7.06 0-12.8 5.74-12.8 12.8 0 2.257.59 4.46 1.71 6.402L3.2 28.8l6.56-1.72a12.74 12.74 0 0 0 6.243 1.59h.005c7.06 0 12.8-5.74 12.8-12.8 0-3.42-1.332-6.636-3.752-9.055A12.71 12.71 0 0 0 16.003 3.2zm0 23.36h-.004a10.55 10.55 0 0 1-5.38-1.473l-.386-.23-3.892 1.02 1.04-3.796-.25-.39a10.53 10.53 0 0 1-1.615-5.62c0-5.867 4.774-10.64 10.65-10.64a10.57 10.57 0 0 1 7.524 3.12 10.55 10.55 0 0 1 3.116 7.526c0 5.867-4.774 10.64-10.65 10.64zm5.84-7.97c-.32-.16-1.894-.934-2.188-1.04-.293-.107-.507-.16-.72.16-.214.32-.826 1.04-1.013 1.253-.187.214-.373.24-.693.08-.32-.16-1.352-.498-2.576-1.59-.952-.848-1.594-1.896-1.78-2.216-.187-.32-.02-.493.14-.653.144-.143.32-.373.48-.56.16-.187.213-.32.32-.533.107-.214.053-.4-.027-.56-.08-.16-.72-1.734-.986-2.374-.26-.624-.524-.54-.72-.55l-.613-.01c-.213 0-.56.08-.853.4-.293.32-1.12 1.093-1.12 2.667 0 1.574 1.147 3.094 1.307 3.307.16.214 2.253 3.44 5.46 4.826.763.33 1.36.526 1.824.674.766.244 1.464.21 2.016.127.615-.092 1.894-.774 2.16-1.52.267-.747.267-1.387.187-1.52-.08-.133-.293-.213-.613-.373z"/>
+            </svg>
+        </a>
+    @endif
+
     <!-- Mobile Menu -->
     <div class="offcanvas offcanvas-start canvas-mb" id="mobileMenu">
         <div class="canvas-header">
@@ -511,8 +502,8 @@
                             Adresse:
                             <span class="fw-medium">Fiderholzstrasse 7, 4562 Biberist, Schweiz</span>
                         </a>
-                        <a href="mailto:info@heri-brennholz.ch" class="d-block text-caption">
-                            E-Mail: <span class="fw-medium">info@heri-brennholz.ch</span>
+                        <a href="mailto:info@heribrennholzgmbh.com" class="d-block text-caption">
+                            E-Mail: <span class="fw-medium">info@heribrennholzgmbh.com</span>
                         </a>
                         <a href="tel:+41000000000" class="d-block text-caption">
                             Telefon: <span class="fw-medium">+41 00 000 00 00</span>
@@ -629,618 +620,6 @@
         </div>
     </div>
     <!-- /Quick View -->
-    <!-- Size Guide -->
-    <div class="modal modalCentered fade modal-size" id="modalSize">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-heading d-flex align-items-center justify-content-between">
-                    <h5 class="title-pop">Size Chart</h5>
-                    <span class="cs-pointer d-flex link" data-bs-dismiss="modal">
-                        <i class="icon-Close link-rotate fs-24"></i>
-                    </span>
-                </div>
-                <div class="modal-main">
-                    <div class="tf-rte">
-                        <div class="tf-table-res-df mb-25">
-                            <p class="fw-medium mb-15">Size Chart</p>
-                            <div class="overflow-auto">
-                                <table class="tf-sizeguide-table text-caption">
-                                    <thead>
-                                        <tr>
-                                            <th>Size</th>
-                                            <th>US</th>
-                                            <th>Bust</th>
-                                            <th>Waist</th>
-                                            <th>Low Hip</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>XS</td>
-                                            <td>2</td>
-                                            <td>32</td>
-                                            <td>24 - 25</td>
-                                            <td>33 - 34</td>
-                                        </tr>
-                                        <tr>
-                                            <td>S</td>
-                                            <td>4</td>
-                                            <td>34 - 35</td>
-                                            <td>26 - 27</td>
-                                            <td>35 - 26</td>
-                                        </tr>
-                                        <tr>
-                                            <td>M</td>
-                                            <td>6</td>
-                                            <td>36 - 37</td>
-                                            <td>28 - 29</td>
-                                            <td>38 - 40</td>
-                                        </tr>
-                                        <tr>
-                                            <td>L</td>
-                                            <td>8</td>
-                                            <td>38 - 29</td>
-                                            <td>30 - 31</td>
-                                            <td>42 - 44</td>
-                                        </tr>
-                                        <tr>
-                                            <td>XL</td>
-                                            <td>10</td>
-                                            <td>40 - 41</td>
-                                            <td>32 - 33</td>
-                                            <td>45 - 47</td>
-                                        </tr>
-                                        <tr>
-                                            <td>XXL</td>
-                                            <td>12</td>
-                                            <td>42 - 43</td>
-                                            <td>34 - 35</td>
-                                            <td>48 - 50</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                        <div class="tf-page-size-chart-content">
-                            <div class="chart-note">
-                                <p class="fw-medium mb-24">Style Measurements:</p>
-                                <div class="title text-caption fw-medium mb-10">1. Chest</div>
-                                <p class="text-caption mb-10">Measure at the fullest part of your chest, keeping the
-                                    tape parallel to the floor.</p>
-                                <div class="title text-caption fw-medium mb-10">2. Waist</div>
-                                <p class="text-caption mb-10">Measure at the smallest part of your waist. This is
-                                    usually below the rib cage and above the hip bone.</p>
-                                <div class="title text-caption fw-medium mb-10">3. Hip</div>
-                                <p class="text-caption mb-10">Measure at the fullest part of your seat, keeping the tape
-                                    parallel to the floor.</p>
-                            </div>
-                            <div class="chart-image">
-                                <img loading="lazy" width="258" height="297" src="/assets/images/item/size-chart.jpg"
-                                    alt="Image">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /Size Guide -->
-    <!-- Compare -->
-    <div class="modal modalCentered fade modal-compare" id="modalCompare">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="btn-close-popup" data-bs-dismiss="modal">
-                    <i class="icon icon-Close2"></i>
-                </div>
-                <h4 class="modal-title text-center">
-                    Compare Products
-                </h4>
-                <div class="tf-compare-list main-list-clear wrap-empty_text">
-                    <div class="tf-compare-offcanvas list-empty">
-                        <p class="box-text_empty text-caption cl-text-main text-center w-100">Your Compare is curently
-                            empty</p>
-                        <div class="tf-compare-item file-delete">
-                            <a href="/shop">
-                                <div class="icon remove">
-                                    <i class="icon-Close"></i>
-                                </div>
-                                <img class="radius-10" width="288" height="339"
-                                    src="/assets/images/product/product-5.jpg" alt="Image">
-                            </a>
-                            <a href="/shop"
-                                class="name-prd_compare fw-medium link-underline text-line-clamp-1">
-                                Short Sleeve Crew Neck Basic T-Shirt
-                            </a>
-                        </div>
-                        <div class="tf-compare-item file-delete">
-                            <a href="/shop">
-                                <div class="icon remove">
-                                    <i class="icon-Close"></i>
-                                </div>
-                                <img class="radius-10" width="288" height="339"
-                                    src="/assets/images/product/product-6.jpg" alt="Image">
-                            </a>
-                            <a href="/shop"
-                                class="name-prd_compare fw-medium link-underline text-line-clamp-1">
-                                Pocket Detail Shirt
-                            </a>
-                        </div>
-                        <div class="tf-compare-item file-delete">
-                            <a href="/shop">
-                                <div class="icon remove">
-                                    <i class="icon-Close"></i>
-                                </div>
-                                <img class="radius-10" width="288" height="339"
-                                    src="/assets/images/product/product-7.jpg" alt="Image">
-                            </a>
-                            <a href="/shop"
-                                class="name-prd_compare fw-medium link-underline text-line-clamp-1">
-                                Pocket Detail Shirt
-                            </a>
-                        </div>
-                        <div class="tf-compare-item file-delete">
-                            <a href="/shop">
-                                <div class="icon remove">
-                                    <i class="icon-Close"></i>
-                                </div>
-                                <img class="radius-10" width="288" height="339"
-                                    src="/assets/images/product/product-8.jpg" alt="Image">
-                            </a>
-                            <a href="/shop"
-                                class="name-prd_compare fw-medium link-underline text-line-clamp-1">
-                                Gentle Foam Cleanser
-                            </a>
-                        </div>
-                    </div>
-                    <div class="tf-compare-buttons">
-                        <a href="/shop" class="tf-btn rounded-6 size2 animate-btn btn-action_direc">
-                            <span class="text-caption">
-                                Compare
-                            </span>
-                        </a>
-                        <button type="button"
-                            class="tf-btn rounded-6 size2 style-stroke-2 clear-list-empty tf-compare-button-clear-all">
-                            <span class="text-caption">
-                                Clear all
-                            </span>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /Compare -->
-    <!-- Login -->
-    <div class="offcanvas offcanvas-end popup-log" id="canvasLogin">
-        <div class="canvas-wrapper">
-            <div class="popup-header">
-                <div class="heading pt-0 mb-0">
-                    <h5 class="title fw-semibold">Log in</h5>
-                    <span class="icon-Close2 link-rotate" data-bs-dismiss="offcanvas"></span>
-                </div>
-            </div>
-
-            <div class="canvas-body">
-                <form class="form-log" action="account-page.html">
-                    <div class="form-content gap-15">
-                        <input class="text-caption" type="email" placeholder="Email*" required>
-                        <input class="text-caption" type="password" placeholder="Password*" required>
-                    </div>
-                    <a href="#canvasResetPass" data-bs-toggle="offcanvas"
-                        class="text-caption cl-text-main link-black text-decoration-underline mb-24">
-                        Forgot your password?
-                    </a>
-                    <div class="tf-grid-layout ssm-col-2 gap-12">
-                        <button type="submit" class="tf-btn rounded-6 size2 animate-btn w-100">
-                            Sign in
-                        </button>
-                        <a href="#canvasRegister" data-bs-toggle="offcanvas"
-                            class="tf-btn rounded-6 size2 style-stroke-2  w-100">
-                            Create an account
-                        </a>
-                    </div>
-                </form>
-                <div class="other-log">
-                    <span class="text-center mb-24 d-block">
-                        Or sign in with:
-                    </span>
-                    <a href="#" class="btn-action_other other-facebook tf-btn rounded-6 size3 w-100 animate-btn mb-8">
-                        <span class="ic-wrap">
-                            <svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <circle cx="16" cy="16" r="16" fill="#3B5998" />
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M20.155 10.656L18.649 10.657C17.468 10.657 17.239 11.218 17.239 12.041V13.857H20.056L19.689 16.702H17.239V24H14.302V16.702H11.846V13.857H14.302V11.76C14.302 9.325 15.789 8 17.96 8C19 8 19.894 8.077 20.155 8.112V10.656ZM16 0C7.164 0 0 7.163 0 16C0 24.836 7.164 32 16 32C24.837 32 32 24.836 32 16C32 7.163 24.837 0 16 0Z"
-                                    fill="white" />
-                            </svg>
-                        </span>
-                        FACEBOOK
-                    </a>
-                    <a href="#" class="btn-action_other tf-btn rounded-6 size3 w-100 animate-btn">
-                        <span class="ic-wrap">
-                            <svg width="32" height="32" viewBox="0 0 32 32" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <g clip-path="url(#clip0_481_2548)">
-                                    <path
-                                        d="M30.7917 13.2181L17.7392 13.2174C17.1629 13.2174 16.6957 13.6846 16.6957 14.2609V18.4306C16.6957 19.0069 17.1629 19.4741 17.7392 19.4741H25.0896C24.2847 21.5629 22.7824 23.3123 20.8658 24.4237L24 29.8493C29.0276 26.9416 32 21.8398 32 16.1287C32 15.3155 31.9401 14.7342 31.8202 14.0796C31.7291 13.5823 31.2973 13.2181 30.7917 13.2181Z"
-                                        fill="#167EE6" />
-                                    <path
-                                        d="M15.9999 25.7391C12.4028 25.7391 9.26257 23.7738 7.57601 20.8654L2.15063 23.9926C4.91157 28.7777 10.0837 32 15.9999 32C18.9023 32 21.6408 31.2186 23.9999 29.8568V29.8493L20.8658 24.4237C19.4321 25.2552 17.7731 25.7391 15.9999 25.7391Z"
-                                        fill="#12B347" />
-                                    <path
-                                        d="M24 29.8568V29.8493L20.8658 24.4237C19.4322 25.2551 17.7733 25.7391 16 25.7391V32C18.9023 32 21.641 31.2186 24 29.8568Z"
-                                        fill="#0F993E" />
-                                    <path
-                                        d="M6.26088 16C6.26088 14.2269 6.74475 12.5681 7.57606 11.1346L2.15069 8.00745C0.781375 10.3591 0 13.0903 0 16C0 18.9098 0.781375 21.6409 2.15069 23.9926L7.57606 20.8654C6.74475 19.4319 6.26088 17.7731 6.26088 16Z"
-                                        fill="#FFD500" />
-                                    <path
-                                        d="M15.9999 6.26088C18.3456 6.26088 20.5003 7.09437 22.1832 8.48081C22.5984 8.82281 23.2018 8.79813 23.5821 8.41781L26.5365 5.46344C26.968 5.03194 26.9373 4.32562 26.4763 3.92575C23.6566 1.47956 19.9879 0 15.9999 0C10.0837 0 4.91157 3.22231 2.15063 8.00744L7.57601 11.1346C9.26257 8.22625 12.4028 6.26088 15.9999 6.26088Z"
-                                        fill="#FF4B26" />
-                                    <path
-                                        d="M22.1833 8.48081C22.5984 8.82281 23.2019 8.79813 23.5822 8.41781L26.5366 5.46344C26.968 5.03194 26.9373 4.32562 26.4764 3.92575C23.6567 1.4795 19.9879 0 16 0V6.26088C18.3456 6.26088 20.5003 7.09437 22.1833 8.48081Z"
-                                        fill="#D93F21" />
-                                </g>
-                                <defs>
-                                    <clipPath id="clip0_481_2548">
-                                        <rect width="32" height="32" fill="white" />
-                                    </clipPath>
-                                </defs>
-                            </svg>
-                        </span>
-                        GOOGLE
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /Login -->
-    <!-- Register -->
-    <div class="offcanvas offcanvas-end popup-log" id="canvasRegister">
-        <div class="canvas-wrapper">
-            <div class="popup-header">
-                <div class="heading pt-0 mb-0">
-                    <h5 class="title fw-semibold">Create account</h5>
-                    <span class="icon-Close2 link-rotate" data-bs-dismiss="offcanvas"></span>
-                </div>
-            </div>
-            <div class="canvas-body">
-                <form class="form-register">
-                    <div class="form-content gap-12">
-                        <input class="text-caption" type="text" placeholder="Username or email address*" required>
-                        <div class="password-wrapper  w-100">
-                            <input class="text-caption password-field" type="password" placeholder="Password*" required>
-                            <span class="toggle-pass icon-EyeSlice cl-text-main"></span>
-                        </div>
-                        <div class="password-wrapper  w-100">
-                            <input class="text-caption password-field" type="password" placeholder="Confirm Password*"
-                                required>
-                            <span class="toggle-pass icon-EyeSlice cl-text-main"></span>
-                        </div>
-                    </div>
-                    <div class="checkbox-wrap">
-                        <input class="tf-check style-small" type="checkbox" id="agree-term_register">
-                        <label for="agree-term_register" class="text-caption">
-                            I agree with
-                            <a href="/agb" class="text-decoration-underline">
-                                AGB
-                            </a>
-                        </label>
-                    </div>
-                    <div class="tf-grid-layout ssm-col-2 gap-12">
-                        <button type="submit" class="tf-btn rounded-6 size2 animate-btn w-100">
-                            Register
-                        </button>
-                        <a href="#canvasLogin" data-bs-toggle="offcanvas"
-                            class="tf-btn rounded-6 size2 style-stroke-2  w-100">
-                            Login
-                        </a>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-    <!-- /Register -->
-    <!-- Reset Pass -->
-    <div class="offcanvas offcanvas-end popup-log" id="canvasResetPass">
-        <div class="canvas-wrapper">
-            <div class="popup-header">
-                <div class="heading pt-0 mb-0">
-                    <h5 class="title fw-semibold">Reset Your Password</h5>
-                    <span class="icon-Close2 link-rotate" data-bs-dismiss="offcanvas"></span>
-                </div>
-            </div>
-
-            <div class="canvas-body">
-                <p class="text-caption cl-text-main mb-24">
-                    Forgot your password? No worries! Enter your registered email to receive a link and securely reset
-                    it in just a few steps.
-                </p>
-                <form class="form-reset">
-                    <div class="form-content">
-                        <input class="text-caption" type="email" placeholder="Enter Your Email*" required>
-                    </div>
-                    <div class="tf-grid-layout ssm-col-2 gap-12">
-                        <button type="submit" class="tf-btn rounded-6 size2 animate-btn w-100">
-                            Reset Password
-                        </button>
-                        <button type="button" data-bs-dismiss="offcanvas"
-                            class="tf-btn rounded-6 size2 style-stroke-2  w-100">
-                            Cancel
-                        </button>
-                    </div>
-                </form>
-            </div>
-        </div>
-    </div>
-    <!-- /Reset Pass -->
-
-    <!-- Demo -->
-    <div class="modal modalCentered fade modal-demo" id="modalDemo">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <button type="button" class="btn-close-popup" data-bs-dismiss="modal">
-                    <i class="icon icon-Close2"></i>
-                </button>
-                <h4 class="demo-title">Omniva Templates</h4>
-                <div class="row-demo">
-                    <div class="demo-item">
-                        <a href="/" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-1.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-new">New</span>
-                            </p>
-                        </a>
-                        <a href="/" class="demo-name text-caption fw-medium link-underline">
-                            Skincare
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-2.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-hot">Hot</span>
-                                <span class="demo-label type-trend">Trend</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Swimwear
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-3.jpg"
-                                alt="Image">
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Fashion
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-4.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Fashion 02
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-5.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-trend">Trend</span>
-                                <span class="demo-label type-new">New</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Jewelry
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-6.jpg"
-                                alt="Image">
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Furniture
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-7.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-new">New</span>
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Accessories
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-8.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-trend">Trend</span>
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Pet Store
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-9.jpg"
-                                alt="Image">
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Garden & Outdoor
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-10.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Baby
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-11.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-trend">Trend</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Kid Fashion
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-12.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-new">New</span>
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Organic
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-13.jpg"
-                                alt="Image">
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Office
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-14.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-new">New</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            POD Store
-                        </a>
-                    </div>
-                    <div class="demo-item">
-                        <a href="/shop" class="demo-img">
-                            <img loading="lazy" width="205" height="258" src="/assets/images/demo/demo-15.jpg"
-                                alt="Image">
-                            <p class="list-badge">
-                                <span class="demo-label type-trend">Trend</span>
-                                <span class="demo-label type-hot">Hot</span>
-                            </p>
-                        </a>
-                        <a href="/shop" class="demo-name text-caption fw-medium link-underline">
-                            Single Product
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /Demo -->
-
-    <!-- Newletter -->
-    <div class="modal modalCentered fade modal-newsletter-v1" tabindex="-1" aria-labelledby="newsletterTitle"
-        aria-hidden="true" id="modalNewletterV1">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="image">
-                    <button type="button" class="btn-close-popup" data-bs-dismiss="modal" aria-label="Close">
-                        <i class="icon icon-Close2" aria-hidden="true"></i>
-                    </button>
-                    <img loading="lazy" width="525" height="352" src="/assets/images/section/newletter-1.jpg"
-                        alt="Image">
-                </div>
-                <div class="content">
-                    <h4 class="title" id="newsletterTitle">
-                        Sign up to our Newsletter
-                    </h4>
-                    <p class="desc text-caption cl-text-4">
-                        Erfahren Sie als Erste die neuesten Angebote zu Brennholz und Pellets.
-                    </p>
-                    <form class="form-newsletter">
-                        <fieldset>
-                            <i class="icon icon-Newsletter"></i>
-                            <input type="email" placeholder="Your email address" required>
-                        </fieldset>
-                        <button type="submit" class="tf-btn rounded-6 size2 w-100 animate-btn">
-                            Send
-                        </button>
-                    </form>
-                    <div class="tf-list social-color list-social style-2 justify-content-center">
-                        <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"
-                            class="social-facebook" aria-label="Facebook">
-                            <span class="icon">
-                                <i class="icon-Facebook" aria-hidden="true"></i>
-                            </span>
-                        </a>
-
-                        <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"
-                            class="social-instagram" aria-label="Instagram">
-                            <span class="icon">
-                                <i class="icon-Instagram" aria-hidden="true"></i>
-                            </span>
-                        </a>
-
-                        <a href="https://x.com/" target="_blank" rel="noopener noreferrer" class="social-x"
-                            aria-label="X">
-                            <span class="icon">
-                                <i class="icon-X" aria-hidden="true"></i>
-                            </span>
-                        </a>
-
-                        <a href="https://www.tiktok.com/" target="_blank" rel="noopener noreferrer"
-                            class="social-tiktok" aria-label="TikTok">
-                            <span class="icon">
-                                <i class="icon-Tiktok2" aria-hidden="true"></i>
-                            </span>
-                        </a>
-
-                        <a href="https://www.pinterest.com/" target="_blank" rel="noopener noreferrer"
-                            class="social-pinterest" aria-label="Pinterest">
-                            <span class="icon">
-                                <i class="icon-Pinterest" aria-hidden="true"></i>
-                            </span>
-                        </a>
-                    </div>
-                    <p class="text-caption">
-                        <span class="cl-text-4">
-                            Will be used in accordance with our
-                        </span>
-                        <a href="/datenschutz" class="fw-medium link text-decoration-underline">
-                            Privacy Policy
-                        </a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- /Newletter -->
-
 
     <!-- Javascript -->
     <script src="/assets/js/plugin/bootstrap.min.js"></script>

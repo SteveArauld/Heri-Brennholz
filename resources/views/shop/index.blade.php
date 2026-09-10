@@ -7,6 +7,11 @@
     .shop-wrap { display: grid; grid-template-columns: 300px 1fr; gap: 48px; align-items: start; }
     @media (max-width: 1199px) { .shop-wrap { display: block; } }
 
+    /* Mobile : toujours 2 produits par ligne, quel que soit le choix de disposition */
+    @media (max-width: 767px) {
+        .wrapper-shop.tf-grid-layout { grid-template-columns: 1fr 1fr !important; column-gap: 12px; row-gap: 20px; }
+    }
+
     /* Sidebar */
     .shop-sidebar { position: sticky; top: 90px; }
     .shop-sidebar .widget-facet { border-bottom: 1px solid #ece5da; padding: 20px 0; }
@@ -70,7 +75,12 @@
 @endpush
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => $pageTitle])
+    @php
+        $ptSlug = (isset($activeCategorySlugs) && count($activeCategorySlugs) === 1)
+            ? 'cat-' . $activeCategorySlugs[0]
+            : 'hero-2';
+    @endphp
+    @include('partials.page-title', ['pageTitle' => $pageTitle, 'titleImageSlug' => $ptSlug])
 
     <div class="flat-spacing-9">
         <div class="container">

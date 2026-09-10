@@ -3,7 +3,7 @@
 @section('title', 'Datenschutzerklärung')
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => 'Datenschutzerklärung'])
+    @include('partials.page-title', ['pageTitle' => 'Datenschutzerklärung', 'titleImageSlug' => 'banner-wide-1'])
     <section class="flat-spacing-9">
         <div class="container" style="max-width:820px;">
             <p class="text-caption">Stand: {{ now()->format('d.m.Y') }}</p>
@@ -14,7 +14,7 @@
                 Fiderholzstrasse 7<br>
                 4562 Biberist, Schweiz<br>
                 UID/IDE: CHE-228.719.493<br>
-                E-Mail: <a href="mailto:info@heri-brennholz.ch">info@heri-brennholz.ch</a>
+                E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>
             </p>
             <p>Diese Erklärung informiert Sie über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten auf unserer Website, im Einklang mit dem Schweizer Datenschutzgesetz (DSG) sowie, soweit Kundinnen und Kunden in Deutschland betroffen sind, der EU-Datenschutz-Grundverordnung (DSGVO).</p>
 
@@ -39,7 +39,7 @@
             <p>Unsere Website verwendet technisch notwendige Cookies, um grundlegende Funktionen wie den Warenkorb bereitzustellen. Weitere Cookies werden nur mit Ihrer Einwilligung gesetzt.</p>
 
             <h5>7. Ihre Rechte</h5>
-            <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie, soweit anwendbar, auf Datenübertragbarkeit und Widerspruch. Wenden Sie sich dazu an <a href="mailto:info@heri-brennholz.ch">info@heri-brennholz.ch</a>. Kundinnen und Kunden in Deutschland haben zudem das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.</p>
+            <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie, soweit anwendbar, auf Datenübertragbarkeit und Widerspruch. Wenden Sie sich dazu an <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>. Kundinnen und Kunden in Deutschland haben zudem das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.</p>
 
             <h5>8. Datensicherheit</h5>
             <p>Wir treffen angemessene technische und organisatorische Massnahmen, um Ihre Daten vor Verlust, Missbrauch und unbefugtem Zugriff zu schützen.</p>

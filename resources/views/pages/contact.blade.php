@@ -3,7 +3,7 @@
 @section('title', 'Kontakt')
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => 'Kontakt aufnehmen'])
+    @include('partials.page-title', ['pageTitle' => 'Kontakt aufnehmen', 'titleImageSlug' => 'contact-1'])
     <section class="flat-spacing-9">
         <div class="container">
             @php $c = is_file(public_path('media/site/contact-1.jpg')) ? asset('media/site/contact-1.jpg') : null; @endphp
@@ -18,7 +18,7 @@
                         Fiderholzstrasse 7<br>
                         4562 Biberist, Schweiz<br>
                         Tel.: <a href="tel:+41000000000">+41 00 000 00 00</a><br>
-                        E-Mail: <a href="mailto:info@heri-brennholz.ch">info@heri-brennholz.ch</a></p>
+                        E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a></p>
                     <p class="text-caption">Montag bis Freitag, 8–18 Uhr.</p>
                     <p class="text-caption">Wir liefern kostenlos in die Schweiz und nach Deutschland (Bearbeitung: 0–1 Werktag, Lieferung: 2–3 Werktage).</p>
                 </div>

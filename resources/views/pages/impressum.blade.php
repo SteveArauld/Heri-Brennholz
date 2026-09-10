@@ -3,7 +3,7 @@
 @section('title', 'Impressum')
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => 'Impressum'])
+    @include('partials.page-title', ['pageTitle' => 'Impressum', 'titleImageSlug' => 'banner-wide-1'])
     <section class="flat-spacing-9">
         <div class="container" style="max-width:820px;">
             <h5>Anbieterkennzeichnung</h5>
@@ -27,7 +27,7 @@
 
             <h5>Kontakt</h5>
             <p>
-                E-Mail: <a href="mailto:info@heri-brennholz.ch">info@heri-brennholz.ch</a><br>
+                E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a><br>
                 Telefon: <a href="tel:+41000000000">+41 00 000 00 00</a>
             </p>
 

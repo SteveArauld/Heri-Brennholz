@@ -8,7 +8,7 @@
 @endphp
 
 @section('content')
-    @include('partials.page-title', ['pageTitle' => 'Über Heri Brennholz'])
+    @include('partials.page-title', ['pageTitle' => 'Über Heri Brennholz', 'titleImageSlug' => 'about-1'])
     <section class="flat-spacing-9">
         <div class="container">
             <div class="row align-items-center g-4 mb-5">
