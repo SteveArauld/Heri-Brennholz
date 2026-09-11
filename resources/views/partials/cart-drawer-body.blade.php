@@ -15,14 +15,14 @@
                 </a>
                 <div class="boire-cart-meta">
                     <a href="{{ route('product.show', $item['product']) }}" class="boire-cart-name">{{ $item['product']->name }}</a>
-                    <div class="boire-cart-line">{{ $item['quantity'] }} &times; {{ number_format((float) $item['product']->price, 2, ',', ' ') }} €</div>
+                    <div class="boire-cart-line">{{ $item['quantity'] }} &times; {{ number_format((float) $item['product']->price, 2, ',', ' ') }} CHF</div>
                     <form action="{{ route('cart.remove') }}" method="POST" class="js-cart-remove">
                         @csrf @method('DELETE')
                         <input type="hidden" name="product_id" value="{{ $item['product']->id }}">
                         <button type="submit" class="boire-cart-remove">Entfernen</button>
                     </form>
                 </div>
-                <div class="boire-cart-price">{{ number_format($item['line_total'], 2, ',', ' ') }} €</div>
+                <div class="boire-cart-price">{{ number_format($item['line_total'], 2, ',', ' ') }} CHF</div>
             </div>
         @endforeach
     </div>
@@ -30,7 +30,7 @@
     <div class="boire-cart-foot">
         <div class="boire-cart-subtotal">
             <span>Zwischensumme</span>
-            <span>{{ number_format($cart->subtotal(), 2, ',', ' ') }} €</span>
+            <span>{{ number_format($cart->subtotal(), 2, ',', ' ') }} CHF</span>
         </div>
         <p class="boire-cart-note">Versand wird bei der Bestellung berechnet.</p>
         <div class="boire-cart-actions">

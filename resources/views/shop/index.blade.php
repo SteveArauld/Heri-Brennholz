@@ -132,16 +132,16 @@
 
                         <div class="widget-facet">
                             <div class="facet-title" data-bs-toggle="collapse" data-bs-target="#facetPrice" role="button" aria-expanded="true">
-                                <span class="text-uppercase fw-medium">Preis (€)</span>
+                                <span class="text-uppercase fw-medium">Preis (CHF)</span>
                                 <span class="icon icon-ArrowCaretDown"></span>
                             </div>
                             <div id="facetPrice" class="collapse show">
                                 <div class="filter-price">
                                     <div class="price-val-range" id="price-value-range" data-min="0" data-max="{{ $priceBounds['max'] }}"></div>
                                     <div class="price-box">
-                                        <div class="price-val_wrap text-caption"><span>€</span><span class="price-val" id="price-min-value">0</span></div>
+                                        <div class="price-val_wrap text-caption"><span>CHF</span><span class="price-val" id="price-min-value">0</span></div>
                                         <span class="br-line"></span>
-                                        <div class="price-val_wrap text-caption"><span>€</span><span class="price-val" id="price-max-value">{{ $priceBounds['max'] }}</span></div>
+                                        <div class="price-val_wrap text-caption"><span>CHF</span><span class="price-val" id="price-max-value">{{ $priceBounds['max'] }}</span></div>
                                     </div>
                                     <input type="hidden" name="min" id="priceMinInput" value="{{ request('min') }}">
                                     <input type="hidden" name="max" id="priceMaxInput" value="{{ request('max') }}">

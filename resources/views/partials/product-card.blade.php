@@ -56,9 +56,9 @@
         <a href="{{ route('product.show', $product) }}" class="name-product fw-medium link-underline">{{ $product->name }}</a>
         <div class="price-wrap h6">
             @if ($hasPromo)
-                <span class="price-old text-decoration-line-through opacity-50 me-1">{{ number_format((float) $product->regular_price, 2, ',', ' ') }} €</span>
+                <span class="price-old text-decoration-line-through opacity-50 me-1">{{ number_format((float) $product->regular_price, 2, ',', ' ') }} CHF</span>
             @endif
-            <span class="price-new fw-medium">{{ number_format((float) $product->price, 2, ',', ' ') }} €</span>
+            <span class="price-new fw-medium">{{ number_format((float) $product->price, 2, ',', ' ') }} CHF</span>
         </div>
     </div>
 </div>

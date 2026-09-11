@@ -75,7 +75,7 @@ class ShopSeeder extends Seeder
                         'regular_price' => $p['regular_price'],
                         'sale_price' => $p['sale_price'],
                         'on_sale' => $p['on_sale'] ?? false,
-                        'currency' => $p['currency'] ?? 'EUR',
+                        'currency' => $p['currency'] ?? 'CHF',
                         'in_stock' => $p['in_stock'] ?? true,
                         'stock_availability' => $p['stock_availability'] ?? null,
                         'weight' => $p['weight'] ?? null,

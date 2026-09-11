@@ -22,7 +22,7 @@ return new class extends Migration
             $table->decimal('regular_price', 10, 2)->nullable();
             $table->decimal('sale_price', 10, 2)->nullable();
             $table->boolean('on_sale')->default(false);
-            $table->string('currency', 8)->default('EUR');
+            $table->string('currency', 8)->default('CHF');
             $table->boolean('in_stock')->default(true);
             $table->string('stock_availability')->nullable();
             $table->string('weight')->nullable();

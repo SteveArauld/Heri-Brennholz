@@ -18,12 +18,12 @@
                         @foreach ($order->items as $item)
                             <tr>
                                 <td>{{ $item->name }} × {{ $item->quantity }}</td>
-                                <td class="text-end">{{ number_format((float) $item->line_total, 2, ',', ' ') }} €</td>
+                                <td class="text-end">{{ number_format((float) $item->line_total, 2, ',', ' ') }} CHF</td>
                             </tr>
                         @endforeach
-                        <tr><td>Zwischensumme</td><td class="text-end">{{ number_format((float) $order->subtotal, 2, ',', ' ') }} €</td></tr>
-                        <tr><td>Versand</td><td class="text-end">{{ $order->shipping > 0 ? number_format((float) $order->shipping, 2, ',', ' ').' €' : 'Kostenlos' }}</td></tr>
-                        <tr class="fw-semibold"><td>Gesamtbetrag</td><td class="text-end">{{ number_format((float) $order->total, 2, ',', ' ') }} €</td></tr>
+                        <tr><td>Zwischensumme</td><td class="text-end">{{ number_format((float) $order->subtotal, 2, ',', ' ') }} CHF</td></tr>
+                        <tr><td>Versand</td><td class="text-end">{{ $order->shipping > 0 ? number_format((float) $order->shipping, 2, ',', ' ').' CHF' : 'Kostenlos' }}</td></tr>
+                        <tr class="fw-semibold"><td>Gesamtbetrag</td><td class="text-end">{{ number_format((float) $order->total, 2, ',', ' ') }} CHF</td></tr>
                     </tbody>
                 </table>
                 <p class="mb-1"><strong>Lieferadresse:</strong> {{ $order->first_name }} {{ $order->last_name }}, {{ $order->address }}@if($order->address_2), {{ $order->address_2 }}@endif, {{ $order->postcode }} {{ $order->city }}, {{ $order->country }}</p>

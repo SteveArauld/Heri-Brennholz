@@ -35,13 +35,13 @@
                         @foreach ($items as $item)
                             <div class="d-flex justify-content-between mb-2 text-caption">
                                 <span>{{ $item['product']->name }} × {{ $item['quantity'] }}</span>
-                                <span>{{ number_format($item['line_total'], 2, ',', ' ') }} €</span>
+                                <span>{{ number_format($item['line_total'], 2, ',', ' ') }} CHF</span>
                             </div>
                         @endforeach
                         <hr>
-                        <div class="d-flex justify-content-between mb-2"><span>Zwischensumme</span><span>{{ number_format($cart->subtotal(), 2, ',', ' ') }} €</span></div>
-                        <div class="d-flex justify-content-between mb-2"><span>Versand</span><span>{{ $cart->shipping() > 0 ? number_format($cart->shipping(), 2, ',', ' ').' €' : 'Kostenlos' }}</span></div>
-                        <div class="d-flex justify-content-between fw-semibold h6"><span>Gesamt</span><span>{{ number_format($cart->total(), 2, ',', ' ') }} €</span></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Zwischensumme</span><span>{{ number_format($cart->subtotal(), 2, ',', ' ') }} CHF</span></div>
+                        <div class="d-flex justify-content-between mb-2"><span>Versand</span><span>{{ $cart->shipping() > 0 ? number_format($cart->shipping(), 2, ',', ' ').' CHF' : 'Kostenlos' }}</span></div>
+                        <div class="d-flex justify-content-between fw-semibold h6"><span>Gesamt</span><span>{{ number_format($cart->total(), 2, ',', ' ') }} CHF</span></div>
                         <button type="submit" class="tf-btn btn-fill animate-btn w-100 mt-3"><span>Bestellung bestätigen</span></button>
                         <p class="text-caption mt-2 opacity-75">Zahlung bei Lieferung / per Rechnung (Demo).</p>
                     </div>

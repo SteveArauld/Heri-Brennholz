@@ -25,7 +25,7 @@ return new class extends Migration
             $table->decimal('subtotal', 10, 2)->default(0);
             $table->decimal('shipping', 10, 2)->default(0);
             $table->decimal('total', 10, 2)->default(0);
-            $table->string('currency', 8)->default('EUR');
+            $table->string('currency', 8)->default('CHF');
             $table->timestamps();
         });
     }
