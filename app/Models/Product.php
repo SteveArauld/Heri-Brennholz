@@ -14,6 +14,7 @@ class Product extends Model
         'price' => 'decimal:2',
         'regular_price' => 'decimal:2',
         'sale_price' => 'decimal:2',
+        'price_per_unit' => 'decimal:3',
         'on_sale' => 'boolean',
         'in_stock' => 'boolean',
         'is_featured' => 'boolean',
@@ -42,6 +43,15 @@ class Product extends Model
 
     public function getFormattedPriceAttribute(): string
     {
-        return number_format((float) $this->price, 2, '.', "'") . ' CHF';
+        return swiss_money($this->price);
+    }
+
+    public function getFormattedGrundpreisAttribute(): ?string
+    {
+        if ($this->price_per_unit === null || ! $this->price_per_unit_label) {
+            return null;
+        }
+
+        return 'Grundpreis: ' . number_format((float) $this->price_per_unit, 2, '.', "'") . ' ' . $this->price_per_unit_label;
     }
 }
