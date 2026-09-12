@@ -52,7 +52,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-lodi",
+      "gtin": null
     },
     {
       "source_id": 900001,
@@ -89,7 +91,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900002,
@@ -126,7 +130,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900003,
@@ -163,7 +169,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-lodi",
+      "gtin": null
     },
     {
       "source_id": 900004,
@@ -200,7 +208,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900005,
@@ -237,7 +247,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900006,
@@ -274,7 +286,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900007,
@@ -311,7 +325,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900008,
@@ -348,7 +364,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900009,
@@ -385,7 +403,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-adrano-7",
+      "gtin": null
     },
     {
       "source_id": 900010,
@@ -422,7 +442,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900011,
@@ -459,7 +481,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-lodi",
+      "gtin": null
     },
     {
       "source_id": 900012,
@@ -496,7 +520,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900013,
@@ -533,7 +559,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-lodi",
+      "gtin": null
     },
     {
       "source_id": 900014,
@@ -570,7 +598,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900015,
@@ -606,7 +636,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-adrano-7",
+      "gtin": null
     },
     {
       "source_id": 900016,
@@ -643,7 +675,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900017,
@@ -680,7 +714,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "invicta-lodi",
+      "gtin": null
     },
     {
       "source_id": 900018,
@@ -717,7 +753,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900019,
@@ -754,7 +792,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900020,
@@ -791,7 +831,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900021,
@@ -828,7 +870,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "la-nordica-luisella-5-0-maxi-7-kw",
+      "gtin": null
     },
     {
       "source_id": 900022,
@@ -865,7 +909,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900023,
@@ -902,7 +948,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900024,
@@ -939,7 +987,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900025,
@@ -976,7 +1026,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900026,
@@ -1013,7 +1065,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900027,
@@ -1050,7 +1104,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900028,
@@ -1087,7 +1143,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900029,
@@ -1124,7 +1182,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900030,
@@ -1161,7 +1221,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "la-nordica-luisella-5-0-maxi-7-kw",
+      "gtin": null
     },
     {
       "source_id": 900031,
@@ -1198,7 +1260,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     },
     {
       "source_id": 900032,
@@ -1235,7 +1299,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 900033,
@@ -1272,7 +1338,9 @@
         }
       ],
       "price_per_unit": null,
-      "price_per_unit_label": null
+      "price_per_unit_label": null,
+      "variant_group": "sannover-anita",
+      "gtin": null
     }
   ]
 }

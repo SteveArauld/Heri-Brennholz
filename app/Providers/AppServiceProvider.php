@@ -3,6 +3,8 @@
 namespace App\Providers;
 
 use App\Models\Category;
+use App\Models\Product;
+use App\Observers\ProductObserver;
 use App\Services\Cart;
 use App\Services\Wishlist;
 use Illuminate\Pagination\Paginator;
@@ -20,6 +22,9 @@ class AppServiceProvider extends ServiceProvider
     public function boot(): void
     {
         Paginator::useBootstrapFive();
+
+        // Merchant-Center-Feed-Cache invalidieren, sobald ein Produkt sich ändert.
+        Product::observe(ProductObserver::class);
 
         View::composer('*', function ($view) {
             $view->with('navCategories', Category::orderBy('position')->withCount('products')->get());

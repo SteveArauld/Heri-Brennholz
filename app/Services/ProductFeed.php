@@ -33,9 +33,16 @@ class ProductFeed
         $currency = (string) config('feed.currency', 'CHF');
         $brand = (string) config('feed.brand');
         $condition = (string) config('feed.condition', 'new');
-        $googleCategory = trim((string) config('feed.google_product_category'));
+        $googleCategoryDefault = trim((string) config('feed.google_product_category'));
+        $googleCategoryMap = (array) config('feed.google_product_category_map', []);
         $shippingCountries = (array) config('feed.shipping_countries', []);
         $shippingService = (string) config('feed.shipping_service');
+        $contentLanguage = (string) config('feed.content_language', 'de');
+        $targetCountry = (string) config('feed.target_country', 'CH');
+        $handlingMin = (int) config('feed.shipping_handling_time_min', 1);
+        $handlingMax = (int) config('feed.shipping_handling_time_max', 2);
+        $transitMin = (int) config('feed.shipping_transit_time_min', 1);
+        $transitMax = (int) config('feed.shipping_transit_time_max', 2);
 
         $w = new XMLWriter();
         $w->openMemory();
@@ -53,9 +60,17 @@ class ProductFeed
 
         Product::with(['images', 'categories'])
             ->orderBy('id')
-            ->chunk(200, function ($products) use ($w, $currency, $brand, $condition, $googleCategory, $shippingCountries, $shippingService) {
+            ->chunk(200, function ($products) use (
+                $w, $currency, $brand, $condition, $googleCategoryDefault, $googleCategoryMap,
+                $shippingCountries, $shippingService, $contentLanguage, $targetCountry,
+                $handlingMin, $handlingMax, $transitMin, $transitMax
+            ) {
                 foreach ($products as $product) {
-                    $this->writeItem($w, $product, $currency, $brand, $condition, $googleCategory, $shippingCountries, $shippingService);
+                    $this->writeItem(
+                        $w, $product, $currency, $brand, $condition, $googleCategoryDefault, $googleCategoryMap,
+                        $shippingCountries, $shippingService, $contentLanguage, $targetCountry,
+                        $handlingMin, $handlingMax, $transitMin, $transitMax
+                    );
                 }
             });
 
@@ -72,9 +87,16 @@ class ProductFeed
         string $currency,
         string $brand,
         string $condition,
-        string $googleCategory,
+        string $googleCategoryDefault,
+        array $googleCategoryMap,
         array $shippingCountries,
-        string $shippingService
+        string $shippingService,
+        string $contentLanguage,
+        string $targetCountry,
+        int $handlingMin,
+        int $handlingMax,
+        int $transitMin,
+        int $transitMax
     ): void {
         $images = $product->images;
         $primary = $images->firstWhere('is_primary', true) ?? $images->first();
@@ -117,13 +139,29 @@ class ProductFeed
 
         $w->writeElement('g:brand', $brand);
 
-        // Brennholz hat üblicherweise keine GTIN/MPN.
-        if (! empty($product->sku)) {
-            $w->writeElement('g:mpn', (string) $product->sku);
-            $w->writeElement('g:identifier_exists', 'yes');
-        } else {
-            $w->writeElement('g:identifier_exists', 'no');
+        // GTIN wird nie erfunden — nur ausgeben, wenn eine echte, nicht-leere
+        // GTIN vorliegt. MPN kommt weiterhin von sku. identifier_exists ist nur
+        // dann "no", wenn WEDER gtin NOCH mpn vorhanden ist (vorher wurde nur
+        // sku/mpn geprüft).
+        $gtin = trim((string) ($product->gtin ?? ''));
+        $mpn = trim((string) ($product->sku ?? ''));
+
+        if ($gtin !== '') {
+            $w->writeElement('g:gtin', $gtin);
         }
+        if ($mpn !== '') {
+            $w->writeElement('g:mpn', $mpn);
+        }
+        $w->writeElement('g:identifier_exists', ($gtin === '' && $mpn === '') ? 'no' : 'yes');
+
+        if (! empty($product->item_group_id)) {
+            $w->writeElement('g:item_group_id', (string) $product->item_group_id);
+        }
+
+        $primaryCategorySlug = $product->categories->first()?->slug;
+        $googleCategory = $primaryCategorySlug !== null
+            ? trim((string) ($googleCategoryMap[$primaryCategorySlug] ?? $googleCategoryDefault))
+            : $googleCategoryDefault;
 
         if ($googleCategory !== '') {
             $w->writeElement('g:google_product_category', $googleCategory);
@@ -138,11 +176,21 @@ class ProductFeed
             $w->writeElement('g:shipping_weight', rtrim(rtrim(number_format((float) $product->weight, 2, '.', ''), '0'), '.') . ' kg');
         }
 
+        // content_language/target_country sind Produktdaten-Attribute und
+        // gehören pro <item>, nicht auf Kanalebene (siehe Google Merchant
+        // Center Produktdatenspezifikation).
+        $w->writeElement('g:content_language', $contentLanguage);
+        $w->writeElement('g:target_country', $targetCountry);
+
         foreach ($shippingCountries as $country) {
             $w->startElement('g:shipping');
             $w->writeElement('g:country', $country);
             $w->writeElement('g:service', $shippingService);
             $w->writeElement('g:price', $this->money(0, $currency));
+            $w->writeElement('g:min_handling_time', (string) $handlingMin);
+            $w->writeElement('g:max_handling_time', (string) $handlingMax);
+            $w->writeElement('g:min_transit_time', (string) $transitMin);
+            $w->writeElement('g:max_transit_time', (string) $transitMax);
             $w->endElement();
         }
 

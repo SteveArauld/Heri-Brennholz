@@ -48,5 +48,12 @@ Route::get('/versand', [PageController::class, 'versand'])->name('pages.versand'
 Route::get('/rueckgabe', [PageController::class, 'rueckgabe'])->name('pages.rueckgabe');
 
 // Google Merchant Center Produkt-Feed
-Route::get('/feed/google-merchant.xml', [FeedController::class, 'index'])->name('feed.google');
-Route::get('/feed/google-merchant.xml/download', [FeedController::class, 'download'])->name('feed.google.download');
+// Stabile Pfade. Die alten "/feed/..."-URLs bleiben als 301-Redirect erhalten
+// (falls extern bereits referenziert), sind aber nirgends im Projekt als
+// bereits bei Merchant Center registriert dokumentiert.
+Route::get('/feeds/google-merchant-ch.xml', [FeedController::class, 'index'])->name('feed.google');
+Route::get('/feeds/google-merchant-ch.xml/download', [FeedController::class, 'download'])->name('feed.google.download');
+Route::get('/feeds/google-merchant-ch.tsv', [FeedController::class, 'tsv'])->name('feed.google.tsv');
+
+Route::redirect('/feed/google-merchant.xml', '/feeds/google-merchant-ch.xml', 301);
+Route::redirect('/feed/google-merchant.xml/download', '/feeds/google-merchant-ch.xml/download', 301);

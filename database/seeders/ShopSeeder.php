@@ -15,6 +15,7 @@ class ShopSeeder extends Seeder
         $files = ['data/products.json', 'data/stoves.json'];
         $catPosition = 0;
         $slugPos = 0;
+        $variantGroups = []; // source_id => variant_group label (from JSON)
 
         foreach ($files as $rel) {
             $path = database_path($rel);
@@ -67,6 +68,7 @@ class ShopSeeder extends Seeder
                         'source_id' => $p['source_id'] ?? null,
                         'name' => $p['name'],
                         'sku' => $p['sku'] ?? null,
+                        'gtin' => $p['gtin'] ?? null,
                         'type' => $p['type'] ?? 'simple',
                         'short_description' => $p['short_description'] ?? null,
                         'description' => $p['description'] ?? null,
@@ -105,6 +107,10 @@ class ShopSeeder extends Seeder
                         'is_primary' => $img['is_primary'] ?? false,
                     ]);
                 }
+
+                if (! empty($p['variant_group'])) {
+                    $variantGroups[$product->id] = (string) $p['variant_group'];
+                }
             }
         }
 
@@ -116,6 +122,20 @@ class ShopSeeder extends Seeder
             }
         });
 
+        // item_group_id (g:item_group_id) : seulement quand le "variant_group" du JSON
+        // possède réellement 2+ produits seedés — un produit isolé n'a pas de variante.
+        Product::whereNotNull('item_group_id')->update(['item_group_id' => null]);
+        $byGroup = collect($variantGroups)->groupBy(fn ($label) => $label);
+        $groupSizes = [];
+        foreach ($byGroup as $label => $ids) {
+            $groupSizes[$label] = $ids->count();
+            if ($ids->count() >= 2) {
+                Product::whereIn('id', $ids->keys())->update(['item_group_id' => $label]);
+            }
+        }
+
+        $realGroups = array_filter($groupSizes, fn ($n) => $n >= 2);
         $this->command->info('Seeded ' . Category::count() . ' categories, ' . Product::count() . ' products, ' . ProductImage::count() . ' images.');
+        $this->command->info(count($realGroups) . ' variant groups (item_group_id) created: ' . collect($realGroups)->map(fn ($n, $label) => "{$label}={$n}")->implode(', '));
     }
 }

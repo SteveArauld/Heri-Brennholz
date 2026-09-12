@@ -61,7 +61,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16903,
@@ -108,7 +110,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16902,
@@ -148,7 +152,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16901,
@@ -195,7 +201,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16900,
@@ -235,7 +243,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16899,
@@ -275,7 +285,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16898,
@@ -329,7 +341,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16897,
@@ -369,7 +383,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16896,
@@ -409,7 +425,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16895,
@@ -449,7 +467,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16894,
@@ -489,7 +509,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16893,
@@ -529,7 +551,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzpellets-badger",
+      "gtin": null
     },
     {
       "source_id": 16809,
@@ -569,7 +593,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzpellets-badger",
+      "gtin": null
     },
     {
       "source_id": 16808,
@@ -609,7 +635,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzpellets-westerw-lder",
+      "gtin": null
     },
     {
       "source_id": 16807,
@@ -649,7 +677,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzpellets-westerw-lder",
+      "gtin": null
     },
     {
       "source_id": 16806,
@@ -689,7 +719,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16805,
@@ -729,7 +761,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16804,
@@ -776,7 +810,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16803,
@@ -823,7 +859,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "pellets-pellini-en-a1-palette-mit-66-s-cke-1",
+      "gtin": null
     },
     {
       "source_id": 16802,
@@ -891,7 +929,9 @@
         }
       ],
       "price_per_unit": 0.471,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16801,
@@ -952,7 +992,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16800,
@@ -999,7 +1041,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "pellets-pellini-en-a1-palette-mit-66-s-cke-1",
+      "gtin": null
     },
     {
       "source_id": 16799,
@@ -1046,7 +1090,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16798,
@@ -1100,7 +1146,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16797,
@@ -1147,7 +1195,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16796,
@@ -1208,7 +1258,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16795,
@@ -1255,7 +1307,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16794,
@@ -1302,7 +1356,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16793,
@@ -1356,7 +1412,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16792,
@@ -1410,7 +1468,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16791,
@@ -1464,7 +1524,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16790,
@@ -1511,7 +1573,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16789,
@@ -1558,7 +1622,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16788,
@@ -1605,7 +1671,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16787,
@@ -1652,7 +1720,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16786,
@@ -1699,7 +1769,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16785,
@@ -1746,7 +1818,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16784,
@@ -1793,7 +1867,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16783,
@@ -1840,7 +1916,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16702,
@@ -1901,7 +1979,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-wooday-palette-2-m-scheite-laubholz",
+      "gtin": null
     },
     {
       "source_id": 16701,
@@ -1962,7 +2042,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-wooday-palette-2-m-scheite-laubholz",
+      "gtin": null
     },
     {
       "source_id": 16700,
@@ -2023,7 +2105,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-wooday-palette-2-m-scheite-laubholz",
+      "gtin": null
     },
     {
       "source_id": 16699,
@@ -2084,7 +2168,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-wooday-palette-2-m-scheite-laubholz",
+      "gtin": null
     },
     {
       "source_id": 16694,
@@ -2138,7 +2224,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-nachtbriketts-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16693,
@@ -2192,7 +2280,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-nachtbriketts-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16692,
@@ -2246,7 +2336,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-nachtbriketts-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16691,
@@ -2300,7 +2392,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-nachtbriketts-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16616,
@@ -2361,7 +2455,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16615,
@@ -2422,7 +2518,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16614,
@@ -2483,7 +2581,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16613,
@@ -2544,7 +2644,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16612,
@@ -2591,7 +2693,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16611,
@@ -2638,7 +2742,9 @@
         }
       ],
       "price_per_unit": 0.473,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16609,
@@ -2685,7 +2791,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16608,
@@ -2739,7 +2847,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16542,
@@ -2779,7 +2889,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16541,
@@ -2819,7 +2931,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16540,
@@ -2859,7 +2973,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16539,
@@ -2899,7 +3015,9 @@
         }
       ],
       "price_per_unit": 189.27,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16427,
@@ -2939,7 +3057,9 @@
         }
       ],
       "price_per_unit": 188.99,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-scheite",
+      "gtin": null
     },
     {
       "source_id": 16426,
@@ -2979,7 +3099,9 @@
         }
       ],
       "price_per_unit": 189.09,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-scheite",
+      "gtin": null
     },
     {
       "source_id": 16425,
@@ -3019,7 +3141,9 @@
         }
       ],
       "price_per_unit": 188.98,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-scheite",
+      "gtin": null
     },
     {
       "source_id": 16424,
@@ -3059,7 +3183,9 @@
         }
       ],
       "price_per_unit": 188.85,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "scheite-extra-trocken",
+      "gtin": null
     },
     {
       "source_id": 16423,
@@ -3099,7 +3225,9 @@
         }
       ],
       "price_per_unit": 188.89,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-scheite",
+      "gtin": null
     },
     {
       "source_id": 16422,
@@ -3139,7 +3267,9 @@
         }
       ],
       "price_per_unit": 188.97,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "scheite-extra-trocken",
+      "gtin": null
     },
     {
       "source_id": 16421,
@@ -3179,7 +3309,9 @@
         }
       ],
       "price_per_unit": 189.03,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16420,
@@ -3219,7 +3351,9 @@
         }
       ],
       "price_per_unit": 188.89,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16417,
@@ -3259,7 +3393,9 @@
         }
       ],
       "price_per_unit": 188.84,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "scheite-extra-trocken",
+      "gtin": null
     },
     {
       "source_id": 16416,
@@ -3299,7 +3435,9 @@
         }
       ],
       "price_per_unit": 189.27,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16415,
@@ -3339,7 +3477,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "scheite-premium-cre-pito",
+      "gtin": null
     },
     {
       "source_id": 16340,
@@ -3386,7 +3526,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16317,
@@ -3426,7 +3568,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "scheite-premium-cre-pito",
+      "gtin": null
     },
     {
       "source_id": 18141,
@@ -3487,7 +3631,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18139,
@@ -3541,7 +3687,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18137,
@@ -3581,7 +3729,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18134,
@@ -3621,7 +3771,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18133,
@@ -3661,7 +3813,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18132,
@@ -3701,7 +3855,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18131,
@@ -3741,7 +3897,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18129,
@@ -3795,7 +3953,9 @@
         }
       ],
       "price_per_unit": 188.89,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18126,
@@ -3849,7 +4009,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18124,
@@ -3889,7 +4051,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18121,
@@ -3929,7 +4093,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18117,
@@ -3969,7 +4135,9 @@
         }
       ],
       "price_per_unit": 0.474,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18115,
@@ -4016,7 +4184,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18039,
@@ -4056,7 +4226,9 @@
         }
       ],
       "price_per_unit": 0.472,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18033,
@@ -4096,7 +4268,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18032,
@@ -4136,7 +4310,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18030,
@@ -4183,7 +4359,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18029,
@@ -4230,7 +4408,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18027,
@@ -4284,7 +4464,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18021,
@@ -4324,7 +4506,9 @@
         }
       ],
       "price_per_unit": 0.46,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18020,
@@ -4378,7 +4562,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18016,
@@ -4418,7 +4604,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18015,
@@ -4458,7 +4646,9 @@
         }
       ],
       "price_per_unit": 0.47,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 18014,
@@ -4498,7 +4688,9 @@
         }
       ],
       "price_per_unit": 0.46,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16620,
@@ -4552,7 +4744,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16619,
@@ -4599,7 +4793,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16523,
@@ -4639,7 +4835,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-nachtbriketts-palette-mit",
+      "gtin": null
     },
     {
       "source_id": 16522,
@@ -4679,7 +4877,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-nachtbriketts-palette-mit",
+      "gtin": null
     },
     {
       "source_id": 16521,
@@ -4719,7 +4919,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16520,
@@ -4773,7 +4975,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16519,
@@ -4820,7 +5024,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-nachtbriketts",
+      "gtin": null
     },
     {
       "source_id": 16518,
@@ -4867,7 +5073,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-nachtbriketts",
+      "gtin": null
     },
     {
       "source_id": 16517,
@@ -4914,7 +5122,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16516,
@@ -4961,7 +5171,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-laubholz-nadelholz",
+      "gtin": null
     },
     {
       "source_id": 16515,
@@ -5008,7 +5220,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "holzbrikett-laubholz-nadelholz",
+      "gtin": null
     },
     {
       "source_id": 16514,
@@ -5055,7 +5269,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16418,
@@ -5102,7 +5318,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16698,
@@ -5156,7 +5374,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-pressholz-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16697,
@@ -5210,7 +5430,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-pressholz-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16696,
@@ -5264,7 +5486,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-pressholz-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16695,
@@ -5318,7 +5542,9 @@
         }
       ],
       "price_per_unit": 0.59,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": "palette-gemischt-pressholz-box-brennholz",
+      "gtin": null
     },
     {
       "source_id": 16618,
@@ -5365,7 +5591,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16617,
@@ -5412,7 +5640,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16610,
@@ -5466,7 +5696,9 @@
         }
       ],
       "price_per_unit": 0.473,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16538,
@@ -5513,7 +5745,9 @@
         }
       ],
       "price_per_unit": 188.75,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16537,
@@ -5567,7 +5801,9 @@
         }
       ],
       "price_per_unit": 188.82,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16536,
@@ -5621,7 +5857,9 @@
         }
       ],
       "price_per_unit": 188.95,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16535,
@@ -5675,7 +5913,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16534,
@@ -5729,7 +5969,9 @@
         }
       ],
       "price_per_unit": 188.95,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16533,
@@ -5783,7 +6025,9 @@
         }
       ],
       "price_per_unit": 188.82,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16532,
@@ -5823,7 +6067,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16531,
@@ -5870,7 +6116,9 @@
         }
       ],
       "price_per_unit": 189.16,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16530,
@@ -5917,7 +6165,9 @@
         }
       ],
       "price_per_unit": 188.85,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16529,
@@ -5964,7 +6214,9 @@
         }
       ],
       "price_per_unit": 188.89,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16528,
@@ -6011,7 +6263,9 @@
         }
       ],
       "price_per_unit": 188.97,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16527,
@@ -6058,7 +6312,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16526,
@@ -6105,7 +6361,9 @@
         }
       ],
       "price_per_unit": 189.06,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16525,
@@ -6152,7 +6410,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "mischung-hartholz",
+      "gtin": null
     },
     {
       "source_id": 16513,
@@ -6199,7 +6459,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16444,
@@ -6246,7 +6508,9 @@
         }
       ],
       "price_per_unit": 189.06,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16443,
@@ -6293,7 +6557,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16442,
@@ -6340,7 +6606,9 @@
         }
       ],
       "price_per_unit": 188.97,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16441,
@@ -6387,7 +6655,9 @@
         }
       ],
       "price_per_unit": 188.89,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16440,
@@ -6434,7 +6704,9 @@
         }
       ],
       "price_per_unit": 188.85,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16439,
@@ -6481,7 +6753,9 @@
         }
       ],
       "price_per_unit": 189.16,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16342,
@@ -6542,7 +6816,9 @@
         }
       ],
       "price_per_unit": 0.473,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16341,
@@ -6589,7 +6865,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16339,
@@ -6650,7 +6928,9 @@
         }
       ],
       "price_per_unit": 0.474,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16338,
@@ -6690,7 +6970,9 @@
         }
       ],
       "price_per_unit": 188.85,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16337,
@@ -6737,7 +7019,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16336,
@@ -6777,7 +7061,9 @@
         }
       ],
       "price_per_unit": 189.15,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16335,
@@ -6817,7 +7103,9 @@
         }
       ],
       "price_per_unit": 188.85,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16334,
@@ -6864,7 +7152,9 @@
         }
       ],
       "price_per_unit": 0.472,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16333,
@@ -6904,7 +7194,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16332,
@@ -6958,7 +7250,9 @@
         }
       ],
       "price_per_unit": 189.27,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16331,
@@ -7005,7 +7299,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16330,
@@ -7045,7 +7341,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16329,
@@ -7106,7 +7404,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16328,
@@ -7146,7 +7446,9 @@
         }
       ],
       "price_per_unit": 189.14,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16327,
@@ -7193,7 +7495,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-im-sack-ultra-trocken-holzart-100",
+      "gtin": null
     },
     {
       "source_id": 16326,
@@ -7233,7 +7537,9 @@
         }
       ],
       "price_per_unit": 189.16,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16325,
@@ -7280,7 +7586,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16324,
@@ -7327,7 +7635,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": "brennholz-im-sack-ultra-trocken-holzart-100",
+      "gtin": null
     },
     {
       "source_id": 16323,
@@ -7367,7 +7677,9 @@
         }
       ],
       "price_per_unit": 189.15,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16322,
@@ -7407,7 +7719,9 @@
         }
       ],
       "price_per_unit": 189.27,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16321,
@@ -7447,7 +7761,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16320,
@@ -7487,7 +7803,9 @@
         }
       ],
       "price_per_unit": 188.84,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16319,
@@ -7527,7 +7845,9 @@
         }
       ],
       "price_per_unit": 189.27,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16318,
@@ -7567,7 +7887,9 @@
         }
       ],
       "price_per_unit": 189.06,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16316,
@@ -7607,7 +7929,9 @@
         }
       ],
       "price_per_unit": 188.97,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16315,
@@ -7647,7 +7971,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16314,
@@ -7701,7 +8027,9 @@
         }
       ],
       "price_per_unit": 0.472,
-      "price_per_unit_label": "CHF/kg"
+      "price_per_unit_label": "CHF/kg",
+      "variant_group": null,
+      "gtin": null
     },
     {
       "source_id": 16313,
@@ -7741,7 +8069,9 @@
         }
       ],
       "price_per_unit": 189.0,
-      "price_per_unit_label": "CHF/Ster"
+      "price_per_unit_label": "CHF/Ster",
+      "variant_group": null,
+      "gtin": null
     }
   ]
 }
