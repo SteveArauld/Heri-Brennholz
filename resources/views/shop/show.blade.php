@@ -66,14 +66,17 @@
                                 @endif
                                 <h3 class="product-infor-name">{{ $product->name }}</h3>
                                 <div class="product-infor-price">
-                                    <span class="price-on-sale h4 text-primary">{{ number_format((float) $product->price, 2, ',', ' ') }} CHF</span>
+                                    <span class="price-on-sale h4 text-primary">{{ swiss_money((float) $product->price) }}</span>
                                     @if ($hasPromo)
-                                        <span class="price-on-old cl-text-main fw-medium text-decoration-line-through">{{ number_format((float) $product->regular_price, 2, ',', ' ') }} CHF</span>
+                                        <span class="price-on-old cl-text-main fw-medium text-decoration-line-through">{{ swiss_money((float) $product->regular_price) }}</span>
                                         <span class="badge-sale text-extra-small fw-medium style-fill">
                                             -{{ (int) round(100 - ($product->price / max((float) $product->regular_price, 0.01) * 100)) }} %
                                         </span>
                                     @endif
                                 </div>
+                                @if ($product->formatted_grundpreis)
+                                    <div class="product-infor-grundpreis text-caption cl-text-main">{{ $product->formatted_grundpreis }}</div>
+                                @endif
                                 <div class="tf-product-shipping cl-text-main">
                                     <a href="{{ route('pages.faq') }}" class="text-decoration-underline link">Versand</a>
                                     wird bei der Bestellung berechnet.
@@ -203,7 +206,7 @@
                         @csrf
                         <input type="hidden" name="product_id" value="{{ $product->id }}">
                         <div class="tf-sticky-atc-variant-price">
-                            <span class="h6">{{ number_format((float) $product->price, 2, ',', ' ') }} CHF</span>
+                            <span class="h6">{{ swiss_money((float) $product->price) }}</span>
                         </div>
                         <div class="tf-product-info-quantity">
                             <div class="wg-quantity py-2">
