@@ -55,7 +55,7 @@ class CheckoutController extends Controller
             'subtotal' => $this->cart->subtotal(),
             'shipping' => $this->cart->shipping(),
             'total' => $this->cart->total(),
-            'currency' => 'EUR',
+            'currency' => 'CHF',
         ]);
 
         foreach ($items as $item) {
