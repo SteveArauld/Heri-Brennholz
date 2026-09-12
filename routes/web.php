@@ -14,6 +14,11 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('/shop', [ShopController::class, 'index'])->name('shop.index');
 Route::get('/suche', [ShopController::class, 'index'])->name('shop.search');
+
+// Alte Kategorien "Brennholz" und "Kaminholz" wurden in "Scheitholz" zusammengeführt.
+Route::redirect('/kategorie/brennholz', '/kategorie/scheitholz', 301);
+Route::redirect('/kategorie/kaminholz', '/kategorie/scheitholz', 301);
+
 Route::get('/kategorie/{category:slug}', [ShopController::class, 'category'])->name('shop.category');
 Route::get('/produkt/{product:slug}', [ProductController::class, 'show'])->name('product.show');
 Route::get('/produkt/{product:slug}/vorschau', [ProductController::class, 'quickview'])->name('product.quickview');

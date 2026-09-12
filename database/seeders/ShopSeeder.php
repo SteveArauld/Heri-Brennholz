@@ -106,6 +106,14 @@ class ShopSeeder extends Seeder
             }
         }
 
+        // Anciennes catégories "brennholz" et "kaminholz", fusionnées dans "scheitholz" :
+        // supprime les enregistrements orphelins (les produits ont déjà été resynchronisés).
+        Category::whereIn('slug', ['brennholz', 'kaminholz'])->each(function (Category $orphan) {
+            if ($orphan->products()->count() === 0) {
+                $orphan->delete();
+            }
+        });
+
         $this->command->info('Seeded ' . Category::count() . ' categories, ' . Product::count() . ' products, ' . ProductImage::count() . ' images.');
     }
 }
