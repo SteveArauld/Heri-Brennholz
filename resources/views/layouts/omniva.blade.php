@@ -423,13 +423,9 @@
                         <div class="text-nocopy text-caption cl-text-main">
                             © {{ date('Y') }} Heri Brennholz GmbH. Alle Rechte vorbehalten.
                         </div>
-                        <ul class="method-list payment-methods">
-                            @foreach (['rechnung' => 'Kauf auf Rechnung', 'vorkasse' => 'Vorkasse / Überweisung', 'sepa' => 'SEPA-Lastschrift', 'paypal' => 'PayPal', 'visa' => 'Visa', 'mastercard' => 'Mastercard', 'klarna' => 'Klarna'] as $slug => $label)
-                                <li class="payment-method">
-                                    <img loading="lazy" width="48" height="30" src="/assets/images/payment/{{ $slug }}.svg" alt="{{ $label }}" title="{{ $label }}">
-                                </li>
-                            @endforeach
-                        </ul>
+                        <div class="text-caption cl-text-main">
+                            Zahlung nach Absprache – Rechnung oder Vorkasse
+                        </div>
                     </div>
                 </div>
             </div>
