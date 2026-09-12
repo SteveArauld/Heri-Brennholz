@@ -16,14 +16,14 @@ return [
     'brand' => env('FEED_BRAND', 'Heri Brennholz'),
 
     // Währung der Preisangaben (ISO 4217). Muss zu den Preisen in der DB passen.
-    'currency' => env('FEED_CURRENCY', 'EUR'),
+    'currency' => env('FEED_CURRENCY', 'CHF'),
 
     // Zustand der Artikel (new | refurbished | used).
     'condition' => 'new',
 
     // Länder mit kostenloser Lieferung. Für jedes Land wird ein
     // <g:shipping>-Block mit Preis 0 erzeugt.
-    'shipping_countries' => ['CH', 'DE'],
+    'shipping_countries' => ['CH', 'LI'],
 
     // Name des Versanddienstes im Feed.
     'shipping_service' => 'Standardversand (2–3 Werktage)',
@@ -37,5 +37,5 @@ return [
 
     // Titel/Beschreibung des Feed-Kanals.
     'title' => env('FEED_TITLE', 'Heri Brennholz GmbH – Produktkatalog'),
-    'description' => env('FEED_DESCRIPTION', 'Brennholz, Kaminholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in die Schweiz und nach Deutschland.'),
+    'description' => env('FEED_DESCRIPTION', 'Brennholz, Kaminholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der ganzen Schweiz.'),
 ];

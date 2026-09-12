@@ -75,7 +75,7 @@ class Cart
 
     public function shipping(): float
     {
-        // Kostenlose Lieferung in die Schweiz und nach Deutschland.
+        // Kostenlose Lieferung in der ganzen Schweiz.
         return 0.0;
     }
 

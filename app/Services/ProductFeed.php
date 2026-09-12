@@ -30,7 +30,7 @@ class ProductFeed
 
     private function build(): string
     {
-        $currency = (string) config('feed.currency', 'EUR');
+        $currency = (string) config('feed.currency', 'CHF');
         $brand = (string) config('feed.brand');
         $condition = (string) config('feed.condition', 'new');
         $googleCategory = trim((string) config('feed.google_product_category'));
