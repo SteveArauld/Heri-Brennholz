@@ -37,10 +37,10 @@ class Order extends Model
         return implode(', ', $lines);
     }
 
-    /** Betrag im Schweizer Format, z. B. "1.234,56 CHF". */
+    /** Betrag im Schweizer Format, z. B. "CHF 1'234.56". */
     public function money($value): string
     {
-        return number_format((float) $value, 2, ',', '.') . ' ' . ($this->currency ?: 'CHF');
+        return swiss_money((float) $value, $this->currency ?: 'CHF');
     }
 
     public function statusLabel(): string

@@ -66,7 +66,7 @@
                                                 <a href="{{ route('product.show', $item['product']) }}">{{ $item['product']->name }}</a>
                                             </div>
                                         </td>
-                                        <td>{{ number_format((float) $item['product']->price, 2, ',', '.') }} CHF</td>
+                                        <td>{{ swiss_money((float) $item['product']->price) }}</td>
                                         <td>
                                             <div class="qty-stepper" data-min="1" data-max="99">
                                                 <button type="button" data-step="-1" aria-label="Weniger">&minus;</button>
@@ -74,7 +74,7 @@
                                                 <button type="button" data-step="1" aria-label="Mehr">&plus;</button>
                                             </div>
                                         </td>
-                                        <td class="text-end cart-line-total">{{ number_format($item['line_total'], 2, ',', '.') }} CHF</td>
+                                        <td class="text-end cart-line-total">{{ swiss_money($item['line_total']) }}</td>
                                         <td class="text-end">
                                             <button type="button" class="cart-remove" aria-label="Entfernen">&times;</button>
                                         </td>
@@ -88,9 +88,9 @@
                     <div class="col-lg-4">
                         <div class="cart-summary">
                             <h6 class="mb-3">Zusammenfassung</h6>
-                            <div class="row-line"><span>Zwischensumme</span><span id="sumSubtotal">{{ number_format($cart->subtotal(), 2, ',', '.') }} CHF</span></div>
-                            <div class="row-line"><span>Versand</span><span id="sumShipping">{{ $cart->shipping() > 0 ? number_format($cart->shipping(), 2, ',', '.').' CHF' : 'Kostenlos' }}</span></div>
-                            <div class="row-total"><span>Gesamt</span><span id="sumTotal">{{ number_format($cart->total(), 2, ',', '.') }} CHF</span></div>
+                            <div class="row-line"><span>Zwischensumme</span><span id="sumSubtotal">{{ swiss_money($cart->subtotal()) }}</span></div>
+                            <div class="row-line"><span>Versand</span><span id="sumShipping">{{ $cart->shipping() > 0 ? swiss_money($cart->shipping()) : 'Kostenlos' }}</span></div>
+                            <div class="row-total"><span>Gesamt</span><span id="sumTotal">{{ swiss_money($cart->total()) }}</span></div>
                             <p class="hint" id="shipHint"></p>
                             <a href="{{ route('checkout.index') }}" class="tf-btn btn-fill animate-btn w-100 mt-3"><span>Zur Kasse</span></a>
                         </div>
@@ -112,7 +112,7 @@
     var removeUrl = root.dataset.removeUrl;
 
     function eur(n) {
-        return n.toLocaleString('de-DE', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' CHF';
+        return 'CHF ' + n.toLocaleString('de-CH', { minimumFractionDigits: 2, maximumFractionDigits: 2 }).replace(/’|’/g, "'");
     }
 
     function applySummary(data) {

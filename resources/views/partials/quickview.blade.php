@@ -25,9 +25,9 @@
             <h5 class="mb-2">{{ $product->name }}</h5>
             <div class="h6 mb-2">
                 @if ($product->on_sale && $product->regular_price > $product->price)
-                    <span class="text-decoration-line-through opacity-50 me-1">{{ number_format((float) $product->regular_price, 2, ',', ' ') }} CHF</span>
+                    <span class="text-decoration-line-through opacity-50 me-1">{{ swiss_money((float) $product->regular_price) }}</span>
                 @endif
-                <span class="fw-semibold">{{ number_format((float) $product->price, 2, ',', ' ') }} CHF</span>
+                <span class="fw-semibold">{{ swiss_money((float) $product->price) }}</span>
             </div>
             <p class="mb-3">
                 <span class="badge {{ $product->in_stock ? 'bg-success' : 'bg-secondary' }}">
