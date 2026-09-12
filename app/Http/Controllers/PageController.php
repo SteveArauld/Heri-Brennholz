@@ -48,4 +48,14 @@ class PageController extends Controller
     {
         return view('pages.impressum');
     }
+
+    public function versand()
+    {
+        return view('pages.versand');
+    }
+
+    public function rueckgabe()
+    {
+        return view('pages.rueckgabe');
+    }
 }

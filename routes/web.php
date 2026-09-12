@@ -39,6 +39,8 @@ Route::get('/faq', [PageController::class, 'faq'])->name('pages.faq');
 Route::get('/datenschutz', [PageController::class, 'privacy'])->name('pages.privacy');
 Route::get('/agb', [PageController::class, 'terms'])->name('pages.terms');
 Route::get('/impressum', [PageController::class, 'impressum'])->name('pages.impressum');
+Route::get('/versand', [PageController::class, 'versand'])->name('pages.versand');
+Route::get('/rueckgabe', [PageController::class, 'rueckgabe'])->name('pages.rueckgabe');
 
 // Google Merchant Center Produkt-Feed
 Route::get('/feed/google-merchant.xml', [FeedController::class, 'index'])->name('feed.google');

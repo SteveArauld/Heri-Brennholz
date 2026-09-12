@@ -387,7 +387,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/agb#5-widerrufsrecht-fur-kundinnen-und-kunden-in-deutschland" class="text-caption fw-medium link-black link-underline">
+                                        <a href="{{ route('pages.rueckgabe') }}" class="text-caption fw-medium link-black link-underline">
                                             Rückgabe & Erstattung
                                         </a>
                                     </li>
@@ -397,7 +397,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/agb#4-lieferung" class="text-caption fw-medium link-black link-underline">
+                                        <a href="{{ route('pages.versand') }}" class="text-caption fw-medium link-black link-underline">
                                             Versand
                                         </a>
                                     </li>
