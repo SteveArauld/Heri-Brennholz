@@ -54,7 +54,7 @@
 </table>
 
 <p style="margin:24px 0 0;font-size:13px;line-height:1.6;color:#8a8178;">
-  Bearbeitungszeit: 0–1 Werktag. Lieferzeit: 2–3 Werktage, kostenlos in die Schweiz und nach Deutschland.
+  Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage), kostenlos in der ganzen Schweiz.
   Bei Fragen antworten Sie einfach auf diese E-Mail oder nennen Sie uns Ihre Bestellnummer {{ $order->reference }}.
 </p>
 

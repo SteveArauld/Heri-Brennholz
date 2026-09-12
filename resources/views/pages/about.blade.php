@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-6">
                     <p class="lead">Die Heri Brennholz GmbH mit Sitz in Biberist (Kanton Solothurn) produziert und vertreibt Brennholz, Kaminholz, Holzpellets und Holzbriketts aus eigener Schweizer Produktion.</p>
-                    <p>Als familiengeführtes Unternehmen legen wir Wert auf trockene, qualitätsgeprüfte Brennstoffe mit hohem Heizwert. Wir liefern zuverlässig und kostenlos in die Schweiz und nach Deutschland – mit einer Bearbeitungszeit von 0 bis 1 Werktag und einer Lieferzeit von 2 bis 3 Werktagen. Unser Ziel: wirtschaftliches, leistungsstarkes und umweltfreundliches Heizen mit Holz.</p>
+                    <p>Als familiengeführtes Unternehmen legen wir Wert auf trockene, qualitätsgeprüfte Brennstoffe mit hohem Heizwert. Wir liefern zuverlässig und kostenlos in der ganzen Schweiz – Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage). Unser Ziel: wirtschaftliches, leistungsstarkes und umweltfreundliches Heizen mit Holz.</p>
                 </div>
             </div>
             <div class="row g-4">
@@ -25,8 +25,8 @@
                     <h5 class="mt-2">Unsere Zusagen</h5>
                     <ul>
                         <li>Trockenes Holz mit kontrollierter Restfeuchte, sorgfältig produziert und geprüft.</li>
-                        <li>Kostenlose Lieferung in die Schweiz und nach Deutschland, ohne Mindestbestellwert.</li>
-                        <li>Bearbeitung Ihrer Bestellung innerhalb von 0 bis 1 Werktag, Lieferung innerhalb von 2 bis 3 Werktagen.</li>
+                        <li>Kostenlose Lieferung in der ganzen Schweiz, ohne Mindestbestellwert.</li>
+                        <li>Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage).</li>
                         <li>Persönliche Beratung passend zu Ihrem Heizgerät (Ofen, Kamineinsatz, Heizkessel).</li>
                     </ul>
                 </div>

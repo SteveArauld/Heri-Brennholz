@@ -123,7 +123,7 @@
 
         var hint = document.getElementById('shipHint');
         if (hint) {
-            hint.textContent = data.subtotal > 0 ? 'Versand kostenlos in die Schweiz und nach Deutschland.' : '';
+            hint.textContent = data.subtotal > 0 ? 'Versand kostenlos in der ganzen Schweiz.' : '';
         }
         if (data.empty) window.location.reload();
     }

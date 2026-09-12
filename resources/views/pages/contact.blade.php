@@ -20,7 +20,7 @@
                         Tel.: <a href="tel:+49015236942793">+49015236942793</a><br>
                         E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a></p>
                     <p class="text-caption">Montag bis Freitag, 8–18 Uhr.</p>
-                    <p class="text-caption">Wir liefern kostenlos in die Schweiz und nach Deutschland (Bearbeitung: 0–1 Werktag, Lieferung: 2–3 Werktage).</p>
+                    <p class="text-caption">Kostenlose Lieferung in der ganzen Schweiz. Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage).</p>
                 </div>
                 <div class="col-lg-7">
                     @if ($errors->any())

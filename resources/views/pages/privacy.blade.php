@@ -16,21 +16,21 @@
                 UID/IDE: CHE-228.719.493<br>
                 E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>
             </p>
-            <p>Diese Erklärung informiert Sie über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten auf unserer Website, im Einklang mit dem Schweizer Datenschutzgesetz (DSG) sowie, soweit Kundinnen und Kunden in Deutschland betroffen sind, der EU-Datenschutz-Grundverordnung (DSGVO).</p>
+            <p>Diese Erklärung informiert Sie über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten auf unserer Website, im Einklang mit dem Schweizer Datenschutzgesetz (DSG).</p>
 
             <h5>2. Welche Daten wir erheben</h5>
             <p>Wir erheben nur die Daten, die zur Abwicklung Ihrer Bestellung, zur Kundenbetreuung und zur Beantwortung Ihrer Anfragen erforderlich sind: Name, Adresse, E-Mail-Adresse, Telefonnummer, Lieferadresse sowie Bestell- und Zahlungsdaten.</p>
 
             <h5>3. Zweck der Datenverarbeitung</h5>
             <ul>
-                <li>Abwicklung und Auslieferung Ihrer Bestellungen (inklusive Lieferungen in die Schweiz und nach Deutschland);</li>
+                <li>Abwicklung und Auslieferung Ihrer Bestellungen in der ganzen Schweiz und in Liechtenstein;</li>
                 <li>Kundenbetreuung und Bearbeitung von Kontaktanfragen;</li>
                 <li>Erfüllung gesetzlicher Aufbewahrungspflichten (Buchhaltung, Steuerrecht);</li>
                 <li>mit Ihrer ausdrücklichen Einwilligung: Versand von Angeboten und Newslettern.</li>
             </ul>
 
             <h5>4. Weitergabe von Daten</h5>
-            <p>Ihre Daten werden nur an Dritte weitergegeben, soweit dies zur Vertragserfüllung notwendig ist (z. B. an Transport- und Logistikunternehmen für die Lieferung in die Schweiz oder nach Deutschland) oder wir gesetzlich dazu verpflichtet sind. Ein Verkauf Ihrer Daten an Dritte findet nicht statt.</p>
+            <p>Ihre Daten werden nur an Dritte weitergegeben, soweit dies zur Vertragserfüllung notwendig ist (z. B. an Transport- und Logistikunternehmen für die Lieferung in die Schweiz oder nach Liechtenstein) oder wir gesetzlich dazu verpflichtet sind. Ein Verkauf Ihrer Daten an Dritte findet nicht statt.</p>
 
             <h5>5. Aufbewahrungsdauer</h5>
             <p>Bestelldaten werden für die gesetzlich vorgeschriebene Dauer im Rahmen unserer Buchhaltungs- und Steuerpflichten aufbewahrt und danach gelöscht, sofern keine weitere gesetzliche Aufbewahrungspflicht besteht.</p>
@@ -39,7 +39,7 @@
             <p>Unsere Website verwendet technisch notwendige Cookies, um grundlegende Funktionen wie den Warenkorb bereitzustellen. Weitere Cookies werden nur mit Ihrer Einwilligung gesetzt.</p>
 
             <h5>7. Ihre Rechte</h5>
-            <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie, soweit anwendbar, auf Datenübertragbarkeit und Widerspruch. Wenden Sie sich dazu an <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>. Kundinnen und Kunden in Deutschland haben zudem das Recht, sich bei einer zuständigen Datenschutzaufsichtsbehörde zu beschweren.</p>
+            <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie, soweit anwendbar, auf Datenübertragbarkeit und Widerspruch. Wenden Sie sich dazu an <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>. Sie haben zudem das Recht, sich beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) zu beschweren.</p>
 
             <h5>8. Datensicherheit</h5>
             <p>Wir treffen angemessene technische und organisatorische Massnahmen, um Ihre Daten vor Verlust, Missbrauch und unbefugtem Zugriff zu schützen.</p>

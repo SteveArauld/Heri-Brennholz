@@ -122,7 +122,7 @@
                                 <div class="product-delivery">
                                     <i class="icon icon-Box2 cl-text-main"></i>
                                     <p class="text-caption">
-                                        <span class="cl-text-main">Kostenlose Lieferung</span> in die Schweiz und nach Deutschland
+                                        <span class="cl-text-main">Kostenlose Lieferung</span> in der ganzen Schweiz
                                     </p>
                                 </div>
                             </div>
@@ -169,10 +169,9 @@
                                     <div id="faq-ship" class="collapse" data-bs-parent="#prdDes">
                                         <div class="accordion-content d-grid gap-14">
                                             <ul class="list text-caption">
-                                                <li><span class="br-dot"></span> Bearbeitungszeit der Bestellung: 0 bis 1 Werktag.</li>
-                                                <li><span class="br-dot"></span> Lieferzeit: 2 bis 3 Werktage in die Schweiz und nach Deutschland.</li>
-                                                <li><span class="br-dot"></span> Kostenlose Lieferung – ohne Mindestbestellwert.</li>
-                                                <li><span class="br-dot"></span> 14 Tage Widerrufsrecht für Kundinnen und Kunden aus Deutschland (siehe AGB).</li>
+                                                <li><span class="br-dot"></span> Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage).</li>
+                                                <li><span class="br-dot"></span> Kostenlose Lieferung in der ganzen Schweiz – ohne Mindestbestellwert.</li>
+                                                <li><span class="br-dot"></span> 14 Tage freiwilliges Rückgaberecht (siehe <a href="/rueckgabe">Rückgabe</a>).</li>
                                             </ul>
                                         </div>
                                     </div>

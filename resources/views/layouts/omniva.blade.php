@@ -10,13 +10,13 @@
     <title>@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz aus eigener Schweizer Produktion. Trocken, zertifiziert, kostenlose Lieferung in die Schweiz und nach Deutschland.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz aus eigener Schweizer Produktion. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Open Graph -->
     <meta property="og:title" content="@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz">
     <meta property="og:description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in die Schweiz und nach Deutschland.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
     <meta property="og:image" content="{{ asset('assets/images/thumb.jpg') }}">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
@@ -26,7 +26,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz">
     <meta name="twitter:description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in die Schweiz und nach Deutschland.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
     <meta name="twitter:image" content="{{ asset('assets/images/thumb.jpg') }}">
 
     <!-- font -->
@@ -133,7 +133,7 @@
                                     <!-- slide 1 -->
                                     <div class="swiper-slide">
                                         <div class="text-adver text-white text-caption">
-                                            Kostenlose Lieferung in die Schweiz und nach Deutschland
+                                            Kostenlose Lieferung in der ganzen Schweiz
                                             <span class="br-line bg-white"></span>
                                             <a href="/shop" class="fw-semibold link-underline">
                                                 Zum Shop
