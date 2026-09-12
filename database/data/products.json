@@ -59,7 +59,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-ardenforest-palette-de-70-sacs-de-15-kg.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16903,
@@ -104,7 +106,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-100-resineux.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16902,
@@ -142,7 +146,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-magic-polar-palette-de-70-sacs-en-plus-a1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16901,
@@ -187,7 +193,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-anvil-palette-de-70-sacs-en-plus-a1-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16900,
@@ -225,7 +233,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-rochefort-pellets-palette-de-65-sacs-de-15kg.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16899,
@@ -263,7 +273,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-confort-palette-de-65-sacs-5-offerts-de-15-kg-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16898,
@@ -315,7 +327,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-hs-timber-palette-de-66-sacs-de-15-kg-1-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16897,
@@ -353,7 +367,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Kerent-Negoce2.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16896,
@@ -391,7 +407,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Kerent-Negoce1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16895,
@@ -429,7 +447,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Kerent-Negoce-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16894,
@@ -467,7 +487,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/kerent-Negoce.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16893,
@@ -505,7 +527,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/demipalette-Badger-1.jpg-_1_-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16809,
@@ -543,7 +567,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/PalletteBadger-1.jpg-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16808,
@@ -581,7 +607,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/demipaletteholz-1.jpg-_1_-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16807,
@@ -619,7 +647,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/palette_holz.jpg-_1_-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16806,
@@ -657,7 +687,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Din-demi-palette.jpg-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16805,
@@ -695,7 +727,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/granelco-palette-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16804,
@@ -740,7 +774,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-gold-palette-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16803,
@@ -785,7 +821,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/holzpaletts-pellini-sack-hello-heat_1920x1920-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16802,
@@ -851,7 +889,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-olimp-6-mm-paleta-975-k-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.471,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16801,
@@ -910,7 +950,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-lava-6-mm-palette-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16800,
@@ -955,7 +997,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/holzpaletts-pellini-sack-hello-heat_1920x1920_1920x1920-1-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16799,
@@ -1000,7 +1044,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/granules-de-bois-pellets-enplus-a1-et-dinplus-palette-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16798,
@@ -1052,7 +1098,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/granules-de-bois-100-resineux.-palette-70-sacs-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16797,
@@ -1097,7 +1145,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/sac-naturkfraft-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16796,
@@ -1156,7 +1206,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/palette-de-70-saccs-1000kg-de-granules-livraison-sur-lyon-et-sa-region-3-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16795,
@@ -1201,7 +1253,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/DRAGON-Holzpellets-6mm-ENplusA1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16794,
@@ -1246,7 +1300,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/GERMAN-FLAME-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16793,
@@ -1298,7 +1354,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/HEIZFUXX-Holzpellets-Red-6mm-ENplusA1-65-x-15kg-Palette-5-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16792,
@@ -1350,7 +1408,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/HEIZFUXX-Holzpellets-Grey-6mm-ENplusA1-65-x-15kg-Palette-5-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16791,
@@ -1402,7 +1462,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/HEIZFUXX-Holzpellets-Red-6mm-ENplusA1-65-x-15kg-Palette-5-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16790,
@@ -1447,7 +1509,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/pellet-100-resineux.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16789,
@@ -1492,7 +1556,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/r1-1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16788,
@@ -1537,7 +1603,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/a1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16787,
@@ -1582,7 +1650,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/z1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16786,
@@ -1627,7 +1697,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/e1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16785,
@@ -1672,7 +1744,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/r1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16784,
@@ -1717,7 +1791,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/t1-3.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16783,
@@ -1762,7 +1838,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/u1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16702,
@@ -1821,7 +1899,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-buches-2.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16701,
@@ -1880,7 +1960,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-buches-2.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16700,
@@ -1939,7 +2021,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-buches-2.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16699,
@@ -1998,7 +2082,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-buches-2.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16694,
@@ -2050,7 +2136,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/buche-nuit.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16693,
@@ -2102,7 +2190,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/buche-nuit.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16692,
@@ -2154,7 +2244,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/buche-nuit.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16691,
@@ -2206,7 +2298,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/buche-nuit.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16616,
@@ -2265,7 +2359,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-steres-de-buches-33-cm-en-vrac-3.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16615,
@@ -2324,7 +2420,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-steres-de-buches-33-cm-en-vrac-3.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16614,
@@ -2383,7 +2481,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-steres-de-buches-33-cm-en-vrac-3.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16613,
@@ -2442,7 +2542,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-steres-de-buches-33-cm-en-vrac-3.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16612,
@@ -2453,9 +2555,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 50 cm</li>\n<li>Menge: 2 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>2 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 50 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/2x-palettes-chene-blanc-hetre-charme-buches-de-50-cm/",
-      "price": 125.67,
-      "regular_price": 125.67,
-      "sale_price": 125.67,
+      "price": 756.0,
+      "regular_price": 756.0,
+      "sale_price": 756.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2487,7 +2589,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/2-Palettes-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16611,
@@ -2532,7 +2636,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-filet-de-buches-palette-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.473,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16609,
@@ -2543,9 +2649,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 40 cm</li>\n<li>Menge: 2 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>2 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 40 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/2x-palettes-chene-blanc-hetre-charme-buches-de-40-cm/",
-      "price": 184.08,
-      "regular_price": 184.08,
-      "sale_price": 184.08,
+      "price": 756.0,
+      "regular_price": 756.0,
+      "sale_price": 756.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2577,7 +2683,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/kiln-dried-half-ash-crate-half-birch-crate-stack-p137-534_medium-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16608,
@@ -2588,9 +2696,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 33 cm</li>\n<li>Menge: 2 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>2 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 33 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/2x-palettes-chene-blanc-hetre-charme-buches-de-33-cm/",
-      "price": 184.62,
-      "regular_price": 184.62,
-      "sale_price": 184.62,
+      "price": 756.0,
+      "regular_price": 756.0,
+      "sale_price": 756.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2629,7 +2737,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/kiln-dried-half-birch-crate-half-mixed-hardwood-crate-stack-p136-525_image-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16542,
@@ -2640,9 +2750,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 33 cm</li>\n<li>Menge: 4 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>4 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 33 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/4-x-palettes-2-chene-blanc-2-hetre-charme-buches-de-33-cm/",
-      "price": 391.84,
-      "regular_price": 391.84,
-      "sale_price": 391.84,
+      "price": 1512.0,
+      "regular_price": 1512.0,
+      "sale_price": 1512.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2667,7 +2777,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/YZ4vcs-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16541,
@@ -2678,9 +2790,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 50 cm</li>\n<li>Menge: 4 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>4 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 50 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/4-x-palettes-2-chene-blanc-2-hetre-charme-buches-de-50-cm/",
-      "price": 190.98,
-      "regular_price": 190.98,
-      "sale_price": 190.98,
+      "price": 1512.0,
+      "regular_price": 1512.0,
+      "sale_price": 1512.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2705,7 +2817,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/151-4-Palettes-2-chene-blanc-2-HetreCharme-Buches-de-40-cm-2-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16540,
@@ -2716,9 +2830,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 40 cm</li>\n<li>Menge: 4 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>4 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 40 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/4-x-palettes-2-chene-blanc-2-hetre-charme-buches-de-40-cm/",
-      "price": 238.4,
-      "regular_price": 238.4,
-      "sale_price": 238.4,
+      "price": 1512.0,
+      "regular_price": 1512.0,
+      "sale_price": 1512.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -2743,7 +2857,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/YZ4vcs-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16539,
@@ -2781,7 +2897,9 @@
           "position": 0,
           "is_primary": true
         }
-      ]
+      ],
+      "price_per_unit": 189.27,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16427,
@@ -2819,7 +2937,9 @@
           "position": 0,
           "is_primary": true
         }
-      ]
+      ],
+      "price_per_unit": 188.99,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16426,
@@ -2857,7 +2977,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-48-300x300-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.09,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16425,
@@ -2895,7 +3017,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-17-copie-600x401-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.98,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16424,
@@ -2933,7 +3057,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-9-600x481-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.85,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16423,
@@ -2971,7 +3097,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-17-copie-600x401-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.89,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16422,
@@ -3009,7 +3137,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-10-600x486-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.97,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16421,
@@ -3047,7 +3177,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-17-copie-600x401-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.03,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16420,
@@ -3085,7 +3217,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-17-copie-600x401-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.89,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16417,
@@ -3123,7 +3257,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Sans-titre-9-600x481-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.84,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16416,
@@ -3161,7 +3297,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-51-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.27,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16415,
@@ -3172,9 +3310,9 @@
       "short_description": "<ul>\n<li>Holzart: 100 % Hartlaubholz (Eiche, Hainbuche oder Buche)</li>\n<li>Qualität: Klasse H1 G1</li>\n<li>Scheitlänge: 25 cm</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Menge: 2 m³ pro Palette</li>\n<li>Herkunft: Holz aus Frankreich</li>\n</ul>",
       "description": "<p>Premium-Scheite Crépito® in 25 cm Länge aus Hartlaubholz mit hohem Heizwert und einer Restfeuchte von unter 20 %. Die Scheite sind gespalten und im Entrindungstrommel gereinigt – dadurch zünden sie schnell an und geben rasch behagliche Wärme bei sehr geringem Aschegehalt ab.</p>\n<p>Menge: 2 m³ pro Palette. <strong>Lagerung:</strong> trocken und belüftet, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/buches-premium-crepito-25-cm/",
-      "price": 248.01,
-      "regular_price": 248.01,
-      "sale_price": 248.01,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3199,7 +3337,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/61-Buches-Premium-CrepitoR-25-cm-600x600-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16340,
@@ -3210,9 +3350,9 @@
       "short_description": "<ul>\n<li>Holzart: Weisseiche sowie Buche/Hainbuche</li>\n<li>Scheitlänge: 40 cm</li>\n<li>Menge: 4 Palette(n) zu je ca. 2 m³</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Zustand: gespalten, ofenfertig</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>4 Palette(n) Brennholz aus Weisseiche sowie Buche/Hainbuche. Die Kombination aus Eiche und Buche/Hainbuche sorgt für lange Brenndauer und hohen Heizwert bei gleichmässigem Abbrand – geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p>Die Scheite sind auf 40 cm gespalten, kalibriert und mit einer Restfeuchte von unter 20 % ofenfertig. Lieferung auf Palette zu je ca. 2 m³.</p>\n<p><strong>Lagerung:</strong> an einem trockenen, gut belüfteten Ort, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/4-palettes-2-chene-blanc-2-hetre-charme-buches-de-40-cm/",
-      "price": 447.58,
-      "regular_price": 447.58,
-      "sale_price": 447.58,
+      "price": 1512.0,
+      "regular_price": 1512.0,
+      "sale_price": 1512.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3244,7 +3384,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/150-4-Palettes-2-chene-blanc-2-HetreCharme-Buches-de-40-cm-300x300-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16317,
@@ -3255,9 +3397,9 @@
       "short_description": "<ul>\n<li>Premium-Scheite, ofenfertig</li>\n<li>Holzart: Hartlaubholz</li>\n<li>Scheitlänge: 30 cm</li>\n<li>Restfeuchte: unter 18 %</li>\n<li>Verpackung: Karton, stapelbar</li>\n</ul>",
       "description": "<p>Premium-Scheite Crépito® in 30 cm Länge aus getrocknetem Hartlaubholz. Durch die niedrige Restfeuchte (unter 18 %) zünden sie schnell an und verbrennen sauber mit hohem Heizwert.</p>\n<p>Praktische Kartonverpackung für eine saubere, stapelbare Lagerung – ideal für Kaminöfen und Kamineinsätze.</p>\n<p><strong>Lagerung:</strong> trocken lagern.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/buches-premium-crepito-30-cm/",
-      "price": 209.12,
-      "regular_price": 209.12,
-      "sale_price": 209.12,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3282,7 +3424,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/61-Buches-Premium-CrepitoR-25-cm-600x600-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18141,
@@ -3341,7 +3485,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/4449467fb3a737b754c896f7afb982b3.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18139,
@@ -3393,7 +3539,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/03ed6299bf22186113ef05217143792a.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18137,
@@ -3431,7 +3579,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/2-4-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18134,
@@ -3469,7 +3619,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1-8-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18133,
@@ -3507,7 +3659,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1-9-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18132,
@@ -3545,7 +3699,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/2-5-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18131,
@@ -3583,7 +3739,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-2-3.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18129,
@@ -3635,7 +3793,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/d45e9e83ed76f3151a97f3c7796dae60.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 188.89,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18126,
@@ -3687,7 +3847,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/d566075a91e44d09d488cdad5b79145b.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18124,
@@ -3725,7 +3887,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1b600bc52dcc5a0c78c9889924932ac0.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18121,
@@ -3736,9 +3900,9 @@
       "short_description": "",
       "description": "<p data-start=\"329\" data-end=\"578\">Geniessen Sie wohlige Wärme mit unserem <strong data-start=\"368\" data-end=\"399\">Premium-Brennholz aus Esche</strong> – perfekt geeignet für <strong data-start=\"423\" data-end=\"464\">mittelgrosse bis grosse Kamine und Öfen</strong>. Das Holz ist <strong data-start=\"479\" data-end=\"499\">kammergetrocknet</strong>, hat eine <strong data-start=\"510\" data-end=\"536\">Restfeuchte unter 20 %</strong> und ist dadurch <strong data-start=\"553\" data-end=\"577\">sofort einsatzbereit</strong>.</p>\n<p data-start=\"580\" data-end=\"897\">Die Lieferung erfolgt in <strong data-start=\"605\" data-end=\"641\">4 Big Bags à 1,0 Schüttraummeter</strong> – insgesamt <strong data-start=\"654\" data-end=\"688\">4,0 SRM lose geschüttetes Holz</strong>. Die <strong data-start=\"694\" data-end=\"718\">25 cm langen Scheite</strong> mit einem Durchmesser von 7 bis 15 cm sorgen für eine <strong data-start=\"773\" data-end=\"817\">gleichmässige, langanhaltende Verbrennung</strong> mit <strong data-start=\"822\" data-end=\"845\">hoher Wärmeleistung</strong>, ohne übermässigen Funkenflug oder Rauchentwicklung.</p>\n<p data-start=\"899\" data-end=\"1069\"><strong data-start=\"899\" data-end=\"913\">Eschenholz</strong> überzeugt durch seine <strong data-start=\"936\" data-end=\"953\">ruhige Flamme</strong>, ein <strong data-start=\"959\" data-end=\"985\">angenehmes Flammenbild</strong> und ist besonders gut geeignet für <strong data-start=\"1021\" data-end=\"1047\">gemütliche Kaminabende</strong> mit konstanter Wärme.</p>\n<h3 data-start=\"1076\" data-end=\"1103\"><strong data-start=\"1080\" data-end=\"1101\">Technische Daten:</strong></h3>\n<ul data-start=\"1104\" data-end=\"1594\">\n<li data-start=\"1104\" data-end=\"1126\">\n<p data-start=\"1106\" data-end=\"1126\"><strong data-start=\"1106\" data-end=\"1118\">Holzart:</strong> Esche</p>\n</li>\n<li data-start=\"1127\" data-end=\"1178\">\n<p data-start=\"1129\" data-end=\"1178\"><strong data-start=\"1129\" data-end=\"1139\">Menge:</strong> 4 Big Bags à 1,0 m³ (gesamt 4,0 SRM)</p>\n</li>\n<li data-start=\"1179\" data-end=\"1209\">\n<p data-start=\"1181\" data-end=\"1209\"><strong data-start=\"1181\" data-end=\"1197\">Scheitlänge:</strong> ca. 25 cm</p>\n</li>\n<li data-start=\"1210\" data-end=\"1246\">\n<p data-start=\"1212\" data-end=\"1246\"><strong data-start=\"1212\" data-end=\"1234\">Scheitdurchmesser:</strong> 7 – 15 cm</p>\n</li>\n<li data-start=\"1247\" data-end=\"1278\">\n<p data-start=\"1249\" data-end=\"1278\"><strong data-start=\"1249\" data-end=\"1265\">Restfeuchte:</strong> unter 20 %</p>\n</li>\n<li data-start=\"1279\" data-end=\"1314\">\n<p data-start=\"1281\" data-end=\"1314\"><strong data-start=\"1281\" data-end=\"1295\">Trocknung:</strong> Kammergetrocknet</p>\n</li>\n<li data-start=\"1315\" data-end=\"1372\">\n<p data-start=\"1317\" data-end=\"1372\"><strong data-start=\"1317\" data-end=\"1334\">Geeignet für:</strong> Mittelgrosse bis grosse Kamine &amp; Öfen</p>\n</li>\n<li data-start=\"1373\" data-end=\"1428\">\n<p data-start=\"1375\" data-end=\"1428\"><strong data-start=\"1375\" data-end=\"1388\">Anzünden:</strong> Einfach mit Anzündholz oder Anzündern</p>\n</li>\n<li data-start=\"1429\" data-end=\"1474\">\n<p data-start=\"1431\" data-end=\"1474\"><strong data-start=\"1431\" data-end=\"1446\">Brenndauer:</strong> Langanhaltend &amp; effizient</p>\n</li>\n<li data-start=\"1475\" data-end=\"1531\">\n<p data-start=\"1477\" data-end=\"1531\"><strong data-start=\"1477\" data-end=\"1493\">Flammenbild:</strong> Ruhig, gleichmässig, ohne Funkenflug</p>\n</li>\n<li data-start=\"1532\" data-end=\"1567\">\n<p data-start=\"1534\" data-end=\"1567\"><strong data-start=\"1534\" data-end=\"1549\">Verpackung:</strong> Big Bags (grün)</p>\n</li>\n<li data-start=\"1568\" data-end=\"1594\">\n<p data-start=\"1570\" data-end=\"1594\"><strong data-start=\"1570\" data-end=\"1585\">Hersteller:</strong> Gardline</p>\n</li>\n</ul>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/eschen-brennholz-25-cm-4-big-bags-a-10-srm/",
-      "price": 582.73,
-      "regular_price": 582.73,
-      "sale_price": 582.73,
+      "price": 756.0,
+      "regular_price": 756.0,
+      "sale_price": 756.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3763,7 +3927,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/image-1-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18117,
@@ -3801,7 +3967,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1-1-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.474,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18115,
@@ -3846,7 +4014,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/B-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18039,
@@ -3857,9 +4027,9 @@
       "short_description": "<p>Für alle Öfen geeignet<br />\nSofort verbrennbar<br />\nKostenlose Lieferung<br />\nPraktisch stapelbare Netzbeutel aus Birkenholz.</p>",
       "description": "<p>Birkenholz ist ideal für kleine bis mittelgrosse Öfen.</p>\n<p>Praktisch verpackt in Netzbeuteln<br />\nBlocklänge: 25 cm<br />\nLuftfeuchtigkeit unter 20 %<br />\nSchönes Flammenbild<br />\nBrennt leicht</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/brennholz-80-sacke-birkenholz-25cm-100-trocken/",
-      "price": 238.2,
-      "regular_price": 238.2,
-      "sale_price": 238.2,
+      "price": 567.0,
+      "regular_price": 567.0,
+      "sale_price": 567.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3884,7 +4054,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1-4-3.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.472,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18033,
@@ -3895,9 +4067,9 @@
       "short_description": "",
       "description": "<p>Lkw-Ladung Brennholz für Grosskunden</p>\n<p>Mit jeder Lkw-Ladung Brennholz von verschaffen Sie sich nachhaltige Argumente Ihren Kunden gegenüber. Das Thema Nachhaltigkeit ist in aller Munde und Kunden achten vermehrt auf ökologisches und ökonomischen Heizen. Bewerben Sie die Regionalität und umweltgerechte Forstwirtschaft, aus welcher das Brennholz stammt und Sie werden Ihre Kundenbindung stärken.</p>\n<p>&nbsp;</p>\n<p>======================================</p>\n<p>&nbsp;</p>\n<p>Hier sehen Sie weitere Vorteile von jeder Lkw-Ladung Brennholz aus unserem Bestand:<br />\nschnelle und günstige Lieferung an Grossabnehmer und Brennholzhändler</p>\n<p>kammergetrocknetes Brennholz aus Buche, trocken und ofenfertig</p>\n<p>garantierte Restfeuchte Holzkerns unter 20 Prozent</p>\n<p>Scheitlängen von 25, 33 und 50 Zentimeter</p>\n<p>je gelieferte Lkw Ladung mit ca. 54 RM (81 SRM) auf 1 Raummeter Palette</p>\n<p>Die gute und trockene Qualität unseres Kaminholzes ermöglicht ein sofortiges Verbrennen und erzielt einen sehr hohen und effizienten Heizwert. Regionalität und umweltgerechte Forstwirtschaft – Argumente, die Ihre Kunden überzeugen. Ihre Kunden profitieren von der Qualität unseres sortenreinen Brennholzes, das effizient und rückstandsoptimiert verbrennt – und sparen dadurch sogar noch bares Geld. Sie wissen es selbst – nichts stärkt die Kundenbindung so nachhaltig, wie Zufriedenheit.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/lkw-ladung-brennholz/",
-      "price": 1339.97,
-      "regular_price": 1339.97,
-      "sale_price": 1339.97,
+      "price": 7560.0,
+      "regular_price": 7560.0,
+      "sale_price": 7560.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3922,7 +4094,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/G6vBJCNsbAtq-e1648456882983.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18032,
@@ -3933,9 +4107,9 @@
       "short_description": "",
       "description": "<p>Lkw-Ladung Brennholz für Grosskunden</p>\n<p>Mit jeder Lkw-Ladung Brennholz von verschaffen Sie sich nachhaltige Argumente Ihren Kunden gegenüber. Das Thema Nachhaltigkeit ist in aller Munde und Kunden achten vermehrt auf ökologisches und ökonomischen Heizen. Bewerben Sie die Regionalität und umweltgerechte Forstwirtschaft, aus welcher das Brennholz stammt und Sie werden Ihre Kundenbindung stärken.</p>\n<p>======================================</p>\n<p>&nbsp;</p>\n<p>Hier sehen Sie weitere Vorteile von jeder Lkw-Ladung Brennholz aus unserem Bestand:<br />\nschnelle und günstige Lieferung an Grossabnehmer und Brennholzhändler</p>\n<p>kammergetrocknetes Brennholz aus Buche, trocken und ofenfertig</p>\n<p>garantierte Restfeuchte Holzkerns unter 20 Prozent</p>\n<p>Scheitlängen von 25, 33 und 50 Zentimeter</p>\n<p>je gelieferte Lkw Ladung mit ca. 54 RM (81 SRM) auf 1 Raummeter Palette</p>\n<p>Die gute und trockene Qualität unseres Kaminholzes ermöglicht ein sofortiges Verbrennen und erzielt einen sehr hohen und effizienten Heizwert. Regionalität und umweltgerechte Forstwirtschaft – Argumente, die Ihre Kunden überzeugen. Ihre Kunden profitieren von der Qualität unseres sortenreinen Brennholzes, das effizient und rückstandsoptimiert verbrennt – und sparen dadurch sogar noch bares Geld. Sie wissen es selbst – nichts stärkt die Kundenbindung so nachhaltig, wie Zufriedenheit.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/halber-brennholz-lkw/",
-      "price": 669.98,
-      "regular_price": 669.98,
-      "sale_price": 669.98,
+      "price": 3780.0,
+      "regular_price": 3780.0,
+      "sale_price": 3780.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -3960,7 +4134,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/G6vBJCNsbAtq-e1648456882983.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18030,
@@ -4005,7 +4181,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Pellets_Sack_geschlossenLyfaxy4FPxZSo.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18029,
@@ -4050,7 +4228,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Hoyer_Pellets_SAck.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18027,
@@ -4102,7 +4282,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Brennholz_Haufen_klein_hell.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 18021,
@@ -4140,7 +4322,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Capture-decran-2022-08-26-003931-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.46,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18020,
@@ -4192,7 +4376,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-34.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18016,
@@ -4230,7 +4416,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/01-slide-1-2.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18015,
@@ -4268,7 +4456,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/01-slide-1-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.47,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 18014,
@@ -4306,7 +4496,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Capture-decran-2022-08-19-091309-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.46,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16620,
@@ -4358,7 +4550,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-densifie-confort-80-cartons-de-6-buches-palette-environ-960kgs-2.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16619,
@@ -4403,7 +4597,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/t1-2-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16523,
@@ -4441,7 +4637,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-densifie1-2-palette-de-480-kg.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16522,
@@ -4479,7 +4677,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-densifie-palette-de-960-kg-_1_.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16521,
@@ -4517,7 +4717,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-densifie-de-960-kg.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16520,
@@ -4569,7 +4771,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/buches-jour-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16519,
@@ -4614,7 +4818,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/a1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16518,
@@ -4659,7 +4865,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/z1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16517,
@@ -4704,7 +4912,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/e1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16516,
@@ -4749,7 +4959,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/r1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16515,
@@ -4794,7 +5006,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/z1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16514,
@@ -4839,7 +5053,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/t1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16418,
@@ -4884,7 +5100,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3-paves-buche-de-nuit-en-bois-densifie-compresse-longue-duree-300x300-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16698,
@@ -4936,7 +5154,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Bois-compresse-et-Bois-de-chauffage-30cm.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16697,
@@ -4988,7 +5208,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Bois-compresse-et-Bois-de-chauffage-30cm.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16696,
@@ -5040,7 +5262,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Bois-compresse-et-Bois-de-chauffage-30cm.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16695,
@@ -5092,7 +5316,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Bois-compresse-et-Bois-de-chauffage-30cm.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.59,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16618,
@@ -5103,9 +5329,9 @@
       "short_description": "<ul>\n<li>Holzart: Laubholz-Mischung (Eiche, Buche, Hainbuche, Esche)</li>\n<li>Scheitlänge: 50 cm</li>\n<li>Menge: ca. 2 m³ auf Palette (ca. 2,5 Ster)</li>\n<li>Restfeuchte: unter 23 %</li>\n<li>Zustand: gespalten, kalibriert, sofort einsatzbereit</li>\n<li>Verpackung: Palette (100 × 120 × 185 cm)</li>\n</ul>",
       "description": "<p>Das Brennholz Wooday besteht aus einer Mischung von Hartlaubhölzern (Eiche, Buche, Hainbuche, Esche) aus nachhaltig bewirtschafteten Wäldern. Diese Holzarten bieten einen hohen Heizwert und ein gleichmässiges, ruhiges Abbrandverhalten – ideal für Kaminöfen, Kamineinsätze, offene Kamine, Küchenherde und Heizkessel.</p>\n<p>Die Scheite sind auf 50 cm gespalten und kalibriert. Mit einer Restfeuchte von unter 23 % zünden sie schnell an und verbrennen sparsam. Geliefert wird gesiebtes Holz (ohne Späne und Staub) als Paket von ca. 2 m³ auf einer Palette (ca. 2,5 Ster).</p>\n<p><strong>Lagerung:</strong> an einem trockenen, belüfteten und vor Feuchtigkeit geschützten Ort lagern, zum Beispiel in einer Garage oder einem Holzunterstand.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/bois-de-chauffage-50-cm-wooday-bois-buche-100-feuillus/",
-      "price": 103.29,
-      "regular_price": 103.29,
-      "sale_price": 103.29,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -5137,7 +5363,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois_b_che_ballot_wooday_50_cm-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16617,
@@ -5148,9 +5376,9 @@
       "short_description": "<ul>\n<li>Holzart: Laubholz-Mischung (Eiche, Buche, Hainbuche, Esche)</li>\n<li>Scheitlänge: 40 cm</li>\n<li>Menge: ca. 2 m³ auf Palette (ca. 2,7 Ster)</li>\n<li>Restfeuchte: unter 23 %</li>\n<li>Zustand: gespalten, kalibriert, sofort einsatzbereit</li>\n<li>Verpackung: Palette (100 × 120 × 185 cm)</li>\n</ul>",
       "description": "<p>Das Brennholz Wooday besteht aus einer Mischung von Hartlaubhölzern (Eiche, Buche, Hainbuche, Esche) aus nachhaltig bewirtschafteten Wäldern. Diese Holzarten bieten einen hohen Heizwert und ein gleichmässiges, ruhiges Abbrandverhalten – ideal für Kaminöfen, Kamineinsätze, offene Kamine, Küchenherde und Heizkessel.</p>\n<p>Die Scheite sind auf 40 cm gespalten und kalibriert. Mit einer Restfeuchte von unter 23 % zünden sie schnell an und verbrennen sparsam. Geliefert wird gesiebtes Holz (ohne Späne und Staub) als Paket von ca. 2 m³ auf einer Palette (ca. 2,7 Ster).</p>\n<p><strong>Lagerung:</strong> an einem trockenen, belüfteten und vor Feuchtigkeit geschützten Ort lagern, zum Beispiel in einer Garage oder einem Holzunterstand.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/bois-de-chauffage-40-cm-wooday-bois-buche-100-feuillus/",
-      "price": 115.5,
-      "regular_price": 115.5,
-      "sale_price": 115.5,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -5182,7 +5410,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois_b_che_ballot_wooday_40_cm_-_bois_de_chauffage_2.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16610,
@@ -5193,9 +5423,9 @@
       "short_description": "<ul>\n<li>Produkt: Anzündholz in Netzen (40 L), Weichholz (Pappel), Kaliber 8 cm</li>\n<li>Netz: 40 L / 25 dm³ / ca. 5 kg</li>\n<li>Menge: Palette = 50 Netze (ca. 250 kg)</li>\n<li>Scheitlänge: ca. 8 cm</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Herkunft: Frankreich</li>\n</ul>",
       "description": "<p>Anzündholz aus zerkleinertem Weichholz (Pappel) – eine Holzart, die schnell und leicht abbrennt und sich damit ideal zum Anfeuern eignet.</p>\n<p>Das Holz ist trocken (Restfeuchte unter 20 %) und gebrauchsfertig. Menge: Palette mit 50 Netzen à ca. 5 kg (ca. 250 kg). Geeignet für Kaminöfen, Kamineinsätze und offene Kamine.</p>\n<p><strong>Lagerung:</strong> überdacht und trocken lagern.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/50-filets-bois-dallumage-bois-tendre-calibre-8cm/",
-      "price": 173.36,
-      "regular_price": 173.36,
-      "sale_price": 173.36,
+      "price": 70.9,
+      "regular_price": 70.9,
+      "sale_price": 70.9,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -5234,7 +5464,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-filets-bois-casse-sac-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 0.473,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16538,
@@ -5279,7 +5511,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/2X-palettes-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 188.75,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16537,
@@ -5331,7 +5565,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3528435301-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.82,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16536,
@@ -5383,7 +5619,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3613535053-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.95,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16535,
@@ -5435,7 +5673,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3528432522-1-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16534,
@@ -5487,7 +5727,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3613231206-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 188.95,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16533,
@@ -5539,7 +5781,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3528673399-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.82,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16532,
@@ -5577,7 +5821,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/3528432522-2-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16531,
@@ -5622,7 +5868,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/y1-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.16,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16530,
@@ -5667,7 +5915,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/y1-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.85,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16529,
@@ -5712,7 +5962,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/t1-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.89,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16528,
@@ -5757,7 +6009,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/r1-1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.97,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16527,
@@ -5802,7 +6056,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/e1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16526,
@@ -5847,7 +6103,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/z1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.06,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16525,
@@ -5892,7 +6150,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/a1-2.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16513,
@@ -5937,7 +6197,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/a1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16444,
@@ -5982,7 +6244,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/z1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.06,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16443,
@@ -6027,7 +6291,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/e1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16442,
@@ -6072,7 +6338,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/r1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.97,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16441,
@@ -6117,7 +6385,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/t1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.89,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16440,
@@ -6162,7 +6432,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/y1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 188.85,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16439,
@@ -6207,7 +6479,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/y1-1.webp"
         }
-      ]
+      ],
+      "price_per_unit": 189.16,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16342,
@@ -6266,7 +6540,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/firewood-WOODcom-3-300x300-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 0.473,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16341,
@@ -6311,7 +6587,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/40-zakken-elzenhout-1-300x300-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16339,
@@ -6370,7 +6648,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Capture-decran-2021-12-30-a-04.17.47-300x300-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.474,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16338,
@@ -6408,7 +6688,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-7-1-600x600-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 188.85,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16337,
@@ -6453,7 +6735,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1MM-1-300x300-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16336,
@@ -6491,7 +6775,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-33-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.15,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16335,
@@ -6529,7 +6815,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-42-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 188.85,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16334,
@@ -6540,9 +6828,9 @@
       "short_description": "<ul>\n<li>Holzart: 100 % Birke</li>\n<li>Scheitlänge: 25 cm, Querschnitt 8–12 cm</li>\n<li>Verpackung: 80 Säcke im Netz</li>\n<li>Gewicht: ca. 640 kg</li>\n<li>Volumen: ca. 1,5 m³</li>\n<li>Restfeuchte: unter 20 %, brennfertig</li>\n</ul>",
       "description": "<p>Birkenbrennholz, gespalten auf 25 cm, besonders gut geeignet für kleine bis mittelgrosse Öfen. Birke entzündet sich leicht, brennt sauber und zeigt ein schönes Flammenbild.</p><p>Restfeuchte unter 20 %, sofort brennfertig. Menge: 80 Säcke im Netz (ca. 640 kg, ca. 1,5 m³), praktisch gestapelt auf Palette.</p><p><strong>Lagerung:</strong> trocken und belüftet, vor Feuchtigkeit geschützt.</p><p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/80-sacs-de-bois-de-bouleau-25cm-100-sec/",
-      "price": 237.63,
-      "regular_price": 237.63,
-      "sale_price": 237.63,
+      "price": 567.0,
+      "regular_price": 567.0,
+      "sale_price": 567.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -6574,7 +6862,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/2-kuub-berkenhout-in-netten_6-300x300-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.472,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16333,
@@ -6612,7 +6902,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-38-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16332,
@@ -6664,7 +6956,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/UTB8PhD3NODEXKJk43Oqq6Az3XXav-300x300-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.27,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16331,
@@ -6709,7 +7003,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/1MM-1-300x300-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16330,
@@ -6747,7 +7043,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-de-chauffage-25-cm-melange-de-bois-durs-palette-2-m3-3-steres-1-1-1-600x600-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16329,
@@ -6758,9 +7056,9 @@
       "short_description": "<ul>\n<li>Holzart: Hartlaubholz-Mischung (Esche, Buche, Hainbuche, teils Eiche)</li>\n<li>Scheitlänge: 25 cm</li>\n<li>Menge: 2 m³ / ca. 1,5 Ster auf Einwegpalette (ohne Pfand)</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Trocknung: Ofentrocknung (Esche)</li>\n<li>Herkunft: Frankreich</li>\n</ul>",
       "description": "<p>Brennholz aus einer Hartlaubholz-Mischung (Esche, Buche, Hainbuche, teilweise Eiche) auf einer Einwegpalette ohne Pfand. Die Scheite sind auf 25 cm gespalten.</p>\n<p>Menge: 2 m³ bzw. ca. 1,5 Ster. Restfeuchte unter 20 % (Ofentrocknung (Esche)). Die bestellte Ster-Menge wird eingehalten. Palettenmasse ca. 120 × 95 × 200 cm – platzsparend zu lagern.</p>\n<p><strong>Hinweis:</strong> Bei einer Restfeuchte über 20 % empfehlen wir vor dem Verfeuern eine Nachtrocknung an einem trockenen, belüfteten Ort.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/demi-palette-frene-seche-au-four-25cm/",
-      "price": 189.95,
-      "regular_price": 189.95,
-      "sale_price": 189.95,
+      "price": 189.0,
+      "regular_price": 189.0,
+      "sale_price": 189.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -6806,7 +7104,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Capture-decran-2021-12-30-a-03.39.21-300x300-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16328,
@@ -6844,7 +7144,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-36-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.14,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16327,
@@ -6855,9 +7157,9 @@
       "short_description": "<ul>\n<li>Holzart: 100 % Hainbuche (Hartholz), ultra trocken</li>\n<li>Zustand: brennfertig, gebrauchsfertig</li>\n<li>Brenndauer: lang, ruhige Flamme</li>\n<li>Menge: 1 Palette = 84 Säcke</li>\n<li>Eignung: mittlere bis grosse Öfen und Feuerstellen</li>\n</ul>",
       "description": "<p>Brennholz im Sack aus 100 % Hainbuche, ultra trocken und sofort brennfertig. Hainbuche hat eine ähnlich hohe Dichte wie Eiche und brennt entsprechend lange und gleichmässig.</p>\n<p>Die feine, saubere Rinde reduziert das Verschmutzen der Ofenscheibe. Sehr geringe Restfeuchte und kaum Harz bedeuten wenig Knistern und Funkenflug sowie ein ruhiges, gleichmässiges Flammenbild. Es lassen sich problemlos 4–5 Scheite gleichzeitig auflegen – ideal für ein kräftiges Feuer in mittleren bis grossen Öfen und Kaminen.</p>\n<p>Menge: 1 Palette = 84 Säcke.</p>\n<p><strong>Lagerung:</strong> trocken lagern.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/bois-de-chauffage-en-sac-ultra-sec-essence-100-charme/",
-      "price": 160.01,
-      "regular_price": 160.01,
-      "sale_price": 160.01,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -6889,7 +7191,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Caisse-de-bois-de-chauffage-en-sac-Charme-ultra-sec3-300x300-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16326,
@@ -6927,7 +7231,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-37-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.16,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16325,
@@ -6972,7 +7278,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/HOTDEVIL-HAARDHOUTEIKSAMPLE-300x300-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16324,
@@ -6983,9 +7291,9 @@
       "short_description": "<ul>\n<li>Holzart: Hartlaubholz-Mischung (Esche, Buche, Hainbuche, teils Eiche)</li>\n<li>Scheitlänge: 50 cm</li>\n<li>Menge: 2 m³ / ca. 2,5 Ster auf Einwegpalette (ohne Pfand)</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Trocknung: Kammertrocknung</li>\n<li>Herkunft: Frankreich</li>\n</ul>",
       "description": "<p>Brennholz aus einer Hartlaubholz-Mischung (Esche, Buche, Hainbuche, teilweise Eiche) auf einer Einwegpalette ohne Pfand. Die Scheite sind auf 50 cm gespalten.</p>\n<p>Menge: 2 m³ bzw. ca. 2,5 Ster. Restfeuchte unter 20 % (Kammertrocknung). Die bestellte Ster-Menge wird eingehalten. Palettenmasse ca. 120 × 95 × 200 cm – platzsparend zu lagern.</p>\n<p><strong>Hinweis:</strong> Bei einer Restfeuchte über 20 % empfehlen wir vor dem Verfeuern eine Nachtrocknung an einem trockenen, belüfteten Ort.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/bois-de-chauffage-en-sac-ultra-sec-essence-100-chene/",
-      "price": 136.17,
-      "regular_price": 136.17,
-      "sale_price": 136.17,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -7017,7 +7325,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Caisse-de-bois-de-chauffage-en-sac-Charme-ultra-sec3-300x300-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16323,
@@ -7055,7 +7365,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-35-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.15,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16322,
@@ -7093,7 +7405,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-34-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.27,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16321,
@@ -7104,9 +7418,9 @@
       "short_description": "<ul>\n<li>Holzart: 100 % Eiche</li>\n<li>Form: Charbonnettes (schmale Rundlinge/Spaltstücke)</li>\n<li>Länge: 50 cm</li>\n<li>Restfeuchte: unter 20 %</li>\n<li>Verpackung: Palette</li>\n</ul>",
       "description": "<p>Charbonnettes aus 100 % Eiche in 50 cm Länge – schmale Spaltstücke mit dem hohen Heizwert und der langen Brenndauer von Eichenholz. Gut geeignet für offene Kamine und grössere Feuerräume.</p>\n<p>Restfeuchte unter 20 %, ofenfertig, Lieferung auf Palette.</p>\n<p><strong>Lagerung:</strong> trocken und belüftet, vor Feuchtigkeit geschützt.</p>\n<p>Bearbeitungszeit 0–1 Werktag, Lieferung in 2 bis 4 Werktagen. Kostenlose Lieferung auf Palette in die Schweiz und nach Deutschland.</p>",
       "permalink": "https://lacompagnie-de-laremorque.com/boutique/charbonettes-en-chene-50-cm/",
-      "price": 68.09,
-      "regular_price": 68.09,
-      "sale_price": 68.09,
+      "price": 378.0,
+      "regular_price": 378.0,
+      "sale_price": 378.0,
       "on_sale": false,
       "currency": "CHF",
       "in_stock": true,
@@ -7131,7 +7445,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/55-Charbonettes-en-chene-50-cm-600x600-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16320,
@@ -7169,7 +7485,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-40-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 188.84,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16319,
@@ -7207,7 +7525,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-35-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.27,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16318,
@@ -7245,7 +7565,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-41-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 189.06,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16316,
@@ -7283,7 +7605,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/A-39-600x600-1.jpg"
         }
-      ]
+      ],
+      "price_per_unit": 188.97,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16315,
@@ -7321,7 +7645,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/bois-de-chauffage-25-cm-melange-de-bois-durs-palette-2-m3-3-steres-1-1-1-600x600-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     },
     {
       "source_id": 16314,
@@ -7373,7 +7699,9 @@
           "is_primary": false,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Capture-decran-2021-12-30-a-03.39.39-300x300-1.png"
         }
-      ]
+      ],
+      "price_per_unit": 0.472,
+      "price_per_unit_label": "CHF/kg"
     },
     {
       "source_id": 16313,
@@ -7411,7 +7739,9 @@
           "is_primary": true,
           "source": "https://lacompagnie-de-laremorque.com/wp-content/uploads/2026/08/Caisse-de-bois-de-chauffage-Chene-ultra-sec-2m3-1-1.jpeg"
         }
-      ]
+      ],
+      "price_per_unit": 189.0,
+      "price_per_unit_label": "CHF/Ster"
     }
   ]
 }
