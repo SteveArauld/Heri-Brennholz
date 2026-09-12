@@ -505,8 +505,8 @@
                         <a href="mailto:info@heribrennholzgmbh.com" class="d-block text-caption">
                             E-Mail: <span class="fw-medium">info@heribrennholzgmbh.com</span>
                         </a>
-                        <a href="tel:+41000000000" class="d-block text-caption">
-                            Telefon: <span class="fw-medium">+41 00 000 00 00</span>
+                        <a href="tel:+49015236942793" class="d-block text-caption">
+                            Telefon: <span class="fw-medium">+49015236942793</span>
                         </a>
                     </div>
                 </div>

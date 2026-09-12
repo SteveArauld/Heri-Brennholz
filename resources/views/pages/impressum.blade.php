@@ -28,7 +28,7 @@
             <h5>Kontakt</h5>
             <p>
                 E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a><br>
-                Telefon: <a href="tel:+41000000000">+41 00 000 00 00</a>
+                Telefon: <a href="tel:+49015236942793">+49015236942793</a>
             </p>
 
             <h5>Unternehmensgegenstand</h5>
