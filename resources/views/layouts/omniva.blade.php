@@ -535,6 +535,7 @@
             </a>
         </div>
         <div class="toolbar-item">
+            {{-- TODO: kein Konto-/Login-Feature im Backend vorhanden; verlinkt bis dahin auf den Shop --}}
             <a href="/shop">
                 <span class="toolbar-icon">
                     <i class="icon icon-User"></i>
@@ -551,7 +552,7 @@
             </a>
         </div>
         <div class="toolbar-item">
-            <a href="/shop">
+            <a href="{{ route('wishlist.index') }}">
                 <span class="toolbar-icon">
                     <i class="icon icon-HearchStroke"></i>
                 </span>
