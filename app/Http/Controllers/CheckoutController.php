@@ -11,6 +11,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Str;
+use Illuminate\Validation\Rule;
 
 class CheckoutController extends Controller
 {
@@ -43,8 +44,8 @@ class CheckoutController extends Controller
             'address' => ['required', 'string', 'max:200'],
             'address_2' => ['nullable', 'string', 'max:200'],
             'city' => ['required', 'string', 'max:120'],
-            'postcode' => ['required', 'string', 'max:20'],
-            'country' => ['required', 'string', 'max:60'],
+            'postcode' => ['required', 'string', 'regex:/^\d{4}$/'],
+            'country' => ['required', 'string', Rule::in(['Schweiz', 'Liechtenstein'])],
             'notes' => ['nullable', 'string', 'max:1000'],
         ]);
 

@@ -23,9 +23,15 @@
                         <div class="col-md-6"><input class="form-control" name="phone" placeholder="Telefon" value="{{ old('phone') }}"></div>
                         <div class="col-12"><input class="form-control" name="address" placeholder="Adresse *" value="{{ old('address') }}" required></div>
                         <div class="col-12"><input class="form-control" name="address_2" placeholder="Adresszusatz" value="{{ old('address_2') }}"></div>
-                        <div class="col-md-4"><input class="form-control" name="postcode" placeholder="Postleitzahl *" value="{{ old('postcode') }}" required></div>
+                        <div class="col-md-4"><input class="form-control" name="postcode" placeholder="PLZ *" pattern="\d{4}" maxlength="4" value="{{ old('postcode') }}" required></div>
                         <div class="col-md-4"><input class="form-control" name="city" placeholder="Stadt *" value="{{ old('city') }}" required></div>
-                        <div class="col-md-4"><input class="form-control" name="country" placeholder="Land *" value="{{ old('country', 'Deutschland') }}" required></div>
+                        <div class="col-md-4">
+                            <select class="form-control" name="country" required>
+                                @php($selectedCountry = old('country', 'Schweiz'))
+                                <option value="Schweiz" @selected($selectedCountry === 'Schweiz')>Schweiz</option>
+                                <option value="Liechtenstein" @selected($selectedCountry === 'Liechtenstein')>Liechtenstein</option>
+                            </select>
+                        </div>
                         <div class="col-12"><textarea class="form-control" name="notes" rows="3" placeholder="Anmerkungen (optional)">{{ old('notes') }}</textarea></div>
                     </div>
                 </div>
