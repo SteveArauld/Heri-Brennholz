@@ -595,7 +595,7 @@
             <a href="/warenkorb">
                 <span class="toolbar-icon">
                     <i class="icon icon-ShoppingBag"></i>
-                    <span class="toolbar-count">2</span>
+                    <span class="toolbar-count js-cart-count">{{ $cart->count() }}</span>
                 </span>
                 <span class="toolbar-label">Cart</span>
             </a>
