@@ -21,7 +21,7 @@
             <p>
                 Handelsregister-Nr.: CH-241.4.020.905-9<br>
                 UID/IDE: CHE-228.719.493<br>
-                MWST-Nummer: [[À COMPLÉTER : Schweizer MWST-Nummer]]<br>
+                {{-- TODO: MWST-Nummer ausstehend, sobald verfügbar ergänzen --}}
                 Rechtsform: Gesellschaft mit beschränkter Haftung (GmbH)<br>
                 Sitz: Biberist, Kanton Solothurn, Schweiz
             </p>
@@ -29,7 +29,7 @@
             <h5>Kontakt</h5>
             <p>
                 E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a><br>
-                Telefon: <a href="tel:+49015236942793">+49015236942793</a>
+                Telefon: <a href="tel:+41778112893">+41 77 811 28 93</a>
             </p>
 
             <h5>Unternehmensgegenstand</h5>
