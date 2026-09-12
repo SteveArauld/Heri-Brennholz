@@ -308,35 +308,6 @@
                                 </span>
                                 <i class="icon icon-ArrowUpRight"></i>
                             </a>
-                            <div class="social-list social-color">
-                                <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"
-                                    class="social-facebook" aria-label="Facebook">
-                                    <span class="icon">
-                                        <i class="icon-FacebookLogo" aria-hidden="true"></i>
-                                    </span>
-                                </a>
-
-                                <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"
-                                    class="social-instagram" aria-label="Instagram">
-                                    <span class="icon">
-                                        <i class="icon-InstagramLogo" aria-hidden="true"></i>
-                                    </span>
-                                </a>
-
-                                <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"
-                                    class="social-linkin" aria-label="LinkedIn">
-                                    <span class="icon">
-                                        <i class="icon-LinkinLogo" aria-hidden="true"></i>
-                                    </span>
-                                </a>
-
-                                <a href="https://x.com/" target="_blank" rel="noopener noreferrer" class="social-x"
-                                    aria-label="X">
-                                    <span class="icon">
-                                        <i class="icon-XLogo" aria-hidden="true"></i>
-                                    </span>
-                                </a>
-                            </div>
                         </div>
                         <div class="footer-col-block foot-col-link-1 ms-auto">
                             <p class="footer-heading footer-heading-mobile">Über uns</p>
