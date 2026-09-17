@@ -17,7 +17,8 @@
             <h5>Rücksendekosten</h5>
             <p>Die Kosten der Rücksendung trägt die Kundin bzw. der Kunde, ausser die Ware war defekt oder es wurde ein falscher Artikel geliefert – in diesen Fällen übernehmen wir die Rücksendekosten.</p>
 
-            <h5>Sperrige Güter</h5>
+            <h5>Erstattung</h5>
+            <p>Nach Eingang und Prüfung der zurückgesandten Ware erstatten wir den Kaufpreis innerhalb von 14 Tagen auf dasselbe Zahlungsmittel.</p>
             <p>Für sperrige Güter (Paletten, Öfen) können abweichende Rückgabebedingungen gelten – bitte kontaktieren Sie uns.</p>
 
             <h5>Fragen</h5>

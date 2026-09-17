@@ -17,7 +17,7 @@
                 Handelsregister-Nr.: CH-241.4.020.905-9, UID/IDE: CHE-228.719.493<br>
                 E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>
             </p>
-            <p>Die AGB gelten für alle Bestellungen von Kundinnen und Kunden mit Lieferadresse in der Schweiz oder in Liechtenstein.</p>
+            <p>Die AGB gelten für alle Bestellungen von Kundinnen und Kunden mit Lieferadresse in der Schweiz.</p>
 
             <h5>2. Vertragsschluss</h5>
             <p>Die Darstellung der Produkte im Shop stellt kein bindendes Angebot dar, sondern eine Aufforderung zur Bestellung. Mit dem Absenden der Bestellung geben Sie ein verbindliches Angebot zum Kauf ab. Der Vertrag kommt mit unserer Bestellbestätigung per E-Mail zustande.</p>
@@ -26,12 +26,10 @@
             <p>Alle angegebenen Preise verstehen sich als Endpreise inklusive der jeweils geltenden gesetzlichen Abgaben. Die im Bestellprozess verfügbaren Zahlungsarten werden Ihnen vor Abschluss der Bestellung angezeigt.</p>
 
             <h5>4. Lieferung</h5>
-            <p>Wir liefern ausschliesslich innerhalb der Schweiz und nach Liechtenstein. Details finden Sie auf unserer <a href="/versand">Versandseite</a>.</p>
+            <p>Wir liefern ausschliesslich innerhalb der Schweiz. Details finden Sie auf unserer <a href="/versand">Versandseite</a>.</p>
             <ul>
-                <li><strong>Bearbeitungszeit:</strong> 1 bis 2 Werktage.</li>
-                <li><strong>Versandzeit:</strong> 1 bis 2 Werktage.</li>
-                <li><strong>Lieferzeit gesamt:</strong> 2 bis 4 Werktage (Bearbeitung 1-2 Tage + Versand 1-2 Tage).</li>
-                <li><strong>Versandkosten:</strong> Die Lieferung ist für alle Bestellungen kostenlos, unabhängig vom Bestellwert.</li>
+                <li><strong>Lieferzeit:</strong> 1 bis 2 Werktage.</li>
+                <li><strong>Versandkosten:</strong> Die Lieferung ist für alle Bestellungen in der Schweiz kostenlos, unabhängig vom Bestellwert.</li>
             </ul>
             <p>Bei Lieferverzögerungen, etwa durch Wetter, Verkehr oder Verfügbarkeit, informieren wir Sie so schnell wie möglich.</p>
 

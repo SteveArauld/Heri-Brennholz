@@ -10,13 +10,13 @@
     <title>@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz aus eigener Schweizer Produktion. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Open Graph -->
     <meta property="og:title" content="@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz">
     <meta property="og:description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.">
     <meta property="og:image" content="{{ asset('assets/images/thumb.jpg') }}">
     <meta property="og:url" content="{{ url()->current() }}">
     <meta property="og:type" content="website">
@@ -26,7 +26,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="@yield('title', 'Heri Brennholz') — Brennholz, Pellets &amp; Scheite aus der Schweiz">
     <meta name="twitter:description"
-        content="Heri Brennholz GmbH – Brennholz, Holzpellets, Holzbriketts und Kaminholz. Trocken, zertifiziert, kostenlose Lieferung in der ganzen Schweiz.">
+        content="Heri Brennholz GmbH – Brennholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.">
     <meta name="twitter:image" content="{{ asset('assets/images/thumb.jpg') }}">
 
     <!-- font -->
@@ -45,6 +45,54 @@
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/logo/apple-touch-icon.png">
     @stack('styles')
+    @php
+        $co = config('feed.company');
+    @endphp
+    <script type="application/ld+json">
+        {!! json_encode([
+            '@context' => 'https://schema.org',
+            '@graph' => [
+                [
+                    '@type' => 'Organization',
+                    'name' => $co['legal_name'],
+                    'legalName' => $co['legal_name'],
+                    'url' => url('/'),
+                    'email' => $co['email'],
+                    'telephone' => $co['phone'],
+                    'address' => [
+                        '@type' => 'PostalAddress',
+                        'streetAddress' => $co['street'],
+                        'postalCode' => $co['postal_code'],
+                        'addressLocality' => $co['city'],
+                        'addressCountry' => $co['country'],
+                    ],
+                    'contactPoint' => [
+                        '@type' => 'ContactPoint',
+                        'contactType' => 'customer service',
+                        'telephone' => $co['phone'],
+                        'email' => $co['email'],
+                        'areaServed' => 'CH',
+                        'availableLanguage' => ['de'],
+                    ],
+                ],
+                [
+                    '@type' => 'OnlineStore',
+                    'name' => $co['legal_name'],
+                    'url' => url('/'),
+                    'telephone' => $co['phone'],
+                    'email' => $co['email'],
+                    'address' => [
+                        '@type' => 'PostalAddress',
+                        'streetAddress' => $co['street'],
+                        'postalCode' => $co['postal_code'],
+                        'addressLocality' => $co['city'],
+                        'addressCountry' => $co['country'],
+                    ],
+                ],
+            ],
+        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
+    </script>
+    @stack('jsonld')
     <style>
         /* Barre orange : chaque annonce tient sur une seule ligne */
         .tf-topbar .text-adver {
@@ -133,7 +181,7 @@
                                     <!-- slide 1 -->
                                     <div class="swiper-slide">
                                         <div class="text-adver text-white text-caption">
-                                            Kostenlose Lieferung in der ganzen Schweiz
+                                            Kostenlose Lieferung in der Schweiz in 1–2 Werktagen
                                             <span class="br-line bg-white"></span>
                                             <a href="/shop" class="fw-semibold link-underline">
                                                 Zum Shop
@@ -294,6 +342,15 @@
                                 </li>
                                 <li class="infor-contact_item">
                                     <span class="ic-w">
+                                        <i class="icon icon-Phone"></i>
+                                    </span>
+                                    <a href="tel:+41778112893"
+                                        class="text-caption fw-medium link-underline link-black">
+                                        +41 77 811 28 93
+                                    </a>
+                                </li>
+                                <li class="infor-contact_item">
+                                    <span class="ic-w">
                                         <i class="icon icon-LetterEnvelope"></i>
                                     </span>
                                     <a href="mailto:info@heribrennholzgmbh.com"
@@ -399,16 +456,10 @@
                                         </fieldset>
                                     </form>
                                     <p>
-                                        *By entering the e-mail you accept the
-                                        <a href="/agb"
-                                            class="cl-text-main text-decoration-underline d-inline-block">
-                                            terms and conditions
-                                        </a>
-                                        and the
-                                        <a href="/datenschutz"
-                                            class="cl-text-main text-decoration-underline d-inline-block">
-                                            privacy policy.
-                                        </a>
+                                        Mit der Eingabe Ihrer E-Mail-Adresse akzeptieren Sie die
+                                        <a href="/agb" class="cl-text-main text-decoration-underline d-inline-block">AGB</a>
+                                        und die
+                                        <a href="/datenschutz" class="cl-text-main text-decoration-underline d-inline-block">Datenschutzerklärung</a>.
                                     </p>
                                 </div>
                             </div>

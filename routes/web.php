@@ -15,7 +15,6 @@ Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/shop', [ShopController::class, 'index'])->name('shop.index');
 Route::get('/suche', [ShopController::class, 'index'])->name('shop.search');
 
-// Alte Kategorien "Brennholz" und "Kaminholz" wurden in "Scheitholz" zusammengeführt.
 Route::redirect('/kategorie/brennholz', '/kategorie/scheitholz', 301);
 Route::redirect('/kategorie/kaminholz', '/kategorie/scheitholz', 301);
 
@@ -46,12 +45,17 @@ Route::get('/agb', [PageController::class, 'terms'])->name('pages.terms');
 Route::get('/impressum', [PageController::class, 'impressum'])->name('pages.impressum');
 Route::get('/versand', [PageController::class, 'versand'])->name('pages.versand');
 Route::get('/rueckgabe', [PageController::class, 'rueckgabe'])->name('pages.rueckgabe');
+Route::get('/sitemap.xml', [PageController::class, 'sitemap'])->name('sitemap');
 
-// Google Merchant Center Produkt-Feed
-// Stabile Pfade. Die alten "/feed/..."-URLs bleiben als 301-Redirect erhalten
-// (falls extern bereits referenziert), sind aber nirgends im Projekt als
-// bereits bei Merchant Center registriert dokumentiert.
+Route::redirect('/contact', '/kontakt', 301);
+Route::redirect('/a-propos', '/ueber-uns', 301);
+Route::redirect('/livraison', '/versand', 301);
+Route::redirect('/retours', '/rueckgabe', 301);
+Route::redirect('/confidentialite', '/datenschutz', 301);
+Route::redirect('/cgv', '/agb', 301);
+
 Route::get('/feeds/google-merchant-ch.xml', [FeedController::class, 'index'])->name('feed.google');
+Route::get('/feeds/google-shopping.xml', [FeedController::class, 'index'])->name('feed.google.shopping');
 Route::get('/feeds/google-merchant-ch.xml/download', [FeedController::class, 'download'])->name('feed.google.download');
 Route::get('/feeds/google-merchant-ch.tsv', [FeedController::class, 'tsv'])->name('feed.google.tsv');
 

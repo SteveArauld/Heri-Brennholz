@@ -8,10 +8,9 @@
         <div class="container" style="max-width:820px;">
             @php
                 $faqs = [
-                    ['Wie lange dauert die Bearbeitung meiner Bestellung?', 'Jede Bestellung wird innerhalb von 0 bis 1 Werktag zum Versand vorbereitet.'],
-                    ['Wie lange dauert die Lieferung?', 'Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage).'],
+                    ['Wie lange dauert die Lieferung?', 'Wir liefern kostenlos innerhalb der Schweiz in 1 bis 2 Werktagen.'],
                     ['Ist die Lieferung kostenlos?', 'Ja. Wir liefern kostenlos in der ganzen Schweiz, unabhängig vom Bestellwert.'],
-                    ['Liefert Heri Brennholz auch ins Ausland?', 'Wir liefern innerhalb der Schweiz und nach Liechtenstein. Eine Lieferung in weitere Länder ist derzeit nicht möglich.'],
+                    ['Liefert Heri Brennholz auch ins Ausland?', 'Nein. Wir liefern ausschliesslich innerhalb der Schweiz.'],
                     ['Sind Ihre Produkte zertifiziert?', 'Unser Brennholz und unsere Holzpellets stammen aus kontrollierter, eigener Schweizer Produktion und werden auf Restfeuchte und Qualität geprüft.'],
                     ['Wie lagere ich Brennholz richtig?', 'An einem belüfteten, regengeschützten Ort und vom Boden abgehoben. Holzbriketts und Pellets müssen trocken gelagert werden.'],
                     ['Welche Zahlungsmöglichkeiten habe ich?', 'Die Zahlungsmöglichkeiten werden Ihnen im Bestellprozess vor Abschluss der Bestellung angezeigt.'],

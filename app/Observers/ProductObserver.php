@@ -3,12 +3,10 @@
 namespace App\Observers;
 
 use App\Models\Product;
-use App\Services\ProductFeed;
-use App\Services\ProductFeedTsv;
+use Illuminate\Support\Facades\Cache;
 
 class ProductObserver
 {
-    /** Feed-Cache invalidieren, sobald sich ein Produkt ändert. */
     public function saved(Product $product): void
     {
         $this->invalidate();
@@ -21,7 +19,7 @@ class ProductObserver
 
     private function invalidate(): void
     {
-        (new ProductFeed())->forget();
-        (new ProductFeedTsv())->forget();
+        Cache::forget('product_feed_google_xml');
+        Cache::forget('product_feed_google_tsv');
     }
 }

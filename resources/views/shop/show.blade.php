@@ -64,9 +64,9 @@
                                 @if ($primaryCat)
                                     <p class="product-infor-badge text-caption cl-text-main fw-medium">{{ $primaryCat->name }}</p>
                                 @endif
-                                <h3 class="product-infor-name">{{ $product->name }}</h3>
+                                <h1 class="product-infor-name h3">{{ $product->name }}</h1>
                                 <div class="product-infor-price">
-                                    <span class="price-on-sale h4 text-primary">{{ swiss_money((float) $product->price) }}</span>
+                                    <span class="price-on-sale h4 text-primary" data-gmc-price="{{ number_format((float) $product->price, 2, '.', '') }}">{{ swiss_money((float) $product->price) }}</span>
                                     @if ($hasPromo)
                                         <span class="price-on-old cl-text-main fw-medium text-decoration-line-through">{{ swiss_money((float) $product->regular_price) }}</span>
                                         <span class="badge-sale text-extra-small fw-medium style-fill">
@@ -78,8 +78,8 @@
                                     <div class="product-infor-grundpreis text-caption cl-text-main">{{ $product->formatted_grundpreis }}</div>
                                 @endif
                                 <div class="tf-product-shipping cl-text-main">
-                                    <a href="{{ route('pages.faq') }}" class="text-decoration-underline link">Versand</a>
-                                    wird bei der Bestellung berechnet.
+                                    Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.
+                                    <a href="{{ route('pages.versand') }}" class="text-decoration-underline link">Versandbedingungen</a>
                                 </div>
                                 <p class="mb-0">
                                     <span class="badge {{ $product->in_stock ? 'bg-success' : 'bg-secondary' }}">
@@ -118,7 +118,7 @@
                                 <div class="product-delivery">
                                     <i class="icon icon-Truck cl-text-main"></i>
                                     <p class="text-caption">Voraussichtliche Lieferzeit:
-                                        <span class="cl-text-main fw-medium">2 bis 3 Werktage</span>
+                                        <span class="cl-text-main fw-medium">1 bis 2 Werktage</span>
                                     </p>
                                 </div>
                                 <span class="br-line type-vertical"></span>
@@ -172,7 +172,7 @@
                                     <div id="faq-ship" class="collapse" data-bs-parent="#prdDes">
                                         <div class="accordion-content d-grid gap-14">
                                             <ul class="list text-caption">
-                                                <li><span class="br-dot"></span> Lieferung in 2 bis 4 Werktagen (Bearbeitung 1-2 Tage + Versand 1-2 Tage).</li>
+                                                <li><span class="br-dot"></span> Lieferung in 1 bis 2 Werktagen innerhalb der Schweiz.</li>
                                                 <li><span class="br-dot"></span> Kostenlose Lieferung in der ganzen Schweiz – ohne Mindestbestellwert.</li>
                                                 <li><span class="br-dot"></span> 14 Tage freiwilliges Rückgaberecht (siehe <a href="/rueckgabe">Rückgabe</a>).</li>
                                             </ul>
@@ -244,6 +244,12 @@
         </div>
     @endif
 @endsection
+
+@push('jsonld')
+    @if (! empty($googleProduct))
+        <script type="application/ld+json">{!! json_encode($googleProduct->toJsonLd(), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}</script>
+    @endif
+@endpush
 
 @push('styles')
 <style>

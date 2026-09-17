@@ -144,7 +144,7 @@
                     <span class="icon"><i class="icon-Package"></i></span>
                     <div class="content">
                         <p class="title h5">Palettenlieferung</p>
-                        <p class="text-caption cl-text-2">Kostenlose Lieferung in der ganzen Schweiz.</p>
+                        <p class="text-caption cl-text-2">Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.</p>
                     </div>
                 </div>
                 <div class="box-icon_V01 text-center">

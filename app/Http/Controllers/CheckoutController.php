@@ -45,7 +45,7 @@ class CheckoutController extends Controller
             'address_2' => ['nullable', 'string', 'max:200'],
             'city' => ['required', 'string', 'max:120'],
             'postcode' => ['required', 'string', 'regex:/^\d{4}$/'],
-            'country' => ['required', 'string', Rule::in(['Schweiz', 'Liechtenstein'])],
+            'country' => ['required', 'string', Rule::in(['Schweiz'])],
             'notes' => ['nullable', 'string', 'max:1000'],
         ]);
 

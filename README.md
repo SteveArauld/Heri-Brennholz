@@ -2,7 +2,7 @@
 
 Boutique e-commerce Laravel pour **Heri Brennholz GmbH**, producteur et vendeur de bois de chauffage (Brennholz), granulés de bois (Pellets), briquettes et bois densifié, basé à Biberist (Soleure, Suisse).
 
-Le site propose la vente en ligne de combustibles bois avec livraison **gratuite en Suisse et en Allemagne** (préparation de commande : 0–1 jour ouvré, livraison : 2–3 jours ouvrés).
+Le site propose la vente en ligne de combustibles bois avec livraison **gratuite en Suisse en 1 à 2 jours ouvrés**.
 
 ## Stack technique
 

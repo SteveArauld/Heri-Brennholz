@@ -2,7 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Category;
+use App\Models\Product;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Mail;
 
 class PageController extends Controller
 {
@@ -25,7 +30,20 @@ class PageController extends Controller
             'message' => ['required', 'string', 'max:2000'],
         ]);
 
-        // In production this would dispatch a mail / notification.
+        $admin = (string) config('mail.admin.address', config('mail.from.address'));
+        try {
+            Mail::raw(
+                "Name: {$request->name}\nE-Mail: {$request->email}\nBetreff: {$request->subject}\n\n{$request->message}",
+                function ($message) use ($request, $admin) {
+                    $message->to($admin)
+                        ->subject('Kontakt: '.($request->subject ?: 'Anfrage'))
+                        ->replyTo($request->email, $request->name);
+                }
+            );
+        } catch (\Throwable $e) {
+            Log::error('Kontaktformular fehlgeschlagen', ['error' => $e->getMessage()]);
+        }
+
         return back()->with('status', 'Vielen Dank, Ihre Nachricht wurde gesendet. Wir melden uns in Kürze.');
     }
 
@@ -57,5 +75,36 @@ class PageController extends Controller
     public function rueckgabe()
     {
         return view('pages.rueckgabe');
+    }
+
+    public function sitemap(): Response
+    {
+        $urls = [
+            url('/'),
+            route('shop.index'),
+            route('pages.about'),
+            route('pages.contact'),
+            route('pages.versand'),
+            route('pages.rueckgabe'),
+            route('pages.privacy'),
+            route('pages.terms'),
+            route('pages.impressum'),
+            route('pages.faq'),
+        ];
+
+        foreach (Category::query()->orderBy('position')->get() as $category) {
+            $urls[] = route('shop.category', $category);
+        }
+        foreach (Product::query()->orderBy('id')->get() as $product) {
+            $urls[] = route('product.show', $product);
+        }
+
+        $xml = '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+        foreach ($urls as $loc) {
+            $xml .= '<url><loc>'.e($loc).'</loc></url>';
+        }
+        $xml .= '</urlset>';
+
+        return response($xml, 200, ['Content-Type' => 'application/xml; charset=UTF-8']);
     }
 }

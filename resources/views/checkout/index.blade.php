@@ -26,11 +26,8 @@
                         <div class="col-md-4"><input class="form-control" name="postcode" placeholder="PLZ *" pattern="\d{4}" maxlength="4" value="{{ old('postcode') }}" required></div>
                         <div class="col-md-4"><input class="form-control" name="city" placeholder="Stadt *" value="{{ old('city') }}" required></div>
                         <div class="col-md-4">
-                            <select class="form-control" name="country" required>
-                                @php($selectedCountry = old('country', 'Schweiz'))
-                                <option value="Schweiz" @selected($selectedCountry === 'Schweiz')>Schweiz</option>
-                                <option value="Liechtenstein" @selected($selectedCountry === 'Liechtenstein')>Liechtenstein</option>
-                            </select>
+                            <input type="hidden" name="country" value="Schweiz">
+                            <input class="form-control" value="Schweiz" disabled>
                         </div>
                         <div class="col-12"><textarea class="form-control" name="notes" rows="3" placeholder="Anmerkungen (optional)">{{ old('notes') }}</textarea></div>
                     </div>

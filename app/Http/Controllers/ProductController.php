@@ -2,10 +2,15 @@
 
 namespace App\Http\Controllers;
 
+use App\Domain\Merchant\GoogleProductMapper;
 use App\Models\Product;
 
 class ProductController extends Controller
 {
+    public function __construct(private readonly GoogleProductMapper $mapper)
+    {
+    }
+
     public function show(Product $product)
     {
         $product->load('images', 'categories');
@@ -17,7 +22,9 @@ class ProductController extends Controller
             ->take(4)
             ->get();
 
-        return view('shop.show', compact('product', 'related'));
+        $googleProduct = $this->mapper->map($product);
+
+        return view('shop.show', compact('product', 'related', 'googleProduct'));
     }
 
     public function quickview(Product $product)

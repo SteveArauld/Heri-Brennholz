@@ -23,14 +23,14 @@
 
             <h5>3. Zweck der Datenverarbeitung</h5>
             <ul>
-                <li>Abwicklung und Auslieferung Ihrer Bestellungen in der ganzen Schweiz und in Liechtenstein;</li>
+                <li>Abwicklung und Auslieferung Ihrer Bestellungen in der Schweiz;</li>
                 <li>Kundenbetreuung und Bearbeitung von Kontaktanfragen;</li>
                 <li>Erfüllung gesetzlicher Aufbewahrungspflichten (Buchhaltung, Steuerrecht);</li>
                 <li>mit Ihrer ausdrücklichen Einwilligung: Versand von Angeboten und Newslettern.</li>
             </ul>
 
             <h5>4. Weitergabe von Daten</h5>
-            <p>Ihre Daten werden nur an Dritte weitergegeben, soweit dies zur Vertragserfüllung notwendig ist (z. B. an Transport- und Logistikunternehmen für die Lieferung in die Schweiz oder nach Liechtenstein) oder wir gesetzlich dazu verpflichtet sind. Ein Verkauf Ihrer Daten an Dritte findet nicht statt.</p>
+            <p>Ihre Daten werden nur an Dritte weitergegeben, soweit dies zur Vertragserfüllung notwendig ist (z. B. an Transport- und Logistikunternehmen für die Lieferung in die Schweiz) oder wir gesetzlich dazu verpflichtet sind. Ein Verkauf Ihrer Daten an Dritte findet nicht statt.</p>
 
             <h5>5. Aufbewahrungsdauer</h5>
             <p>Bestelldaten werden für die gesetzlich vorgeschriebene Dauer im Rahmen unserer Buchhaltungs- und Steuerpflichten aufbewahrt und danach gelöscht, sofern keine weitere gesetzliche Aufbewahrungspflicht besteht.</p>

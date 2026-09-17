@@ -1,2 +1,19 @@
 User-agent: *
-Disallow:
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+Allow: /storage
+Allow: /media
+Allow: /produkt
+Allow: /shop
+Allow: /feeds
+Allow: /assets
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /media
+Allow: /assets
+Allow: /storage
+
+Sitemap: /sitemap.xml
