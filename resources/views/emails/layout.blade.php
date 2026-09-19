@@ -1,4 +1,4 @@
-@php $brand = config('app.name', 'Boire'); @endphp
+@php $brand = config('app.name', 'Heri Brennholz'); @endphp
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -19,7 +19,7 @@
             <table role="presentation" width="100%" cellpadding="0" cellspacing="0">
               <tr>
                 <td style="font-size:22px;font-weight:700;letter-spacing:.02em;color:#ffffff;">{{ $brand }}</td>
-                <td align="right" style="font-size:12px;color:#c9bfb4;">Brennholz · Pellets · Öfen</td>
+                <td align="right" style="font-size:12px;color:#c9bfb4;">Brennholz · Lieferung in der ganzen Schweiz</td>
               </tr>
             </table>
           </td>
@@ -33,7 +33,7 @@
 
         <tr>
           <td style="padding:24px 32px;background:#faf7f2;border-top:1px solid #ece5da;font-size:12px;line-height:1.6;color:#8a8178;">
-            {{ $brand }} Brennstoffe · Gewerbegebiet, 08000 Ardennen<br>
+            Heri Brennholz GmbH · Fiderholzstrasse 7 · 4562 Biberist, Schweiz<br>
             <a href="mailto:{{ config('mail.from.address') }}" style="color:#8a8178;">{{ config('mail.from.address') }}</a> ·
             <a href="{{ config('app.url') }}" style="color:#8a8178;">{{ str_replace(['https://','http://'], '', config('app.url')) }}</a><br>
             Diese E-Mail wurde automatisch versendet. Bitte antworten Sie bei Rückfragen direkt auf diese Nachricht.

@@ -3,6 +3,7 @@
 namespace App\Mail;
 
 use App\Models\Order;
+use App\Mail\Concerns\AddsPlainTextPart;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Content;
@@ -11,6 +12,7 @@ use Illuminate\Queue\SerializesModels;
 
 class OrderConfirmationMail extends Mailable
 {
+    use AddsPlainTextPart;
     use Queueable;
     use SerializesModels;
 
@@ -22,6 +24,7 @@ class OrderConfirmationMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
+            using: [$this->plainTextPart()],
             subject: 'Ihre Bestellung ' . $this->order->reference . ' bei ' . config('app.name'),
             replyTo: [config('mail.admin.address')],
         );

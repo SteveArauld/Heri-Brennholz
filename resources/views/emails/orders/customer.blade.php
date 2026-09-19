@@ -1,4 +1,4 @@
-@php $brand = config('app.name', 'Boire'); @endphp
+@php $brand = config('app.name', 'Heri Brennholz'); @endphp
 @component('emails.layout', ['subject' => 'Bestellbestätigung ' . $order->reference, 'preheader' => 'Wir haben Ihre Bestellung ' . $order->reference . ' erhalten.'])
 
 <h1 style="margin:0 0 6px;font-size:22px;">Vielen Dank für Ihre Bestellung!</h1>

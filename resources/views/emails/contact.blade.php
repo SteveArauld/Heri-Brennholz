@@ -3,7 +3,7 @@
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#1c140f;border-radius:10px;margin-bottom:22px;">
   <tr>
     <td style="padding:16px 20px;color:#ffffff;">
-      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#c9bfb4;">📩 Nachricht über das Kontaktformular</div>
+      <div style="font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#c9bfb4;">Nachricht über das Kontaktformular</div>
       <div style="font-size:20px;font-weight:700;margin-top:2px;">{{ $contactSubject ?: 'Anfrage' }}</div>
     </td>
   </tr>

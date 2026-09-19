@@ -2,6 +2,7 @@
 
 namespace App\Mail;
 
+use App\Mail\Concerns\AddsPlainTextPart;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Content;
@@ -10,6 +11,7 @@ use Illuminate\Queue\SerializesModels;
 
 class ContactFormMail extends Mailable
 {
+    use AddsPlainTextPart;
     use Queueable;
     use SerializesModels;
 
@@ -24,6 +26,7 @@ class ContactFormMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
+            using: [$this->plainTextPart()],
             subject: 'Kontaktformular: ' . ($this->contactSubject ?: 'Anfrage'),
             replyTo: [new \Illuminate\Mail\Mailables\Address($this->email, $this->name)],
         );

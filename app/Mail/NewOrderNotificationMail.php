@@ -3,6 +3,7 @@
 namespace App\Mail;
 
 use App\Models\Order;
+use App\Mail\Concerns\AddsPlainTextPart;
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Mail\Mailables\Address;
@@ -12,6 +13,7 @@ use Illuminate\Queue\SerializesModels;
 
 class NewOrderNotificationMail extends Mailable
 {
+    use AddsPlainTextPart;
     use Queueable;
     use SerializesModels;
 
@@ -23,6 +25,7 @@ class NewOrderNotificationMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
+            using: [$this->plainTextPart()],
             subject: 'Neue Bestellung ' . $this->order->reference . ' — ' . $this->order->money($this->order->total),
             replyTo: [new Address($this->order->email, $this->order->full_name)],
         );
