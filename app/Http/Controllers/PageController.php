@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\ContactFormMail;
 use App\Models\Category;
 use App\Models\Product;
 use Illuminate\Http\Request;
@@ -32,14 +33,12 @@ class PageController extends Controller
 
         $admin = (string) config('mail.admin.address', config('mail.from.address'));
         try {
-            Mail::raw(
-                "Name: {$request->name}\nE-Mail: {$request->email}\nBetreff: {$request->subject}\n\n{$request->message}",
-                function ($message) use ($request, $admin) {
-                    $message->to($admin)
-                        ->subject('Kontakt: '.($request->subject ?: 'Anfrage'))
-                        ->replyTo($request->email, $request->name);
-                }
-            );
+            Mail::to($admin)->send(new ContactFormMail(
+                name: $request->string('name')->toString(),
+                email: $request->string('email')->toString(),
+                contactSubject: $request->filled('subject') ? $request->string('subject')->toString() : null,
+                body: $request->string('message')->toString(),
+            ));
         } catch (\Throwable $e) {
             Log::error('Kontaktformular fehlgeschlagen', ['error' => $e->getMessage()]);
         }
