@@ -15,7 +15,7 @@
                 Fiderholzstrasse 7<br>
                 4562 Biberist, Schweiz<br>
                 Handelsregister-Nr.: CH-241.4.020.905-9, UID/IDE: CHE-228.719.493<br>
-                E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>
+                E-Mail: <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a>
             </p>
             <p>Die AGB gelten für alle Bestellungen von Kundinnen und Kunden mit Lieferadresse in der Schweiz.</p>
 
@@ -49,7 +49,7 @@
             <p>Es gilt materielles Schweizer Recht unter Ausschluss des UN-Kaufrechts, unbeschadet zwingender verbraucherschützender Bestimmungen am Wohnsitz der Kundin oder des Kunden. Gerichtsstand für Streitigkeiten mit Kaufleuten ist Solothurn, Schweiz.</p>
 
             <h5>10. Kontakt</h5>
-            <p>Für Fragen zu diesen AGB erreichen Sie uns über unsere <a href="{{ route('pages.contact') }}">Kontaktseite</a> oder per E-Mail an <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>.</p>
+            <p>Für Fragen zu diesen AGB erreichen Sie uns über unsere <a href="{{ route('pages.contact') }}">Kontaktseite</a> oder per E-Mail an <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a>.</p>
         </div>
     </section>
 @endsection

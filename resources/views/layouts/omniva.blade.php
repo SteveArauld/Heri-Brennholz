@@ -353,9 +353,9 @@
                                     <span class="ic-w">
                                         <i class="icon icon-LetterEnvelope"></i>
                                     </span>
-                                    <a href="mailto:info@heribrennholzgmbh.com"
+                                    <a href="mailto:kontakt@heribrennholzgmbh.com"
                                         class="text-caption fw-medium link-underline link-black">
-                                        info@heribrennholzgmbh.com
+                                        kontakt@heribrennholzgmbh.com
                                     </a>
                                 </li>
                             </ul>
@@ -520,8 +520,8 @@
                             Adresse:
                             <span class="fw-medium">Fiderholzstrasse 7, 4562 Biberist, Schweiz</span>
                         </a>
-                        <a href="mailto:info@heribrennholzgmbh.com" class="d-block text-caption">
-                            E-Mail: <span class="fw-medium">info@heribrennholzgmbh.com</span>
+                        <a href="mailto:kontakt@heribrennholzgmbh.com" class="d-block text-caption">
+                            E-Mail: <span class="fw-medium">kontakt@heribrennholzgmbh.com</span>
                         </a>
                         <a href="tel:+41778112893" class="d-block text-caption">
                             Telefon: <span class="fw-medium">+41 77 811 28 93</span>

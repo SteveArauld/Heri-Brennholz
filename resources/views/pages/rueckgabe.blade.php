@@ -9,7 +9,7 @@
             <p>Nach Schweizer Recht besteht für online abgeschlossene Kaufverträge kein gesetzliches Widerrufsrecht. Wir räumen unseren Kundinnen und Kunden dennoch freiwillig folgendes Rückgaberecht ein.</p>
 
             <h5>Frist</h5>
-            <p>Sie können innerhalb von 14 Tagen ab Erhalt der Ware eine Rückgabe beantragen. Zur Ausübung genügt eine formlose Mitteilung, z. B. per E-Mail an <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a>.</p>
+            <p>Sie können innerhalb von 14 Tagen ab Erhalt der Ware eine Rückgabe beantragen. Zur Ausübung genügt eine formlose Mitteilung, z. B. per E-Mail an <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a>.</p>
 
             <h5>Zustand der Ware</h5>
             <p>Die Ware muss unbenutzt und in wiederverkaufsfähigem Zustand sein.</p>

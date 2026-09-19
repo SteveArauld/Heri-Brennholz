@@ -18,7 +18,7 @@
                         Fiderholzstrasse 7<br>
                         4562 Biberist, Schweiz<br>
                         Tel.: <a href="tel:+41778112893">+41 77 811 28 93</a><br>
-                        E-Mail: <a href="mailto:info@heribrennholzgmbh.com">info@heribrennholzgmbh.com</a></p>
+                        E-Mail: <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a></p>
                     <p class="text-caption">Montag bis Freitag, 8–18 Uhr.</p>
                     <p class="text-caption">Kostenlose Lieferung in der ganzen Schweiz in 1 bis 2 Werktagen.</p>
                 </div>
