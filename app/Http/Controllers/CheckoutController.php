@@ -47,11 +47,12 @@ class CheckoutController extends Controller
             'postcode' => ['required', 'string', 'regex:/^\d{4}$/'],
             'country' => ['required', 'string', Rule::in(['Schweiz'])],
             'notes' => ['nullable', 'string', 'max:1000'],
+            'payment_method' => ['required', Rule::in(array_keys(payment_methods()))],
         ]);
 
         $order = Order::create([
             ...$data,
-            'reference' => 'BOIRE-' . strtoupper(Str::random(8)),
+            'reference' => 'HB-' . strtoupper(Str::random(8)),
             'status' => 'pending',
             'subtotal' => $this->cart->subtotal(),
             'shipping' => $this->cart->shipping(),

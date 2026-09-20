@@ -52,7 +52,7 @@
                 @php
                     $slides = [
                         ['img' => $heroImages['hero-1'] ?? null, 'title' => 'Heizen mit Holz<br>leistungsstark &amp; wirtschaftlich', 'desc' => "Pellets, Scheite und Brennholz – trocken, mit hohem Heizwert, palettenweise geliefert."],
-                        ['img' => $heroImages['hero-2'] ?? null, 'title' => 'Holzpellets<br>zertifiziert nach ENplus A1', 'desc' => "Optimaler Wirkungsgrad für Ihren Ofen oder Kessel, in 15-kg-Säcken auf Palette."],
+                        ['img' => $heroImages['hero-2'] ?? null, 'title' => 'Holzpellets<br>für Ofen und Kessel', 'desc' => "Holzpellets verschiedener Hersteller, in 15-kg-Säcken auf Palette."],
                         ['img' => $heroImages['hero-3'] ?? null, 'title' => 'Scheite &amp; Kaminholz<br>sofort brennfertig', 'desc' => "Gespaltenes, getrocknetes Hartholz – ideal für Kamineinsätze, Kamine und Holzöfen."],
                     ];
                 @endphp
@@ -151,7 +151,7 @@
                     <span class="icon"><i class="icon-CheckCircle"></i></span>
                     <div class="content">
                         <p class="title h5">Trocken &amp; zertifiziert</p>
-                        <p class="text-caption cl-text-2">Pellets nach ENplus A1 / DINplus und Hartholz mit niedriger Restfeuchte.</p>
+                        <p class="text-caption cl-text-2">Pellets und Hartholz verschiedener Hersteller; Herstellerangaben je Produkt.</p>
                     </div>
                 </div>
                 <div class="box-icon_V01 text-center">
@@ -173,8 +173,8 @@
                     alt="Heri Brennholz" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;">
                 <span style="position:absolute;inset:0;background:linear-gradient(90deg,rgba(20,14,10,.75),rgba(20,14,10,.25));"></span>
                 <div class="position-relative p-4 p-lg-5" style="max-width:560px;color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.45);">
-                    <h3 class="font-instrument_serif mb-10" style="color:#fff;">Bereiten Sie sich jetzt auf den Winter vor</h3>
-                    <p class="mb-20" style="opacity:.95;">Bestellen Sie Pellets und Brennholz noch vor der kalten Jahreszeit.</p>
+                    <h3 class="font-instrument_serif mb-10" style="color:#fff;">Brennholz und Pellets für die Heizsaison</h3>
+                    <p class="mb-20" style="opacity:.95;">Entdecken Sie unser Sortiment an Brennholz, Pellets und Öfen.</p>
                     <a href="{{ route('shop.index') }}" class="tf-btn btn-fill animate-btn"><span>Jetzt bestellen</span></a>
                 </div>
             </div>
@@ -195,6 +195,7 @@
                         <input type="email" name="email" class="text-caption" placeholder="Ihre E-Mail-Adresse" required>
                         <button type="submit" class="btn-action_submit tf-btn animate-btn"><i class="icon icon-ArrowRight"></i></button>
                     </fieldset>
+                    <label class="text-caption d-flex gap-2 text-start mt-2"><input type="checkbox" name="newsletter_consent" value="1" required> <span>Ich möchte Angebote per E-Mail erhalten und habe die <a href="/datenschutz" class="text-decoration-underline">Datenschutzerklärung</a> gelesen. Abmeldung jederzeit per E-Mail an kontakt@heribrennholzgmbh.com.</span></label>
                 </form>
             </div>
         </div>

@@ -13,7 +13,7 @@ Périmètre : audit uniquement, aucune correction appliquée (conforme à ÉTAPE
   - `database/data/products.json` (165 produits, 5 catégories)
   - `database/data/stoves.json` (34 produits, 3 catégories)
   - Seeder : `database/seeders/ShopSeeder.php` (upsert vers `Product`/`Category`/`ProductImage` via `source_id`)
-- **⚠ Découverte critique** : les `permalink` des produits scrapés pointent vers `https://lacompagnie-de-laremorque.com/...`, un site de location de remorques sans rapport avec le bois de chauffage. Cela confirme que **le catalogue entier est une donnée de démonstration/scraping tierce jamais remplacée par le vrai catalogue du client**. Ceci est antérieur et plus grave que les problèmes de prix listés ci-dessous — à vous signaler en priorité.
+- **⚠ Découverte critique** : les `permalink` des produits scrapés pointent vers `https://https://heribrennholzgmbh.com/...`, un site de location de remorques sans rapport avec le bois de chauffage. Cela confirme que **le catalogue entier est une donnée de démonstration/scraping tierce jamais remplacée par le vrai catalogue du client**. Ceci est antérieur et plus grave que les problèmes de prix listés ci-dessous — à vous signaler en priorité.
 
 ---
 

@@ -77,6 +77,7 @@
                                 @if ($product->formatted_grundpreis)
                                     <div class="product-infor-grundpreis text-caption cl-text-main">{{ $product->formatted_grundpreis }}</div>
                                 @endif
+                                <div class="text-caption cl-text-main">Preis in CHF inkl. {{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} % MWST</div>
                                 <div class="tf-product-shipping cl-text-main">
                                     Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.
                                     <a href="{{ route('pages.versand') }}" class="text-decoration-underline link">Versandbedingungen</a>

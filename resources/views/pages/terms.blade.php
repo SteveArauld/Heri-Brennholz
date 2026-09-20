@@ -6,7 +6,7 @@
     @include('partials.page-title', ['pageTitle' => 'Allgemeine Geschäftsbedingungen', 'titleImageSlug' => 'banner-wide-1'])
     <section class="flat-spacing-9">
         <div class="container" style="max-width:820px;">
-            <p class="text-caption">Stand: {{ now()->format('d.m.Y') }}</p>
+            <p class="text-caption">Stand: 20.09.2026</p>
 
             <h5>1. Geltungsbereich und Anbieter</h5>
             <p>Diese Allgemeinen Geschäftsbedingungen (AGB) regeln den Verkauf von Holzbrennstoffen (Brennholz, Kaminholz, Holzpellets, Holzbriketts) über die Website von:</p>
@@ -23,7 +23,7 @@
             <p>Die Darstellung der Produkte im Shop stellt kein bindendes Angebot dar, sondern eine Aufforderung zur Bestellung. Mit dem Absenden der Bestellung geben Sie ein verbindliches Angebot zum Kauf ab. Der Vertrag kommt mit unserer Bestellbestätigung per E-Mail zustande.</p>
 
             <h5>3. Preise und Zahlung</h5>
-            <p>Alle angegebenen Preise verstehen sich als Endpreise inklusive der jeweils geltenden gesetzlichen Abgaben. Die im Bestellprozess verfügbaren Zahlungsarten werden Ihnen vor Abschluss der Bestellung angezeigt.</p>
+            <p>Alle Preise verstehen sich in Schweizer Franken (CHF) als Endpreise inklusive der gesetzlichen Schweizer Mehrwertsteuer (MWST, Normalsatz {{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} %). Die Lieferung ist kostenlos. Zahlungsarten: {{ payment_methods_text() }}. Die Zahlungsdetails bzw. die Rechnung erhalten Sie nach Bestelleingang per E-Mail. Bei Vorkasse erfolgt der Versand nach Zahlungseingang.</p>
 
             <h5>4. Lieferung</h5>
             <p>Wir liefern ausschliesslich innerhalb der Schweiz. Details finden Sie auf unserer <a href="/versand">Versandseite</a>.</p>
@@ -37,7 +37,7 @@
             <p>Nach Schweizer Recht besteht für online abgeschlossene Kaufverträge kein gesetzliches Widerrufsrecht. Wir räumen unseren Kundinnen und Kunden dennoch freiwillig ein 14-tägiges Rückgaberecht ein. Details dazu finden Sie auf unserer <a href="/rueckgabe">Rückgabeseite</a>. Bei Reklamationen zur Produktqualität kontaktieren Sie uns bitte umgehend, wir finden gemeinsam eine Lösung.</p>
 
             <h5>6. Gewährleistung</h5>
-            <p>Es gelten die gesetzlichen Gewährleistungsrechte für Mängel der gelieferten Ware. Bitte prüfen Sie die Ware bei Erhalt und melden Sie erkennbare Mängel oder Transportschäden umgehend.</p>
+            <p>Es gelten die gesetzlichen Gewährleistungsrechte nach Schweizer Obligationenrecht (Art. 197 ff. OR). Bitte prüfen Sie die Ware bei Erhalt und melden Sie Mängel oder Transportschäden umgehend, mit Fotos, per E-Mail an kontakt@heribrennholzgmbh.com oder telefonisch unter +41 77 811 28 93.</p>
 
             <h5>7. Eigentumsvorbehalt</h5>
             <p>Die gelieferte Ware bleibt bis zur vollständigen Bezahlung Eigentum der Heri Brennholz GmbH.</p>

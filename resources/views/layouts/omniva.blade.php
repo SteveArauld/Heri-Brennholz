@@ -454,11 +454,10 @@
                                                 <i class="icon icon-ArrowRight" aria-hidden="true"></i>
                                             </button>
                                         </fieldset>
+                                        <label class="text-caption d-flex gap-2 text-start mt-2"><input type="checkbox" name="newsletter_consent" value="1" required> <span>Ich möchte Angebote per E-Mail erhalten und habe die <a href="/datenschutz" class="text-decoration-underline">Datenschutzerklärung</a> gelesen. Abmeldung jederzeit per E-Mail an kontakt@heribrennholzgmbh.com.</span></label>
                                     </form>
                                     <p>
-                                        Mit der Eingabe Ihrer E-Mail-Adresse akzeptieren Sie die
-                                        <a href="/agb" class="cl-text-main text-decoration-underline d-inline-block">AGB</a>
-                                        und die
+                                        Weitere Informationen finden Sie in unserer
                                         <a href="/datenschutz" class="cl-text-main text-decoration-underline d-inline-block">Datenschutzerklärung</a>.
                                     </p>
                                 </div>
@@ -475,7 +474,7 @@
                             © {{ date('Y') }} Heri Brennholz GmbH. Alle Rechte vorbehalten.
                         </div>
                         <div class="text-caption cl-text-main">
-                            Zahlung nach Absprache – Rechnung oder Vorkasse
+                            Preise in CHF inkl. {{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} % MWST · Zahlungsarten: {{ payment_methods_text() }}
                         </div>
                     </div>
                 </div>

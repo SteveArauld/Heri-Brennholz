@@ -46,7 +46,7 @@
                 @csrf
                 <input type="hidden" name="product_id" value="{{ $product->id }}">
                 <button type="submit" class="btn-action_choose text-caption" {{ $product->in_stock ? '' : 'disabled' }}>
-                    {{ $product->in_stock ? 'In den Warenkorb' : 'Indisponible' }}
+                    {{ $product->in_stock ? 'In den Warenkorb' : 'Nicht verfügbar' }}
                 </button>
             </form>
         </div>

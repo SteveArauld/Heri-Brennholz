@@ -91,6 +91,8 @@
                             <div class="row-line"><span>Zwischensumme</span><span id="sumSubtotal">{{ swiss_money($cart->subtotal()) }}</span></div>
                             <div class="row-line"><span>Versand</span><span id="sumShipping">{{ $cart->shipping() > 0 ? swiss_money($cart->shipping()) : 'Kostenlos' }}</span></div>
                             <div class="row-total"><span>Gesamt</span><span id="sumTotal">{{ swiss_money($cart->total()) }}</span></div>
+                            <p class="hint">Alle Preise inkl. {{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} % MWST.</p>
+                            <p class="hint">Zahlungsarten: {{ payment_methods_text() }}.</p>
                             <p class="hint" id="shipHint"></p>
                             <a href="{{ route('checkout.index') }}" class="tf-btn btn-fill animate-btn w-100 mt-3"><span>Zur Kasse</span></a>
                         </div>

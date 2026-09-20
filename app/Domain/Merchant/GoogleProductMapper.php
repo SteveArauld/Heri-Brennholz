@@ -85,6 +85,11 @@ class GoogleProductMapper
             return false;
         }
 
+        $excluded = array_map('mb_strtolower', (array) config('feed.excluded_brands', []));
+        if ($excluded !== [] && in_array(mb_strtolower($this->resolveBrand($product)), $excluded, true)) {
+            return false;
+        }
+
         $type = strtolower((string) $product->type);
 
         if (in_array($type, ['digital', 'service', 'voucher', 'gift_card'], true)) {

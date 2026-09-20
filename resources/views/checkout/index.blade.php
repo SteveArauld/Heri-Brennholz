@@ -31,6 +31,16 @@
                         </div>
                         <div class="col-12"><textarea class="form-control" name="notes" rows="3" placeholder="Anmerkungen (optional)">{{ old('notes') }}</textarea></div>
                     </div>
+                    <h6 class="mt-4 mb-3">Zahlungsart</h6>
+                    <div class="d-flex flex-column gap-2">
+                        @foreach (payment_methods() as $key => $label)
+                            <label class="d-flex align-items-center gap-2">
+                                <input type="radio" name="payment_method" value="{{ $key }}" {{ old('payment_method', array_key_first(payment_methods())) === $key ? 'checked' : '' }} required>
+                                <span>{{ $label }}</span>
+                            </label>
+                        @endforeach
+                        <p class="text-caption opacity-75 mb-0">Nach Bestelleingang erhalten Sie die Zahlungsdetails bzw. die Rechnung per E-Mail.</p>
+                    </div>
                 </div>
                 <div class="col-lg-5">
                     <div style="border:1px solid #ece7e1;border-radius:12px;padding:24px;">
@@ -45,8 +55,9 @@
                         <div class="d-flex justify-content-between mb-2"><span>Zwischensumme</span><span>{{ swiss_money($cart->subtotal()) }}</span></div>
                         <div class="d-flex justify-content-between mb-2"><span>Versand</span><span>{{ $cart->shipping() > 0 ? swiss_money($cart->shipping()) : 'Kostenlos' }}</span></div>
                         <div class="d-flex justify-content-between fw-semibold h6"><span>Gesamt</span><span>{{ swiss_money($cart->total()) }}</span></div>
+                        <div class="d-flex justify-content-between text-caption opacity-75"><span>Darin enthaltene MWST ({{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} %)</span><span>{{ swiss_money(vat_included($cart->total())) }}</span></div>
                         <button type="submit" class="tf-btn btn-fill animate-btn w-100 mt-3"><span>Bestellung bestätigen</span></button>
-                        <p class="text-caption mt-2 opacity-75">Zahlung bei Lieferung / per Rechnung (Demo).</p>
+                        <p class="text-caption mt-2 opacity-75">Alle Preise in CHF, inklusive gesetzlicher Mehrwertsteuer.</p>
                     </div>
                 </div>
             </form>

@@ -6,7 +6,7 @@
     @include('partials.page-title', ['pageTitle' => 'Datenschutzerklärung', 'titleImageSlug' => 'banner-wide-1'])
     <section class="flat-spacing-9">
         <div class="container" style="max-width:820px;">
-            <p class="text-caption">Stand: {{ now()->format('d.m.Y') }}</p>
+            <p class="text-caption">Stand: 20.09.2026</p>
 
             <h5>1. Verantwortliche Stelle</h5>
             <p>
@@ -36,7 +36,7 @@
             <p>Bestelldaten werden für die gesetzlich vorgeschriebene Dauer im Rahmen unserer Buchhaltungs- und Steuerpflichten aufbewahrt und danach gelöscht, sofern keine weitere gesetzliche Aufbewahrungspflicht besteht.</p>
 
             <h5>6. Cookies</h5>
-            <p>Unsere Website verwendet technisch notwendige Cookies, um grundlegende Funktionen wie den Warenkorb bereitzustellen. Weitere Cookies werden nur mit Ihrer Einwilligung gesetzt.</p>
+            <p>Unsere Website verwendet technisch notwendige Cookies (Sitzungs-Cookie für Warenkorb und Bestellung, Sicherheits-Cookie gegen Formularmissbrauch), die mit dem Schliessen des Browsers bzw. nach Ablauf der Sitzung enden. Wir setzen keine Werbe- oder Tracking-Cookies ein. Weitere Cookies werden nur mit Ihrer Einwilligung gesetzt.</p>
 
             <h5>7. Ihre Rechte</h5>
             <p>Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie, soweit anwendbar, auf Datenübertragbarkeit und Widerspruch. Wenden Sie sich dazu an <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a>. Sie haben zudem das Recht, sich beim Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) zu beschweren.</p>

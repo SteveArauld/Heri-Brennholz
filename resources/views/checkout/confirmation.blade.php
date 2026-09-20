@@ -24,6 +24,10 @@
                         <tr><td>Zwischensumme</td><td class="text-end">{{ swiss_money((float) $order->subtotal) }}</td></tr>
                         <tr><td>Versand</td><td class="text-end">{{ $order->shipping > 0 ? swiss_money((float) $order->shipping) : 'Kostenlos' }}</td></tr>
                         <tr class="fw-semibold"><td>Gesamtbetrag</td><td class="text-end">{{ swiss_money((float) $order->total) }}</td></tr>
+                        <tr class="text-caption"><td>Darin enthaltene MWST ({{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} %)</td><td class="text-end">{{ swiss_money(vat_included($order->total)) }}</td></tr>
+                        @if ($order->payment_method)
+                            <tr class="text-caption"><td>Zahlungsart</td><td class="text-end">{{ config('shop.payment_methods.'.$order->payment_method.'.label', $order->payment_method) }}</td></tr>
+                        @endif
                     </tbody>
                 </table>
                 <p class="mb-1"><strong>Lieferadresse:</strong> {{ $order->first_name }} {{ $order->last_name }}, {{ $order->address }}@if($order->address_2), {{ $order->address_2 }}@endif, {{ $order->postcode }} {{ $order->city }}, {{ $order->country }}</p>

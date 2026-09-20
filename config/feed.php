@@ -7,7 +7,14 @@ return [
     'known_brands' => [
         'Invicta', 'La Nordica', 'FreePoint', 'Sannover', 'Pellini', 'OLIMP', 'LAVA',
         'Ardenforest', 'BADGER', 'PIKS', 'HS Timber', 'Starforest', 'Arapellet',
+        'Heizfuxx', 'MAGIC POLAR', 'Rochefort', 'ANVIL', 'Limouzi', 'Naturkraft', 'Dragon', 'HELIOS',
+        'Crépito', 'Piveteau', 'Woodstock', 'TotalEnergies', 'SunFire', 'VALBOVAL', 'HOYER', 'EPH',
+        'Westerwälder', 'Godin', 'MCZ', 'Austroflamm', 'Interstoves',
     ],
+
+    // Marken, die nicht im Google-Feed erscheinen sollen (z. B. in der Schweiz nicht lieferbar).
+    // Beispiel: ['Piveteau', 'Limouzi']. Leer = alle Marken im Feed.
+    'excluded_brands' => array_filter(array_map('trim', explode(',', (string) env('FEED_EXCLUDED_BRANDS', '')))),
 
     'currency' => env('MERCHANT_CURRENCY', env('FEED_CURRENCY', 'CHF')),
 
