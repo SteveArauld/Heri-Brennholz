@@ -36,6 +36,13 @@ class CheckoutController extends Controller
             return redirect()->route('cart.index')->with('status', 'Ihr Warenkorb ist leer.');
         }
 
+        // Das Land ist fest (nur Schweiz) und die Zahlungsart hat einen Standardwert:
+        // beides darf nie an einem fehlenden Feld (z. B. Browser-Übersetzung/Autofill) scheitern.
+        $request->merge([
+            'country' => 'Schweiz',
+            'payment_method' => $request->input('payment_method') ?: array_key_first(payment_methods()),
+        ]);
+
         $data = $request->validate([
             'first_name' => ['required', 'string', 'max:100'],
             'last_name' => ['required', 'string', 'max:100'],
