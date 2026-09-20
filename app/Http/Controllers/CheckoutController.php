@@ -11,7 +11,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Str;
-use Illuminate\Validation\Rule;
 
 class CheckoutController extends Controller
 {
@@ -36,26 +35,16 @@ class CheckoutController extends Controller
             return redirect()->route('cart.index')->with('status', 'Ihr Warenkorb ist leer.');
         }
 
-        // Das Land ist fest (nur Schweiz) und die Zahlungsart hat einen Standardwert:
-        // beides darf nie an einem fehlenden Feld (z. B. Browser-Übersetzung/Autofill) scheitern.
-        $request->merge([
-            'country' => 'Schweiz',
-            'payment_method' => $request->input('payment_method') ?: array_key_first(payment_methods()),
-        ]);
-
-        $data = $request->validate([
-            'first_name' => ['required', 'string', 'max:100'],
-            'last_name' => ['required', 'string', 'max:100'],
-            'email' => ['required', 'email', 'max:150'],
-            'phone' => ['nullable', 'string', 'max:40'],
-            'address' => ['required', 'string', 'max:200'],
-            'address_2' => ['nullable', 'string', 'max:200'],
-            'city' => ['required', 'string', 'max:120'],
-            'postcode' => ['required', 'string', 'regex:/^\d{4}$/'],
-            'country' => ['required', 'string', Rule::in(['Schweiz'])],
-            'notes' => ['nullable', 'string', 'max:1000'],
-            'payment_method' => ['required', Rule::in(array_keys(payment_methods()))],
-        ]);
+        // Keine Validierung: Felder werden unverändert übernommen, fehlende Pflichtfelder der DB als leer gespeichert.
+        $data = [];
+        foreach (['first_name', 'last_name', 'email', 'address', 'city', 'postcode'] as $field) {
+            $data[$field] = (string) $request->input($field, '');
+        }
+        foreach (['phone', 'address_2', 'notes'] as $field) {
+            $data[$field] = $request->input($field);
+        }
+        $data['country'] = 'Schweiz';
+        $data['payment_method'] = $request->input('payment_method') ?: array_key_first(payment_methods());
 
         $order = Order::create([
             ...$data,

@@ -7,24 +7,19 @@
 
     <section class="flat-spacing-9">
         <div class="container">
-            @if ($errors->any())
-                <div class="alert alert-danger">
-                    <ul class="mb-0">@foreach ($errors->all() as $e)<li>{{ $e }}</li>@endforeach</ul>
-                </div>
-            @endif
             <form action="{{ route('checkout.store') }}" method="POST" class="row">
                 @csrf
                 <div class="col-lg-7">
                     <h6 class="mb-3">Kontakt- &amp; Lieferdaten</h6>
                     <div class="row g-3">
-                        <div class="col-md-6"><input class="form-control" name="first_name" placeholder="Vorname *" value="{{ old('first_name') }}" required></div>
-                        <div class="col-md-6"><input class="form-control" name="last_name" placeholder="Nachname *" value="{{ old('last_name') }}" required></div>
-                        <div class="col-md-6"><input class="form-control" type="email" name="email" placeholder="E-Mail *" value="{{ old('email') }}" required></div>
+                        <div class="col-md-6"><input class="form-control" name="first_name" placeholder="Vorname *" value="{{ old('first_name') }}"></div>
+                        <div class="col-md-6"><input class="form-control" name="last_name" placeholder="Nachname *" value="{{ old('last_name') }}"></div>
+                        <div class="col-md-6"><input class="form-control" type="email" name="email" placeholder="E-Mail *" value="{{ old('email') }}"></div>
                         <div class="col-md-6"><input class="form-control" name="phone" placeholder="Telefon" value="{{ old('phone') }}"></div>
-                        <div class="col-12"><input class="form-control" name="address" placeholder="Adresse *" value="{{ old('address') }}" required></div>
+                        <div class="col-12"><input class="form-control" name="address" placeholder="Adresse *" value="{{ old('address') }}"></div>
                         <div class="col-12"><input class="form-control" name="address_2" placeholder="Adresszusatz" value="{{ old('address_2') }}"></div>
-                        <div class="col-md-4"><input class="form-control" name="postcode" placeholder="PLZ *" pattern="\d{4}" maxlength="4" value="{{ old('postcode') }}" required></div>
-                        <div class="col-md-4"><input class="form-control" name="city" placeholder="Stadt *" value="{{ old('city') }}" required></div>
+                        <div class="col-md-4"><input class="form-control" name="postcode" placeholder="PLZ *" maxlength="4" value="{{ old('postcode') }}"></div>
+                        <div class="col-md-4"><input class="form-control" name="city" placeholder="Stadt *" value="{{ old('city') }}"></div>
                         <div class="col-md-4">
                             <input type="hidden" name="country" value="Schweiz">
                             <input class="form-control" value="Schweiz" disabled>
@@ -35,7 +30,7 @@
                     <div class="d-flex flex-column gap-2">
                         @foreach (payment_methods() as $key => $label)
                             <label class="d-flex align-items-center gap-2">
-                                <input type="radio" name="payment_method" value="{{ $key }}" {{ old('payment_method', array_key_first(payment_methods())) === $key ? 'checked' : '' }} required>
+                                <input type="radio" name="payment_method" value="{{ $key }}" {{ old('payment_method', array_key_first(payment_methods())) === $key ? 'checked' : '' }}>
                                 <span>{{ $label }}</span>
                             </label>
                         @endforeach
