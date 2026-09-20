@@ -29,7 +29,7 @@
             <h5>Kontakt</h5>
             <p>
                 E-Mail: <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a><br>
-                Telefon: <a href="tel:+41778112893">+41 77 811 28 93</a>
+                Telefon: <a href="tel:+41786099516">+41 78 609 95 16</a>
             </p>
 
             <h5>Unternehmensgegenstand</h5>

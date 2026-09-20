@@ -17,7 +17,7 @@
             <p>Bei Lieferverzögerungen, etwa durch Wetter, Verkehr oder Verfügbarkeit, informieren wir Sie so schnell wie möglich.</p>
 
             <h5>Fragen</h5>
-            <p>Bei Fragen zu Ihrer Lieferung erreichen Sie uns über unsere <a href="{{ route('pages.contact') }}">Kontaktseite</a> oder telefonisch unter <a href="tel:+41778112893">+41 77 811 28 93</a>.</p>
+            <p>Bei Fragen zu Ihrer Lieferung erreichen Sie uns über unsere <a href="{{ route('pages.contact') }}">Kontaktseite</a> oder telefonisch unter <a href="tel:+41786099516">+41 78 609 95 16</a>.</p>
         </div>
     </section>
 @endsection

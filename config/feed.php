@@ -70,7 +70,7 @@ return [
         'postal_code' => '4562',
         'city' => 'Biberist',
         'country' => 'CH',
-        'phone' => '+41 77 811 28 93',
+        'phone' => '+41 78 609 95 16',
         'email' => 'kontakt@heribrennholzgmbh.com',
         'uid' => 'CHE-228.719.493',
         'hr' => 'CH-241.4.020.905-9',

@@ -37,7 +37,7 @@
             <p>Nach Schweizer Recht besteht für online abgeschlossene Kaufverträge kein gesetzliches Widerrufsrecht. Wir räumen unseren Kundinnen und Kunden dennoch freiwillig ein 14-tägiges Rückgaberecht ein. Details dazu finden Sie auf unserer <a href="/rueckgabe">Rückgabeseite</a>. Bei Reklamationen zur Produktqualität kontaktieren Sie uns bitte umgehend, wir finden gemeinsam eine Lösung.</p>
 
             <h5>6. Gewährleistung</h5>
-            <p>Es gelten die gesetzlichen Gewährleistungsrechte nach Schweizer Obligationenrecht (Art. 197 ff. OR). Bitte prüfen Sie die Ware bei Erhalt und melden Sie Mängel oder Transportschäden umgehend, mit Fotos, per E-Mail an kontakt@heribrennholzgmbh.com oder telefonisch unter +41 77 811 28 93.</p>
+            <p>Es gelten die gesetzlichen Gewährleistungsrechte nach Schweizer Obligationenrecht (Art. 197 ff. OR). Bitte prüfen Sie die Ware bei Erhalt und melden Sie Mängel oder Transportschäden umgehend, mit Fotos, per E-Mail an kontakt@heribrennholzgmbh.com oder telefonisch unter +41 78 609 95 16.</p>
 
             <h5>7. Eigentumsvorbehalt</h5>
             <p>Die gelieferte Ware bleibt bis zur vollständigen Bezahlung Eigentum der Heri Brennholz GmbH.</p>

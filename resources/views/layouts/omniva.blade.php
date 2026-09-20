@@ -344,9 +344,9 @@
                                     <span class="ic-w">
                                         <i class="icon icon-Phone"></i>
                                     </span>
-                                    <a href="tel:+41778112893"
+                                    <a href="tel:+41786099516"
                                         class="text-caption fw-medium link-underline link-black">
-                                        +41 77 811 28 93
+                                        +41 78 609 95 16
                                     </a>
                                 </li>
                                 <li class="infor-contact_item">
@@ -522,8 +522,8 @@
                         <a href="mailto:kontakt@heribrennholzgmbh.com" class="d-block text-caption">
                             E-Mail: <span class="fw-medium">kontakt@heribrennholzgmbh.com</span>
                         </a>
-                        <a href="tel:+41778112893" class="d-block text-caption">
-                            Telefon: <span class="fw-medium">+41 77 811 28 93</span>
+                        <a href="tel:+41786099516" class="d-block text-caption">
+                            Telefon: <span class="fw-medium">+41 78 609 95 16</span>
                         </a>
                     </div>
                 </div>
