@@ -38,6 +38,38 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
+                    <div class="d-flex flex-wrap gap-4 mb-4">
+                        <div class="d-flex align-items-center gap-3" style="flex:1 1 160px;">
+                            <span class="d-inline-flex align-items-center justify-content-center flex-shrink-0" style="width:64px;height:64px;border-radius:50%;border:2px solid #3cb54a;">
+                                <svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true">
+                                    <path d="M8.5 12.8L6 21l6-3 6 3-2.5-8.2" fill="#1c1c1c"/>
+                                    <circle cx="12" cy="7.5" r="6" fill="#1c1c1c"/>
+                                    <path d="M9.3 7.6l1.7 1.7 3.4-3.6" stroke="#fff" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                                </svg>
+                            </span>
+                            <span><strong class="d-block" style="color:#3cb54a;font-style:italic;font-size:19px;">Qualität</strong><span style="color:#1c1c1c;font-size:14px;line-height:1.3;">Pellets von hoher Qualität<br>DIN Plus / EN Plus</span></span>
+                        </div>
+                        <div class="d-flex align-items-center gap-3" style="flex:1 1 160px;">
+                            <span class="d-inline-flex align-items-center justify-content-center flex-shrink-0" style="width:64px;height:64px;border-radius:50%;border:2px solid #3cb54a;">
+                                <svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true">
+                                    <circle cx="12" cy="12" r="10" fill="#1c1c1c"/>
+                                    <text x="12" y="16.5" font-size="13" font-family="Arial, sans-serif" font-weight="700" fill="#fff" text-anchor="middle">&#8364;</text>
+                                </svg>
+                            </span>
+                            <span><strong class="d-block" style="color:#3cb54a;font-style:italic;font-size:19px;">Ersparnis</strong><span style="color:#1c1c1c;font-size:14px;line-height:1.3;">Die besten Angebote<br>für jede Bestellung</span></span>
+                        </div>
+                        <div class="d-flex align-items-center gap-3" style="flex:1 1 160px;">
+                            <span class="d-inline-flex align-items-center justify-content-center flex-shrink-0" style="width:64px;height:64px;border-radius:50%;border:2px solid #3cb54a;">
+                                <svg viewBox="0 0 24 24" width="34" height="34" aria-hidden="true">
+                                    <path d="M1 6.5h12v9H1z" fill="#1c1c1c"/>
+                                    <path d="M13 10.5h3.6l3.4 3v2h-7z" fill="#1c1c1c"/>
+                                    <circle cx="6" cy="18" r="1.8" fill="#fff" stroke="#1c1c1c" stroke-width="1.6"/>
+                                    <circle cx="17.5" cy="18" r="1.8" fill="#fff" stroke="#1c1c1c" stroke-width="1.6"/>
+                                </svg>
+                            </span>
+                            <span><strong class="d-block" style="color:#3cb54a;font-style:italic;font-size:19px;">Lieferung Schweiz</strong><span style="color:#1c1c1c;font-size:14px;line-height:1.3;">Schnelle &amp; sichere Lieferung<br>in der ganzen Schweiz</span></span>
+                        </div>
+                    </div>
                     <div style="border:1px solid #ece7e1;border-radius:12px;padding:24px;">
                         <h6 class="mb-3">Ihre Bestellung</h6>
                         @foreach ($items as $item)
