@@ -22,13 +22,13 @@ return [
 
     'shipping_countries' => ['CH'],
 
-    'shipping_service' => 'Standardversand (1–2 Werktage)',
+    'shipping_service' => 'Standardversand (2–5 Werktage)',
 
     'shipping_price' => (float) env('MERCHANT_SHIPPING_PRICE', 0),
 
-    'shipping_min_days' => (int) env('MERCHANT_SHIPPING_MIN_DAYS', 1),
+    'shipping_min_days' => (int) env('MERCHANT_SHIPPING_MIN_DAYS', 2),
 
-    'shipping_max_days' => (int) env('MERCHANT_SHIPPING_MAX_DAYS', 2),
+    'shipping_max_days' => (int) env('MERCHANT_SHIPPING_MAX_DAYS', 5),
 
     'google_product_category' => env('FEED_GOOGLE_CATEGORY', '6229'),
 
@@ -48,9 +48,9 @@ return [
     'target_country' => env('MERCHANT_TARGET_COUNTRY', env('FEED_TARGET_COUNTRY', 'CH')),
 
     'shipping_handling_time_min' => (int) env('FEED_HANDLING_TIME_MIN', 1),
-    'shipping_handling_time_max' => (int) env('FEED_HANDLING_TIME_MAX', 1),
-    'shipping_transit_time_min' => (int) env('FEED_TRANSIT_TIME_MIN', 0),
-    'shipping_transit_time_max' => (int) env('FEED_TRANSIT_TIME_MAX', 1),
+    'shipping_handling_time_max' => (int) env('FEED_HANDLING_TIME_MAX', 2),
+    'shipping_transit_time_min' => (int) env('FEED_TRANSIT_TIME_MIN', 1),
+    'shipping_transit_time_max' => (int) env('FEED_TRANSIT_TIME_MAX', 3),
 
     'return_days' => (int) env('MERCHANT_RETURN_DAYS', 14),
 
@@ -61,7 +61,7 @@ return [
     'title' => env('FEED_TITLE', 'Heri Brennholz GmbH – Produktkatalog'),
     'description' => env(
         'FEED_DESCRIPTION',
-        'Brennholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.'
+        'Brennholz, Holzpellets und Holzbriketts. Kostenlose Lieferung in der Schweiz in 2 bis 5 Werktagen.'
     ),
 
     'company' => [

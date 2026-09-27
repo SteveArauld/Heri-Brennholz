@@ -17,7 +17,7 @@
                 </div>
                 <div class="col-lg-6">
                     <p class="lead">Die Heri Brennholz GmbH mit Sitz in Biberist (Kanton Solothurn) vertreibt Brennholz, Kaminholz, Holzpellets, Holzbriketts sowie Öfen. Ein Teil des Sortiments stammt von Partnerherstellern; die Herstellerangaben finden Sie bei den einzelnen Produkten.</p>
-                    <p>Wir liefern kostenlos in der ganzen Schweiz, in 1 bis 2 Werktagen.</p>
+                    <p>Wir liefern kostenlos in der ganzen Schweiz. Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage.</p>
                 </div>
             </div>
             <div class="row g-4">
@@ -25,7 +25,7 @@
                     <h5 class="mt-2">Unsere Zusagen</h5>
                     <ul>
                                                 <li>Kostenlose Lieferung in der ganzen Schweiz, ohne Mindestbestellwert.</li>
-                        <li>Lieferung in 1 bis 2 Werktagen.</li>
+                        <li>Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage (Versand: Montag bis Samstag).</li>
                         <li>Persönliche Beratung passend zu Ihrem Heizgerät (Ofen, Kamineinsatz, Heizkessel).</li>
                     </ul>
                 </div>

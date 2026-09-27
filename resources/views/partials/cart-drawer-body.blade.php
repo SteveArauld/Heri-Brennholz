@@ -32,7 +32,7 @@
             <span>Zwischensumme</span>
             <span>{{ swiss_money($cart->subtotal()) }}</span>
         </div>
-        <p class="boire-cart-note">Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.</p>
+        <p class="boire-cart-note">Kostenlose Lieferung in der Schweiz. Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage.</p>
         <div class="boire-cart-actions">
             <a href="{{ route('cart.index') }}" class="tf-btn btn-outline animate-btn"><span>Warenkorb ansehen</span></a>
             <a href="{{ route('checkout.index') }}" class="tf-btn btn-fill animate-btn"><span>Zur Kasse</span></a>

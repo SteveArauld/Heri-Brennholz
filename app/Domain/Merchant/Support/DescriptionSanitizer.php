@@ -27,8 +27,8 @@ class DescriptionSanitizer
             $text = preg_replace($pattern, $replacement, $text) ?? $text;
         }
 
-        $suffix = ' Kostenlose Lieferung innerhalb der Schweiz in 1 bis 2 Werktagen.';
-        if (! str_contains(mb_strtolower($text), '1 bis 2 werktag')) {
+        $suffix = ' Kostenlose Lieferung innerhalb der Schweiz in 2 bis 5 Werktagen.';
+        if (! str_contains(mb_strtolower($text), '2 bis 5 werktag')) {
             $text = trim($text).$suffix;
         }
 

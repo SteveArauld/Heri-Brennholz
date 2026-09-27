@@ -54,7 +54,7 @@
 </table>
 
 <p style="margin:24px 0 0;font-size:13px;line-height:1.6;color:#8a8178;">
-  Lieferung in 1 bis 2 Werktagen, kostenlos in der ganzen Schweiz.
+  Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage, kostenlos in der ganzen Schweiz.
   Bei Fragen antworten Sie einfach auf diese E-Mail oder nennen Sie uns Ihre Bestellnummer {{ $order->reference }}.
 </p>
 

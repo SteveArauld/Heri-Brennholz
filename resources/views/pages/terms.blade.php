@@ -28,7 +28,10 @@
             <h5>4. Lieferung</h5>
             <p>Wir liefern ausschliesslich innerhalb der Schweiz. Details finden Sie auf unserer <a href="/versand">Versandseite</a>.</p>
             <ul>
-                <li><strong>Lieferzeit:</strong> 1 bis 2 Werktage.</li>
+                <li><strong>Vorbereitungszeit:</strong> 1 bis 2 Werktage.</li>
+                <li><strong>Transportzeit:</strong> 1 bis 3 Werktage.</li>
+                <li><strong>Geschätzte Gesamtlieferzeit:</strong> 2 bis 5 Werktage.</li>
+                <li><strong>Versand:</strong> Montag bis Samstag.</li>
                 <li><strong>Versandkosten:</strong> Die Lieferung ist für alle Bestellungen in der Schweiz kostenlos, unabhängig vom Bestellwert.</li>
             </ul>
             <p>Bei Lieferverzögerungen, etwa durch Wetter, Verkehr oder Verfügbarkeit, informieren wir Sie so schnell wie möglich.</p>

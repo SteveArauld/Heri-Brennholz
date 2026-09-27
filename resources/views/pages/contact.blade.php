@@ -20,7 +20,7 @@
                         Tel.: <a href="tel:+41786099516">+41 78 609 95 16</a><br>
                         E-Mail: <a href="mailto:kontakt@heribrennholzgmbh.com">kontakt@heribrennholzgmbh.com</a></p>
                     <p class="text-caption">Montag bis Freitag, 8–18 Uhr.</p>
-                    <p class="text-caption">Kostenlose Lieferung in der ganzen Schweiz in 1 bis 2 Werktagen.</p>
+                    <p class="text-caption">Kostenlose Lieferung in der ganzen Schweiz. Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage.</p>
                 </div>
                 <div class="col-lg-7">
                     @if ($errors->any())

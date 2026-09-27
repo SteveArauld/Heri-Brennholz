@@ -79,7 +79,7 @@
                                 @endif
                                 <div class="text-caption cl-text-main">Preis in CHF inkl. {{ rtrim(rtrim(number_format(config('shop.vat_rate'), 1), '0'), '.') }} % MWST</div>
                                 <div class="tf-product-shipping cl-text-main">
-                                    Kostenlose Lieferung in der Schweiz in 1 bis 2 Werktagen.
+                                    Kostenlose Lieferung in der Schweiz. Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage.
                                     <a href="{{ route('pages.versand') }}" class="text-decoration-underline link">Versandbedingungen</a>
                                 </div>
                                 <p class="mb-0">
@@ -152,7 +152,7 @@
                                 <div class="product-delivery">
                                     <i class="icon icon-Truck cl-text-main"></i>
                                     <p class="text-caption">Voraussichtliche Lieferzeit:
-                                        <span class="cl-text-main fw-medium">1 bis 2 Werktage</span>
+                                        <span class="cl-text-main fw-medium">2 bis 5 Werktage</span>
                                     </p>
                                 </div>
                                 <span class="br-line type-vertical"></span>
@@ -206,7 +206,10 @@
                                     <div id="faq-ship" class="collapse" data-bs-parent="#prdDes">
                                         <div class="accordion-content d-grid gap-14">
                                             <ul class="list text-caption">
-                                                <li><span class="br-dot"></span> Lieferung in 1 bis 2 Werktagen innerhalb der Schweiz.</li>
+                                                <li><span class="br-dot"></span> Vorbereitungszeit: 1 bis 2 Werktage.</li>
+                                                <li><span class="br-dot"></span> Transportzeit: 1 bis 3 Werktage.</li>
+                                                <li><span class="br-dot"></span> Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage.</li>
+                                                <li><span class="br-dot"></span> Versand: Montag bis Samstag.</li>
                                                 <li><span class="br-dot"></span> Kostenlose Lieferung in der ganzen Schweiz – ohne Mindestbestellwert.</li>
                                                 <li><span class="br-dot"></span> 14 Tage freiwilliges Rückgaberecht (siehe <a href="/rueckgabe">Rückgabe</a>).</li>
                                             </ul>

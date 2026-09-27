@@ -8,7 +8,7 @@
         <div class="container" style="max-width:820px;">
             @php
                 $faqs = [
-                    ['Wie lange dauert die Lieferung?', 'Wir liefern kostenlos innerhalb der Schweiz in 1 bis 2 Werktagen.'],
+                    ['Wie lange dauert die Lieferung?', 'Wir liefern kostenlos innerhalb der Schweiz. Vorbereitungszeit: 1 bis 2 Werktage, Transportzeit: 1 bis 3 Werktage – geschätzte Gesamtlieferzeit: 2 bis 5 Werktage. Versand: Montag bis Samstag.'],
                     ['Ist die Lieferung kostenlos?', 'Ja. Wir liefern kostenlos in der ganzen Schweiz, unabhängig vom Bestellwert.'],
                     ['Liefert Heri Brennholz auch ins Ausland?', 'Nein. Wir liefern ausschliesslich innerhalb der Schweiz.'],
                     ['Sind Ihre Produkte zertifiziert?', 'Zertifizierungen und Herstellerangaben (z. B. Norm, Herkunft) sind bei den jeweiligen Produkten aufgeführt. Bei Fragen zu einem Produkt kontaktieren Sie uns bitte.'],

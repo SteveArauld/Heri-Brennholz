@@ -13,7 +13,13 @@
             <p>Die Lieferung ist für alle Bestellungen in der Schweiz kostenlos – ohne Mindestbestellwert.</p>
 
             <h5>Lieferzeit</h5>
-            <p>Die gesamte Lieferzeit beträgt <strong>1 bis 2 Werktage</strong> nach Bestelleingang (Bearbeitung und Transport zusammen).</p>
+            <p><strong>Vorbereitungszeit: 1 bis 2 Werktage</strong><br>
+            Diese Zeit entspricht der Dauer, die für die Vorbereitung und Verpackung der Bestellung benötigt wird, bevor sie dem Transporteur übergeben wird.</p>
+            <p><strong>Transportzeit: 1 bis 3 Werktage</strong><br>
+            Diese Zeit entspricht der Dauer, die der Transporteur benötigt, um die Bestellung nach dem Versand bis zum Kunden zu befördern.</p>
+            <p><strong>Geschätzte Gesamtlieferzeit: 2 bis 5 Werktage</strong><br>
+            Die Gesamtlieferzeit entspricht der Vorbereitungszeit der Bestellung zuzüglich der Transportzeit des Spediteurs.</p>
+            <p><strong>Versand: Montag bis Samstag</strong></p>
             <p>Bei Lieferverzögerungen, etwa durch Wetter, Verkehr oder Verfügbarkeit, informieren wir Sie so schnell wie möglich.</p>
 
             <h5>Fragen</h5>
