@@ -12,8 +12,7 @@ class ShopSeeder extends Seeder
 {
     public function run(): void
     {
-        # Add pellets-hogar import after existing catalogue files.
-        $files = ['data/products.json', 'data/stoves.json', 'data/pellets-hogar.json'];
+        $files = ['data/products.json', 'data/stoves.json'];
         $catPosition = 0;
         $slugPos = 0;
         $variantGroups = []; // source_id => variant_group label (from JSON)
