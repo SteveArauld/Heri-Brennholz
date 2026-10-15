@@ -479,6 +479,48 @@
                     </div>
                 </div>
             </div>
+            <style>
+                .footer-payment-logos {
+                    
+    border-top: 1px solid rgba(0,0,0,0.08);
+    /* margin-top: 20px; */
+    text-align: right;
+}
+
+.footer-payment-logos img {
+    height: 34px;
+    width: auto;
+    max-width: 100%;
+    opacity: 0.85;
+    transition: opacity 0.2s ease;
+}
+
+.footer-payment-logos img:hover {
+    opacity: 1;
+}
+
+@media (max-width: 767px) {
+    .footer-payment-logos img {
+        height: 20px;
+    }
+}
+            </style>
+<div class="footer-payment-logos">
+    <div class="container">
+        <div class="footer-payment-logos_wrap">
+            <img src="{{ asset('assets/images/payment/visa.svg') }}" alt="Visa">
+            <img src="{{ asset('assets/images/payment/mastercard.svg') }}" alt="Mastercard">
+            <img src="{{ asset('assets/images/payment/paypal.svg') }}" alt="PayPal">
+            <img src="{{ asset('assets/images/payment/klarna.svg') }}" alt="Klarna">
+            <img src="{{ asset('assets/images/payment/sepa.svg') }}" alt="SEPA">
+            <img src="{{ asset('assets/images/payment/sepa-lastschrift.png') }}" alt="SEPA-Lastschrift">
+            <img src="{{ asset('assets/images/payment/giropay.png') }}" alt="Giropay">
+            <img src="{{ asset('assets/images/payment/rechnung.svg') }}" alt="Kauf auf Rechnung">
+            <img src="{{ asset('assets/images/payment/vorkasse.svg') }}" alt="Vorkasse">
+        </div>
+    </div>
+</div>v>
+</div>
         </footer>
     </main>
 
