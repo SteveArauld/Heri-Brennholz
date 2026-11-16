@@ -33,6 +33,12 @@
                 <p class="mb-1"><strong>Lieferadresse:</strong> {{ $order->first_name }} {{ $order->last_name }}, {{ $order->address }}@if($order->address_2), {{ $order->address_2 }}@endif, {{ $order->postcode }} {{ $order->city }}, {{ $order->country }}</p>
             </div>
 
+            @if ($order->payment_method === 'vorkasse')
+                @include('partials.bank-transfer-instructions', [
+                    'showAccount' => \App\Support\SiteTexts::text('bank.show_on_confirmation') === '1',
+                ])
+            @endif
+
             <div class="text-center mt-4">
                 <a href="{{ route('shop.index') }}" class="tf-btn btn-fill animate-btn"><span>Zurück zum Shop</span></a>
             </div>

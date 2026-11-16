@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\AdminContentController;
 use App\Http\Controllers\CartController;
 use App\Http\Controllers\CheckoutController;
 use App\Http\Controllers\FeedController;
@@ -7,7 +8,6 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\PageController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\ShopController;
-
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
@@ -61,3 +61,14 @@ Route::get('/feeds/google-merchant-ch.tsv', [FeedController::class, 'tsv'])->nam
 
 Route::redirect('/feed/google-merchant.xml', '/feeds/google-merchant-ch.xml', 301);
 Route::redirect('/feed/google-merchant.xml/download', '/feeds/google-merchant-ch.xml/download', 301);
+
+Route::prefix('admin')->name('admin.')->group(function () {
+    Route::get('login', [AdminContentController::class, 'showLogin'])->name('login');
+    Route::post('login', [AdminContentController::class, 'login'])->middleware('throttle:5,1')->name('login.submit');
+    Route::middleware('admin')->group(function () {
+        Route::get('/', [AdminContentController::class, 'edit'])->name('edit');
+        Route::post('/', [AdminContentController::class, 'update'])->name('update');
+        Route::delete('rib', [AdminContentController::class, 'destroyBankDetails'])->name('bank.destroy');
+        Route::post('logout', [AdminContentController::class, 'logout'])->name('logout');
+    });
+});

@@ -20,6 +20,23 @@
 <h2 style="margin:0 0 4px;font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:#8a8178;">Bestellübersicht</h2>
 @include('emails.orders._summary')
 
+@if ($order->payment_method === 'vorkasse')
+<h2 style="margin:24px 0 6px;font-size:15px;text-transform:uppercase;letter-spacing:.04em;color:#8a8178;">Vorkasse (Banküberweisung)</h2>
+<div style="font-size:14px;line-height:1.6;">{!! \App\Support\SiteTexts::html('bank.message_html') !!}</div>
+@if (\App\Support\SiteTexts::hasBankDetails())
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#faf7f2;border:1px solid #ece5da;border-radius:8px;">
+  <tr>
+    <td style="padding:12px 16px;font-size:14px;line-height:1.7;">
+      @foreach (['bank.holder' => 'Name', 'bank.iban' => 'IBAN', 'bank.bic' => 'BIC', 'bank.transfer_type' => 'Überweisungsart'] as $key => $label)
+        @if (trim(\App\Support\SiteTexts::text($key)) !== '')<strong>{{ $label }}:</strong> {{ \App\Support\SiteTexts::text($key) }}<br>@endif
+      @endforeach
+      <strong>Verwendungszweck:</strong> {{ $order->reference }}
+    </td>
+  </tr>
+</table>
+@endif
+@endif
+
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin-top:24px;">
   <tr>
     <td width="50%" valign="top" style="padding-right:12px;font-size:14px;line-height:1.6;">
